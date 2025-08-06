@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5defeba-0b3f-4b2d-9f59-f92dfd116d5e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/java/org/shizaadiv/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/java/org/shizaadiv/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/resources/alleOS.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/resources/alleOS_cleaned.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/resources/alleOS_labeled.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/resources/bærekraft.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/resources/kompendium.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/resources/oldies_generell.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/resources/questions_1&amp;2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/resources/questions_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/resources/questions_4&amp;5.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2oCoByuYzg15m7rJzO7lx5CGORC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.org.shizaadiv.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/shizaadiv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.org.shizaadiv.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MultipleChoiceMachine" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.shizaadiv.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.shizaadiv.Main" />
+      <module name="MultipleChoiceMachine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.shizaadiv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.shizaadiv.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5defeba-0b3f-4b2d-9f59-f92dfd116d5e" name="Changes" comment="" />
+      <created>1730049683195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730049683195</updated>
+      <workItem from="1730049685149" duration="839000" />
+      <workItem from="1730382789819" duration="4072000" />
+      <workItem from="1730706668071" duration="2140000" />
+      <workItem from="1730968615940" duration="4457000" />
+      <workItem from="1731058681604" duration="1218000" />
+      <workItem from="1731068698051" duration="246000" />
+      <workItem from="1731072675027" duration="5010000" />
+      <workItem from="1731163260956" duration="12632000" />
+      <workItem from="1731493291068" duration="8332000" />
+      <workItem from="1731591928082" duration="1896000" />
+      <workItem from="1731673912345" duration="5989000" />
+      <workItem from="1731856718308" duration="1507000" />
+      <workItem from="1731863370386" duration="432000" />
+      <workItem from="1732213978036" duration="984000" />
+      <workItem from="1732273199958" duration="1732000" />
+      <workItem from="1733486103982" duration="710000" />
+      <workItem from="1744714789306" duration="279000" />
+      <workItem from="1744729182990" duration="1846000" />
+      <workItem from="1744813339044" duration="1565000" />
+      <workItem from="1754416517723" duration="7550000" />
+      <workItem from="1754469981051" duration="319000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

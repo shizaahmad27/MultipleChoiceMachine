@@ -1,0 +1,2926 @@
+[
+  {
+    "questionText": "What best describes the main function of an operating system?",
+    "answers": [
+      {
+        "answerText": "A) Allow user programs to directly control the CPU",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Manage system resources and provide a set of services to user programs",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) Allow user programs to manage system resources directly",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Boot the system and hand over control of the keyboard and mouse to user programs",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following is a symptom of poor reliability in an operating system?",
+    "answers": [
+      {
+        "answerText": "A) A bug in a user program causes that program to crash.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) A fault in the system hardware causes unexpected behaviour.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) A temporary network outage delays the application of an operating system patch.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) A memory leak in one program causes other programs to stop responding.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Virtualisation in the context of an operating system is defined as:",
+    "answers": [
+      {
+        "answerText": "A) A set of common services offered to user programs.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) The base set of instructions common to all instruction set architectures.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Providing the illusion of resources that may not be physically present.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) Restricting user programs to executing only unprivileged instructions.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Application isolation is an important property of an operating system because:",
+    "answers": [
+      {
+        "answerText": "A) Limitations on physical memory necessitate limited communication between applications.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) An error in one application should not disrupt other applications.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) Communication between applications is risky and unnecessary.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Only one application can be executing instructions on the CPU at a given time.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "In which scenario is it unnecessary to run an operating system?",
+    "answers": [
+      {
+        "answerText": "A) A batch processing system.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) An embedded system with a specific task.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) A clustered computing infrastructure.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) A virtual machine running under a host operating system.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "The operating systems MacOS X and Android are related through which common ancestor?",
+    "answers": [
+      {
+        "answerText": "A) Windows NT",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) NEXT",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) BSD UNIX",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) UNIX",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "MS-DOS is an example of what kind of operating system?",
+    "answers": [
+      {
+        "answerText": "A) Time-sharing",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Non-multitasking",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) Multi-user",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Multitasking",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following is an open (non-proprietary) operating system?",
+    "answers": [
+      {
+        "answerText": "A) MacOS X",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Microsoft Windows",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Linux",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) MS-DOS",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Throughput is defined as:",
+    "answers": [
+      {
+        "answerText": "A) The rate at which the system completes tasks.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "B) The time it takes for a single task to run to completion, excluding the cost of overhead.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) The time it takes for a single task to run to completion.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) The total time spent on overhead during the running of tasks.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "The property of availability of an operating system can be improved by:",
+    "answers": [
+      {
+        "answerText": "A) Increasing the mean-time-to-repair.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Increasing the mean-time-to-failure or decreasing the mean-time-to-repair.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) Decreasing the mean-time-to-failure.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Decreasing the mean-time-to-failure and increasing the mean-time-to-repair.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following statements about first-in first-out (FIFO) scheduling is correct?",
+    "answers": [
+      {
+        "answerText": "A) Jobs are given access to the CPU in small time quantums and executed in circular order",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Jobs are executed until completion in the order they arrive",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) Jobs are executed until completion in order of increasing job length",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Jobs are executed in the order they arrive but are only given access to the CPU in small time quantums",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Increasing the length of the time quantum has which effect on round robin scheduling?",
+    "answers": [
+      {
+        "answerText": "A) Job length is increased",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Job length is decreased",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Overhead is increased",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Overhead is decreased",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Round robin scheduling of jobs of equal job length performs poorly under which metric?",
+    "answers": [
+      {
+        "answerText": "A) Throughput",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Average response time",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following scenarios is most analogous to multi-level feedback queue (MFQ) scheduling?",
+    "answers": [
+      {
+        "answerText": "A) Dentist waiting room",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Hospital emergency room",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Traffic intersection",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Supermarket checkout with express lanes (10 items or less)",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following scheduling algorithms avoid starvation?",
+    "answers": [
+      {
+        "answerText": "A) First-in first-out",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Shortest job first",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Round robin",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) First-in first-out priority queues",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Max-min fairness attempts to solve what problem of round robin scheduling?",
+    "answers": [
+      {
+        "answerText": "A) I/O-bound tasks can starve",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) CPU-bound tasks can starve",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) CPU-bound tasks complete at a much slower rate in relation to if they had the processor to themselves",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) I/O-bound tasks complete at a much slower rate in relation to if they had the processor to themselves",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following statements regarding round robin is true?",
+    "answers": [
+      {
+        "answerText": "A) Mixed tasks (I/O- and CPU-bound) are well suited to round robin",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) With fixed sized tasks, round robin achieves optimal average response time",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Round robin is non-preemptive",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) With variable sized tasks, round robin approximates shortest job first",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Which ONE of the following statements about hard and symbolic links is true?",
+    "answers": [
+      {
+        "answerText": "A) Hard links cannot be deleted; symbolic links can be deleted",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Creating a hard link adds a new inode to the filesystem; creating a symbolic link does not add a new inode to the filesystem",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Hard links can refer to files or directories; symbolic links can only refer to files",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Hard links are limited to entries within the same filesystem; symbolic links can refer to entries within other filesystems",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "A file descriptor (or handle) is:",
+    "answers": [
+      {
+        "answerText": "A) a reference identifier to a file from its containing directory",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) a file reference identifier resulting in a call to open() or create()",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) metadata describing file attributes such as file creation time, file owner, file size",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) a memory buffer used to store file contents during a call to read()",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Direct memory access (DMA) is:",
+    "answers": [
+      {
+        "answerText": "A) where hardware I/O devices transfer data to and from main memory with continuous involvement of the CPU",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) where the CPU can request pages from main memory bypassing the cache hierarchy",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) where the CPU can request pages from the cache with certainty that cache misses will not occur",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) where hardware I/O devices transfer data to and from main memory without continuous involvement of the CPU",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "The FAT (file allocation table) filesystem uses which data structure to represent a file?",
+    "answers": [
+      {
+        "answerText": "A) FIFO queue",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Stack",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Linked list",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) Array",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following operating systems does not use a variant or descendant of the Fast File System (FFS)?",
+    "answers": [
+      {
+        "answerText": "A) Debian Linux",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) FreeBSD",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Android",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Microsoft Windows",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "What is the maximum file size a FAT filesystem can store?",
+    "answers": [
+      {
+        "answerText": "A) 2^24 - 1 bytes (~16MB)",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) 2^64 - 1 bytes (~16PB)",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) 2^31 - 1 bytes (~2GB)",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) 2^32 - 1 bytes (~4GB)",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following is not an example of file metadata?",
+    "answers": [
+      {
+        "answerText": "A) File name",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) File owner",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) File content",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) File modification time",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following paths correctly specifies the root directory of a Unix file system?",
+    "answers": [
+      {
+        "answerText": "A) /home/root",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) /",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) /sys",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) /root",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "An absolute path has which of the following characteristics?",
+    "answers": [
+      {
+        "answerText": "A) The path must include a directory traversal \".../\"",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) The path does not begin with \"/\"",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) The path must include a directory traversal \"../\"",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) The path begins with \"/\"",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "The FAT filesystem supports access permissions and hard links.",
+    "answers": [
+      {
+        "answerText": "A) Sann",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Usann",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Entries in the FAT filesystem table are 32 bits (4 bits are reserved, leaving 28 bits for blocks on disk). Given a block size of 4096 bytes, what is the largest possible volume size?",
+    "answers": [
+      {
+        "answerText": "A) 4 GB",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) 4 TB",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) 2 TB",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) 1 TB",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "The Fast File System (FFS) uses what data structure to store inodes at its highest level?",
+    "answers": [
+      {
+        "answerText": "A) Inode hash table",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Inode FIFO queue",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Inode linked list",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Inode array",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Which one of the following fields is not contained in an inode?",
+    "answers": [
+      {
+        "answerText": "A) Setuid",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Parent directory",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) Group",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) User (owner)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Consider a FFS with a block size of 4096 storing a file of size 24450 bytes. How many direct and indirect pointers does the file require in the inode?",
+    "answers": [
+      {
+        "answerText": "A) 6 direct pointers, 1 indirect pointers",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) 12 direct pointers, 1 indirect pointers",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) 6 direct pointers, 0 indirect pointers",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) 12 direct pointers, 0 indirect pointers",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "What are the \"extents\" used in NTFS?",
+    "answers": [
+      {
+        "answerText": "A) Fixed-sized regions of files that are stored in a non-contiguous region on the device",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Fixed-sized regions of files that are stored in a contiguous region on the device",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Variable-sized regions of files that are stored in a non-contiguous region on the device",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Variable-sized regions of files that are stored in a contiguous region on the device",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "What NTFS structure is analogous to the inode table of FFS?",
+    "answers": [
+      {
+        "answerText": "A) OFT (ordered file table)",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) MFT (master file table)",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) EFT (extent file table)",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) MFT (Microsoft file table)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "In NTFS, the filename of a file is stored in:",
+    "answers": [
+      {
+        "answerText": "A) The inode array",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) The file's parent directory MFT record",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) The file's MFT record",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) The file allocation table (FAT)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "What is the definition of best fit when allocating space on disk for a file under NTFS?",
+    "answers": [
+      {
+        "answerText": "A) Place the file in any block, contiguous or non-contiguous",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Place the file in any block, contiguous or non-contiguous, but preferably close to other files in the same directory",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Place a file in an unallocated region which is large enough to permit modifications to the file",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Place a file in the smallest unallocated region large enough to store it",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "What is not an example of the principle of least privilege?",
+    "answers": [
+      {
+        "answerText": "A) Minimise the amount of code running in kernel space.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Run server daemons (e.g., webservers) as root user.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) Reduce the number of programs with the set-UID root flag set to absolute minimum.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Users should have exactly the permissions required to complete tasks and not more.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "A typical Unix filesystem like FFS has permissions:",
+    "answers": [
+      {
+        "answerText": "A) Globally (one permission for the entire filesystem tree)",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Per file",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) Per directory where all files inherit from their parent directory",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Per hard link",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Inspect the file buffo.c attached to the module on security. What is the insecure function call?",
+    "answers": [
+      {
+        "answerText": "A) printf",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) gets",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) main",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) buf",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Authorisation is defined as:",
+    "answers": [
+      {
+        "answerText": "A) how do we know who the user is?",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) where is the user located?",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) who is permitted to do what?",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) the presence of multi-factor methods for logging in",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Safe password storage is generally accepted as:",
+    "answers": [
+      {
+        "answerText": "A) hashed and stored in a place inaccessible to regular users.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) plaintext, stored in a place inaccessible to regular users.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) same salt for all passwords, hashed, and stored in a place inaccessible to regular users.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) per-password unique salt, hashed, and stored in a place inaccessible to regular users.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Salting with random data before hashing a password helps against:",
+    "answers": [
+      {
+        "answerText": "A) password re-use by users",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) system administrators gaining access to the plaintext password",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) weak passwords",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) rainbow tables (precomputed password hash tables)",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "A ciphertext is:",
+    "answers": [
+      {
+        "answerText": "A) The encrypted plaintext",
+        "isCorrect": true
+      },
+      {
+        "answerText": "B) The decryption key",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) The plaintext",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) The encryption key",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Symmetric encryption is not appropriate for which setting?",
+    "answers": [
+      {
+        "answerText": "A) Where users have no secure out-of-bounds channel to share the symmetric key",
+        "isCorrect": true
+      },
+      {
+        "answerText": "B) For full disk encryption on a laptop (e.g., protected by a passphrase)",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) As the master password for a password manager",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) For full disk encryption on a mobile phone (e.g., protected by a pin code or passphrase)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "For two parties to communicate secretly using asymmetric encryption, it is necessary that:",
+    "answers": [
+      {
+        "answerText": "A) both parties have the same shared key",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) both parties exchange public keys",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) both parties exchange private keys",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) party A exchanges their private key for the public key of party B",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "The password bug affecting the early Tenex operating system involved:",
+    "answers": [
+      {
+        "answerText": "A) storing the passwords in plaintext, readable by all users of the system",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) carefully aligning the password string to be checked across page boundaries, yielding a side-channel vulnerability",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) special characters in the password caused the password check to always succeed",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) no protections against brute force password attacks",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "A synchronisation problem unique to multicore systems as opposed to unicore systems is:",
+    "answers": [
+      {
+        "answerText": "A) Lock contention can be much greater",
+        "isCorrect": true
+      },
+      {
+        "answerText": "B) Releasing a spinlock cannot be guaranteed",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Lack of support for memory barriers",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Lack of atomic instructions",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "A memory barrier is:",
+    "answers": [
+      {
+        "answerText": "A) An instruction disabling instruction reordering of memory accesses across the barrier",
+        "isCorrect": true
+      },
+      {
+        "answerText": "B) The amount of physical memory addressable within the virtual address space",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Program behaviour that 'forgets' its CPU state after a specified number of instructions",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) The virtual address space available to a process",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "False sharing is:",
+    "answers": [
+      {
+        "answerText": "A) Two different memory locations are sequentially accessed by the same core",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) The same memory location (word) is read from by one core and written to by another",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) An entire cache line is presumed shared across cores when in fact the cores are referencing unique addresses within that cache line",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) Two or more cores share the same physical L3 cache",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "MCU (Mellor-Crummey and Scott) and RCU (read-copy-update) locks are devised to solve which problem?",
+    "answers": [
+      {
+        "answerText": "A) The optimisation and scalability problems of Petersen's algorithm",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Lack of atomic operations",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Lock contention in multicore systems",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) Cache coherency in multicore systems",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "MCU is optimised for the scenario where:",
+    "answers": [
+      {
+        "answerText": "A) The spinlock variable exists in only one core's cache",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) There are a significant number of threads waiting to acquire a lock",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) There are many more threads waiting to read a shared variable compared to threads waiting to write to a shared variable",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) There are many more threads waiting to write a shared variable compared to threads waiting to read from a shared variable",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "RCU is optimised for the scenario where:",
+    "answers": [
+      {
+        "answerText": "A) There is very little lock contention",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) There are more writer threads than reader threads",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) When acquisition of an MCU lock has failed",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) There are more reader threads than writer threads",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "RCU allows how many writes to happen concurrently?",
+    "answers": [
+      {
+        "answerText": "A) 3",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Unlimited",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) 1",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) 2",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Which one of the following statements regarding deadlocks is true?",
+    "answers": [
+      {
+        "answerText": "A) Starvation is a sufficient condition for a deadlock",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Non-preemption is a necessary and sufficient condition for a deadlock",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Circular waiting is a necessary and sufficient condition for a deadlock",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Starvation is not a sufficient condition for a deadlock",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following is NOT a necessary condition for a deadlock?",
+    "answers": [
+      {
+        "answerText": "A) Limited resources",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Hold while waiting",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Preemption",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) Circular waiting",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "The main goal of the memory hierarchy is:",
+    "answers": [
+      {
+        "answerText": "A) To provide the illusion that a userspace program owns the CPU",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) To provide data redundancy by storing as much information as possible on the hard disk",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) To provide the illusion to userspace programs of a very large, very fast memory system",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) To protect the kernel from malicious software",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "A cache hit means:",
+    "answers": [
+      {
+        "answerText": "A) There exists an entry in the cache for the requested memory address but it is empty",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) The data for the requested memory address resides in the cache",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) The data for the requested memory address does not reside in the cache",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Data for a memory address temporally near to the requested memory address exists in the cache",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Temporal locality refers to:",
+    "answers": [
+      {
+        "answerText": "A) Memory addresses nearby those that have been recently accessed are unlikely to be accessed in the near future",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Memory addresses that have been accessed recently are unlikely to be used in the near future",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Memory addresses nearby those that have been recently accessed are likely to be accessed in the near future",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Memory addresses that have been accessed recently are likely to be used in the near future",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Spacial locality refers to:",
+    "answers": [
+      {
+        "answerText": "A) Memory addresses nearby those that have been recently accessed are likely to be accessed in the near future",
+        "isCorrect": true
+      },
+      {
+        "answerText": "B) Memory addresses nearby those that have been recently accessed are unlikely to be accessed in the near future",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Memory addresses that have been accessed recently are likely to be used in the near future",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Memory addresses that have been accessed recently are unlikely to be used in the near future",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "A write-through cache is one that:",
+    "answers": [
+      {
+        "answerText": "A) Updates to the cache location are sent onward through the memory hierarchy only when they evicted from the cache",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Updates to the cache location are immediately sent onward through the memory hierarchy",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) Is actually an illusion - all updates go directly to the hard disk",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Is actually an illusion - all updates go directly to main memory",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Prefetching performs best in conditions where:",
+    "answers": [
+      {
+        "answerText": "A) Instructions containing many jump and branch statements",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) There is temporal locality in the memory accesses",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) There is spatial locality in the memory accesses",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) Memory locations are accessed in a random fashion",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "The \"working set\" of a process is defined as:",
+    "answers": [
+      {
+        "answerText": "A) The set of levels in the memory hierarchy (e.g., L1, L2, L3, DRAM, disk) currently in use by a process",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) The set of levels (with the exception of the hard disk) in the memory hierarchy (e.g., L1, L2, L3, DRAM) currently in use by a process",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Cache misses are reduced by a critical mass of program data that fits in the cache",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) Cache misses are increased by a critical mass of program data that fits in the cache",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Cache thrashing occurs when:",
+    "answers": [
+      {
+        "answerText": "A) A processor exception invalidates all cache entries at all cache levels",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) A smaller cache (e.g. L1) is empty but a larger cache (e.g. L2) is full",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) A rare sequence of cache writebacks cause all the data in the cache to be evicted",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) The cache is too small to hold the working set of a process",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "A fully associative cache is:",
+    "answers": [
+      {
+        "answerText": "A) A set of caches where the address can be checked in each table in parallel",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) A set of caches where the address can be checked in each table in series",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) A cache where an address can be stored anywhere in the table",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) A cache where an address is mapped to only one location in the table",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Consider a memory mapped file where the file size is 9KB and the page size is 4KB. How many pages are required? How much memory space is wasted?",
+    "answers": [
+      {
+        "answerText": "A) 2 pages are needed, and 3KB of memory is wasted",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) 3 pages are needed, and 3KB of memory is wasted",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) 1 page is needed, and no memory is wasted",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) 2 pages are needed, and 1KB of memory is wasted",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Writing to a memory mapped file is much faster than writing to a file using system calls (open() and write()) because:",
+    "answers": [
+      {
+        "answerText": "A) The system call write() is unbuffered",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) The system call write() is buffered",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) A memory store instruction (to local process memory) is much faster than write() (involves at least two context switches and blocks on I/O)",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) Memory mapping bypasses the TLB and thus a page table walk is avoided",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "A scenario where the FIFO page replacement policy is ineffective is:",
+    "answers": [
+      {
+        "answerText": "A) Where the working set is smaller than the cache (leads to thrashing)",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Where the working set is equal to the cache size",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Where the working set is larger than the cache (leads to thrashing)",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) Where the working set fits perfectly in the cache",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "A drawback of the least recently used (LRU) page replacement policy is:",
+    "answers": [
+      {
+        "answerText": "A) It is expensive because the page age information (stored in a linked list) must be updated after every memory reference",
+        "isCorrect": true
+      },
+      {
+        "answerText": "B) Its performance is equal to FIFO when the working set is larger than the cache size",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Its performance is equal to a random replacement policy when the working set is larger than the cache size",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) It performs poorly when memory access patterns are predictable",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "The basic idea of address translation is:",
+    "answers": [
+      {
+        "answerText": "A) Conditionally resolve physical addresses into virtual addresses based on whether the CPU is running in kernel-mode",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Where every running process shares the same base register to specify its location offset in physical memory and the same bounds register to specify the limit",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Where each process has a base register to specify its location offset in physical memory and a bounds register to specify the limit",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Transparently resolve virtual memory addresses into physical memory addresses",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "What should happen if a translated address is found to be invalid?",
+    "answers": [
+      {
+        "answerText": "A) The invalid address can be safely translated to the null pointer (address 0x0)",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) An I/O interrupt should context switch the current process",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) The CPU should halt immediately and cease executing further instructions",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) An exception should be raised",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "The basic idea of memory segmentation is:",
+    "answers": [
+      {
+        "answerText": "A) A single pair of base and bounds registers is given to each process",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Virtual and physical memory is divided in to small pages, which can be located in any order in physical memory",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Virtual and physical memory is divided in to small pages, which must be located contiguously (all in order) in physical memory",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Each process is given an array of base and bound registers, one pair for each memory segment",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "A segmentation fault happens when:",
+    "answers": [
+      {
+        "answerText": "A) The process has attempted to reveal the ultimate answer to the question of life, the universe, and everything",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) A process has requested access to a memory location outside of one of its legal segments",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) The process has attempted to divide by zero",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) The process has used too many memory segments such that the virtual address space is full",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Two (or more) processes can use segmented memory to communicate because:",
+    "answers": [
+      {
+        "answerText": "A) Each process uses a system call to tell the kernel to read or write to the shared segment",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Each process searches its address space until it finds the shared segment",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Each process issues a segmentation fault which loads the shared segment into its address space",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) The kernel gives each process read and write access to a shared segment that is mapped into each process' address spaces",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Copy-on-write is:",
+    "answers": [
+      {
+        "answerText": "A) An optimisation where new allocated heap memory is only cleared (zero'd) when the process attempts to read or write to that segment",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) A security feature where a memory location is backed up (copied) just before a process writes to that memory location",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) An optimisation where fork() copies the parent's segment table. When the child attempts to write to one of the segments, that segment is copied and the new copy remapped to the child",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) A security feature where each segment is backed up (copied) just before a process writes to that segment",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "The \"access\" field of the segment table is used to:",
+    "answers": [
+      {
+        "answerText": "A) Control which files in the filesystem are mappable into that segment",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Specify read and write flags for that segment, which in turn permit the process that type of access to the segment",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) Permit or deny the process in question to access the segment",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Permit or deny the CPU from accessing that memory segment (independent of which process is running)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Which type of memory segment should not have the write access flag set in the segment table?",
+    "answers": [
+      {
+        "answerText": "A) Heap segment",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Code segment",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) Data segment (e.g., global and static variables)",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Stack segment",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "The main benefit of paged memory over segmented memory is:",
+    "answers": [
+      {
+        "answerText": "A) The page size can be very small, such as 8 bytes, which is much more efficient for address translation",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Pages, unlike segments, are of variable size, so it is easy to find a free place in physical memory",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) The page size can be very large, such as 8 gigabytes, which is much more efficient for address translation",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Pages, unlike segments, are of fixed size, so it is easy to find a free place in physical memory",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Two processes using paged memory can communicate by:",
+    "answers": [
+      {
+        "answerText": "A) The processes communicate via signals through the kernel",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) The processes communicate via system calls (I/O) through the kernel",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) The kernel maps the same page frame into each process' page table",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) The processes communicate via a shared register in each process' page table",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "The main purpose of a translation lookaside buffer (TLB) is to:",
+    "answers": [
+      {
+        "answerText": "A) Allow many processes to access common shared pages by storing all shared pages in a separate address translation table",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Provide more efficient address translation by caching the addresses to recently accessed pages, thereby avoiding walking the page tables",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) A table used to cache disk blocks in memory for faster access by processes performing I/O",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) A table used to map processes to specific cores in multicore systems so that context switching is faster",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "A processor exception will only be raised in which ONE of the following scenarios:",
+    "answers": [
+      {
+        "answerText": "A) The TLB \"hits\" on an address lookup and the page table \"hits\" (returns valid)",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) The TLB \"hits\" on an address lookup",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) The TLB \"misses\" on an address lookup and the page table \"misses\" (returns invalid)",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) The TLB \"hits\" on an address lookup and the page table \"misses\" (returns invalid)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "A tagged TLB means:",
+    "answers": [
+      {
+        "answerText": "A) Each TLB entry contains only the first two bytes of a virtual address",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Each TLB entry contains a process ID",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) Each TLB entry contains a read/write flag",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Each TLB entry contains a valid flag",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "A main benefit of using threads for concurrency over processes is:",
+    "answers": [
+      {
+        "answerText": "A) Threads are faster when executing",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Threads do not need to be attached to a process",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Threads require less resources and overhead to create",
+        "isCorrect": true
+      },
+      {
+        "answerText": "D) Threads do not require any memory (stack, heap) during execution",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "The definition of a thread that is most correct is:",
+    "answers": [
+      {
+        "answerText": "A) A sequence of instructions performing a certain task but not necessarily separately schedulable",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) An interrupt handler",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) A lightweight process",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) A separately schedulable sequence of instructions performing a certain task",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following programs does NOT need multiple threads to operate normally:",
+    "answers": [
+      {
+        "answerText": "A) A modern word processor",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) A modern web browser",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) A command line tool for downloading multiple files at once",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) A command line tool that prints the contents of multiple files sequentially",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "What is meant by a thread abstraction?",
+    "answers": [
+      {
+        "answerText": "A) Each threads runs on its own virtual processor with unpredictable and variable speed",
+        "isCorrect": true
+      },
+      {
+        "answerText": "B) A single sequence of instructions has the illusion of running on multiple processors at the same time",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) A process without a process control block in kernel memory",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Each threads runs on its own virtual processor with predictable speed",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "The POSIX threading call pthread_create() is analogous to which system call(s)?",
+    "answers": [
+      {
+        "answerText": "A) create()",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) exec() followed by wait()",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) fork()",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) fork() followed by exec()",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "POSIX pthread_create() requires several parameters. Imagine writing a simple wrapper function for pthread_create() called start_thread(). This wrapper function can take only one parameter. What should that parameter be?",
+    "answers": [
+      {
+        "answerText": "A) A pointer to a callback function to indicate the thread has finished",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) The address of a variable which will store the thread handle",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) A pointer to an empty thread control block which will store the new thread context",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) A pointer to a function which represents the schedulable task",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "In the threadHello example, why does the \"thread returned\" message always print in order?",
+    "answers": [
+      {
+        "answerText": "A) This is just a fluke. If you run it enough times eventually the messages will be printed out of order",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) The threads finish in the order they are started",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Thread scheduling is deterministic and will always happen in the same order",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) The for loop iterates from 1 to NTHREADS in order, so the pthread_join() will always wait for the corresponding thread. If the thread has already exited, pthread_join() will return immediately",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "In the threadHello example, what is the maximum number of threads that can be running when thread 5 prints hello?",
+    "answers": [
+      {
+        "answerText": "A) 5. At the point we print hello from 5, we can expect that threads 1-4 could still be running. Threads 6-10 will not have been scheduled yet",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) 10, since there are 10 new threads started in the program",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) 1. Thread 5 is the only thread running when it prints hello",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) 11. 10 new threads are started in the program, plus 1 for the program itself",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "In the threadHello example, what is the minimum number of threads that could be running when thread 5 prints hello?",
+    "answers": [
+      {
+        "answerText": "A) 1. All threads (except for thread 5) could either not have started yet, or could have already finished",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) None of the above",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) 0. Thread 5 asks the kernel to print hello on its behalf, so by the time it is written, thread 5 could have already finished",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) 2. All threads (except for thread 5 and the main thread) could either not have started yet, or could have already finished",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "What is meant by a thread \"yielding\"?",
+    "answers": [
+      {
+        "answerText": "A) The thread requests to exit",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) The thread terminates abnormally",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) The thread is created in a paused state",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) The thread gives up the CPU so that another thread can be scheduled",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "A cooperative thread is a thread that:",
+    "answers": [
+      {
+        "answerText": "A) Must be interrupted to give up the CPU",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Works together with other threads on shared data",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Is scheduled by the kernel",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Yields to let other threads run",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "A thread has access to its starting process' memory space (e.g., global and static variables, text segment, heap).",
+    "answers": [
+      {
+        "answerText": "A) True",
+        "isCorrect": true
+      },
+      {
+        "answerText": "B) False",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Only sometimes",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Depends on the operating system",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "The notion of \"flexibility\" in an operating system refers to:",
+    "answers": [
+      {
+        "answerText": "A) Separation of core kernel functionality from other operating system services that can be run in userland",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) A complex system call interface with highly specific entrypoints, where updates to the interface require rewriting application code",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Kernel device support for a wide range of I/O devices",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) A simple, portable system call interface that can be ported to new hardware without the need to rewrite application code",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Resource management and protection in a system call interface, must be governed by the kernel (and not user applications) because:",
+    "answers": [
+      {
+        "answerText": "A) Kernel code is always written in C, which is a safe programming language",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Kernel code has a lower probability of containing bugs",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Kernel code is always written in Java, which is a safe programming language",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) User applications could simply skip protection checks or monopolise resources",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "\"What can be at user level, should be\" is a philosophy of which type of kernel design?",
+    "answers": [
+      {
+        "answerText": "A) Macrokernel",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Hybrid kernel",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Monolithic kernel",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Microkernel",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "How many new processes are created during the execution of the following Bash shell script?\n#!/bin/bash\ngcc -c s1.c\ngcc -c s2.c\nln -o program s1.o s2.o\npwd\nls -l",
+    "answers": [
+      {
+        "answerText": "A) 1. Only one process is needed. Bash calls exec() for each line without fork()ing",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) 0. Since the shell is executing a script, no new processes are created",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) 5. Each line is interpreted by Bash, which in turn calls fork() and exec()",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) 4. Bash calls fork() and exec() for each line except for \"pwd\". A new process is not created for \"pwd\" since it is a builtin shell command, and thus executes in the Bash process itself",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "What is the main difference between creating a new process in the Windows and Linux kernels?",
+    "answers": [
+      {
+        "answerText": "A) The only difference is the name of the system call: fork() vs CreateProcess()",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) exec() is not necessary when starting a new program that has a different form the parent process in the Linux kernel",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) The Windows kernel stores the process control block in user space",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) fork() on Linux copies the parent process image into the child (new) process image. CreateProcess on the other hand reads the executable process image from disk",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "fork() returns twice because:",
+    "answers": [
+      {
+        "answerText": "A) The second return is used to check if the first return succeeded",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) The first return is used after the process control block is set up, and the second return invokes the child process",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) fork() creates two child processes, so two returns are needed",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) One return is to the parent, and the other return is to the child",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "What happens if a running program is updated on the disk before exec() is called? (Hint: try it with the two attached C files)",
+    "answers": [
+      {
+        "answerText": "A) The exec() will fail because the old and new programs are different",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) The old copy is executed",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) The new copy is executed",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) You cannot copy over a running executable. You receive a \"Text file busy\" error",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "wait(), called by a parent process, is used to:",
+    "answers": [
+      {
+        "answerText": "A) Block until the parent process exits",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Sleep for the specified number of seconds",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Block until the parent's call to fork() returns",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Block until the specified child process has exited",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "How can we use the shell (Bash) to send the output of a program (stdout) to a file? (Hint: try it with the program \"ls\")",
+    "answers": [
+      {
+        "answerText": "A) ./program | file",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) ./program < file",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) ./program || file",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) ./program > file",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "How does the shell handle the command \"ls | grep hello\"? (Hint: try it - create a file cmd.sh with the contents \"ls | grep hello\", and then run \"strace -f bash cmd.sh\" and inspect the output. Look for system calls \"dup2\", \"execve\", and \"clone\" (clone is fork()).",
+    "answers": [
+      {
+        "answerText": "A) fork() not needed; Bash calls exec() for both \"ls\" and \"grep\"",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Bash calls fork() twice; wait() called from parent to block until children have exited",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Bash forks() once for \"ls\"; exec() called for \"ls\" in child process; exec() called for \"grep\" in parent process",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Bash forks() twice, once for \"ls\" and once for \"grep\"; dup2 is called twice in each child process to connect the communication pipe between \"ls\" and \"grep\"; execve is called in the child processes to start \"ls\" and \"grep\"",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "The CPU is interrupted in all of the following situations except:",
+    "answers": [
+      {
+        "answerText": "A) A device has finished processing a request",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) A periodic hardware timer resumes the kernel",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) A direct memory access (DMA) transfer has completed",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) A read from memory has finished",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Interrupts are favourable compared to polling (aka busy waiting) because:",
+    "answers": [
+      {
+        "answerText": "A) Interrupts are simpler to implement in software",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Interrupts require less hardware",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Polling is strictly synchronous",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Polling wastes CPU cycles",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "The main benefit of direct memory access (DMA) compared to programmed I/O is:",
+    "answers": [
+      {
+        "answerText": "A) Programmed I/O relies on interrupts to signal when the transfer is finished",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Devices involved in a DMA transfer do not need access to the memory bus",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) DMA requires less hardware than programmed I/O",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) The CPU does not need to be involved in the transfer",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "The interrupt vector is what kind of data structure?",
+    "answers": [
+      {
+        "answerText": "A) A table of pointers to locations in the kernel heap",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) A linked list with pointers to entries in the process descriptor",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) A pointer to an interrupt stack",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) A table of pointers to interrupt handlers",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "The interrupt vector is set up by:",
+    "answers": [
+      {
+        "answerText": "A) BIOS",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) The CPU",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) The DMA controller",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) The operating system kernel",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "One of the first actions taken when an interrupt is received by the CPU is:",
+    "answers": [
+      {
+        "answerText": "A) Interrupts are enabled",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) The interrupt handler runs on the stack of the interrupted user process",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) A new interrupt is sent to the CPU to remind it the interrupt handler has started",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Interrupts are disabled",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "All of the following are necessary for safe handling of interrupts except:",
+    "answers": [
+      {
+        "answerText": "A) Limited number of entry points into the kernel",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Atomic transfer of control",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Transparent restartable execution",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Interrupt handlers that execute user program code",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "In which of the following scenarios is it also necessary to disable interrupts?",
+    "answers": [
+      {
+        "answerText": "A) For user- to kernel- mode transfers",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) For memory reads in kernel-mode",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) For memory writes in kernel-mode",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) When the scheduler is determining the next process or thread to run",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following statements is not true regarding the bottom-half of the interrupt handler?",
+    "answers": [
+      {
+        "answerText": "A) The bottom-half must finish as quickly as possible",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Interrupts must be disabled while the bottom-half of the handler is running",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) The bottom-half must be non-blocking",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) The bottom-half of the interrupt handler must not communicate with any kernel threads",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "A separate interrupt stack is required for handling interrupts because:",
+    "answers": [
+      {
+        "answerText": "A) The handler may require more space than is available on the user process stack",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Why not? Memory is cheap!",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) There is only one stack per CPU",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) The state of a user process stack cannot be trusted by the kernel",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "The atomic operation at the end of the interrupt handler does all of the following except:",
+    "answers": [
+      {
+        "answerText": "A) Restore the program stack",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Restore the program counter",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Restore processor status and condition codes",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Switch to kernel mode",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "An upcall is:",
+    "answers": [
+      {
+        "answerText": "A) A software interrupt",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Interprocess communication",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) A request to the kernel from a user process to perform a privileged action",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) A method used by the kernel to notify a user process of some event",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "An upcall from the host kernel to a virtual machine player can be seen as analogous to:",
+    "answers": [
+      {
+        "answerText": "A) A system call from a virtual machine player to the host kernel",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) A processor exception in a guest operating system",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Interprocess communication via shared memory",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) An interrupt from a hardware device to the CPU",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Transfers between user- and kernel-mode are frequent in a typical program.",
+    "answers": [
+      {
+        "answerText": "A) False",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) True",
+        "isCorrect": true
+      },
+      {
+        "answerText": "C) Only during startup",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Only during shutdown",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following does not normally require a mode transfer?",
+    "answers": [
+      {
+        "answerText": "A) Processor exception",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) System call",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Interrupt",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Fetching the next program instruction",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "A trap is defined as:",
+    "answers": [
+      {
+        "answerText": "A) A general term for a synchronous transfer from kernel- to user-mode",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) A general term for an asynchronous transfer from kernel- to user-mode",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) A general term for an asynchronous transfer from user- to kernel-mode",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) A general term for a synchronous transfer from user- to kernel-mode",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "An interrupt is defined as:",
+    "answers": [
+      {
+        "answerText": "A) An asynchronous signal to the kernel that an external event has occurred",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) A hardware event caused by the execution of an exception handler instruction",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) A hardware event caused by the execution of a user program instruction",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) An asynchronous signal to the processor that an external event has occurred",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "A processor exception is defined as:",
+    "answers": [
+      {
+        "answerText": "A) An asynchronous signal to the processor that an external event has occurred",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) An asynchronous signal to the kernel that an external event has occurred",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) A hardware event caused by the execution of an exception handler instruction",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) A hardware event caused by the execution of a user program instruction",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "A system call is defined as:",
+    "answers": [
+      {
+        "answerText": "A) A branch or jump instruction in a user program",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) A transfer of control from user- to kernel-mode",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) A periodic timer interrupt that transfers control of the CPU to the operating system kernel",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) A transition into the operating system kernel at the request of the user program",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "All of the following are examples of processor exceptions except:",
+    "answers": [
+      {
+        "answerText": "A) Illegal memory reference",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Divide-by-zero",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Attempt to execute a privileged instruction in user-mode",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Timer interrupt",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "A transfer from kernel- to user-mode occurs in all of the following except:",
+    "answers": [
+      {
+        "answerText": "A) Context switch (switch to a different user process)",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) New process",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Resume after interrupt",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Process termination",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Dual-mode operation is accomplished by:",
+    "answers": [
+      {
+        "answerText": "A) An interpreter in the kernel that checks whether the process has permission to execute the current instruction",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Dividing the physical CPU into two virtual processors: one for user processes and one for the kernel",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Dividing physical memory into two regions: one for user processes and one for the kernel",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) A flag in the processor signifying whether the current execution mode is user- or kernel-mode",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following is an example of the principle of least privilege?",
+    "answers": [
+      {
+        "answerText": "A) System files are writable by any user to make OS updates easier",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) A user requires administrator access to close a web browser window",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) A word processor runs in kernel-mode in order to be more responsive",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Graphical user interface (GUI) code is often a part of the OS, but rarely part of the kernel",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "All of the following hardware features are required for kernel protection against user processes except:",
+    "answers": [
+      {
+        "answerText": "A) Memory protection",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Privileged instructions",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Timer interrupts",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Program counter",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "An example of a privileged instruction is:",
+    "answers": [
+      {
+        "answerText": "A) Add the contents of two registers",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Fetch the contents of a memory address into a register",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Branch",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Disable interrupts",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "All of the following are limitations to base and bound memory protection except:",
+    "answers": [
+      {
+        "answerText": "A) No shared memory",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Memory fragmentation",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Non-expandable heap and stack",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) No process isolation",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "The code or text section of the process layout contains:",
+    "answers": [
+      {
+        "answerText": "A) Static and global variables",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Dynamic variables",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Local variables",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Executable instructions",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "The data segment of the process layout contains:",
+    "answers": [
+      {
+        "answerText": "A) Dynamic variables",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Local variables",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Executable instructions",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Static and global variables",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "The stack segment of the process layout contains:",
+    "answers": [
+      {
+        "answerText": "A) Dynamic variables",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Static and global variables",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Executable instructions",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Function/procedure local variables",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Address space layout randomisation is a technique used to:",
+    "answers": [
+      {
+        "answerText": "A) Isolate kernel and user process memory spaces",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Reduce the chance of successful attack by malicious code by randomising the location of a process' program code",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Reduce the chance of successful attack by malicious code by randomising the base and bound addresses of a process",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Reduce the chance of successful attack by malicious code by randomising the location of a process' heap and stack",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Protection is essential to all of the following operating system goals except:",
+    "answers": [
+      {
+        "answerText": "A) Security",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Reliability",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Privacy",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Portability",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following statements is true about the operating system kernel?",
+    "answers": [
+      {
+        "answerText": "A) The kernel can, in certain circumstances, allow application software direct access to its internal data structures",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) The kernel must compete for resources with application software",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) The kernel must check that a process has permission to execute each individual instruction in it's program code",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) The kernel has full and direct access to the machine hardware",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "When a process is running, the heap is used for:",
+    "answers": [
+      {
+        "answerText": "A) Program code",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Static memory",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Global variables",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Dynamic memory",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "The stack is used for:",
+    "answers": [
+      {
+        "answerText": "A) Program code",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Dynamic memory",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Static variables",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Local variables",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "In order to run multiple copies of the same program, the operating system:",
+    "answers": [
+      {
+        "answerText": "A) Creates a pointer to first existing copy of the program's instructions, static data, heap, and stack",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Makes multiple copies of the program's instructions, static data, and stack",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Makes multiple copies of the program's instructions, static data, and stack, and reuses the first existing copy of the program's heap to save memory",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Makes multiple copies of the program's static data, heap, and stack, and reuses the first existing copy of the program's instructions to save memory",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "The process control block (PCB) stores all of the following information except:",
+    "answers": [
+      {
+        "answerText": "A) The privileges the process has",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) The ID of the user that started the process",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) The memory location of the process",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) A copy of the process' program code",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "When a new program is run, the role of the operating system is:",
+    "answers": [
+      {
+        "answerText": "A) Ensure that no other copies of the program are already running",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) Compile the program into machine code",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) Ensure that the program code is small enough to fit into physical memory",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) Copy the program code into memory if it doesn't already exist",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "The difference between a process and a program is:",
+    "answers": [
+      {
+        "answerText": "A) A program is a running copy (instance) of a process stored on disk",
+        "isCorrect": false
+      },
+      {
+        "answerText": "B) The terms program and process are equivalent, referring to a series instructions being executed in memory",
+        "isCorrect": false
+      },
+      {
+        "answerText": "C) The terms program and process are equivalent, referring to a series of instructions stored on disk",
+        "isCorrect": false
+      },
+      {
+        "answerText": "D) A process is a running copy (instance) of a program stored on disk",
+        "isCorrect": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,547 @@
+[
+  {
+    "questionText": "Hvilken av følgende påstander illustrerer en induktiv generalisering?",
+    "answers": [
+      {"answerText": "A) Fordi alle observerte svaner er hvite, antar vi at alle svaner er hvite.", "isCorrect": true},
+      {"answerText": "B) Fordi dette eplet er rødt, må alle epler være røde.", "isCorrect": false},
+      {"answerText": "C) Hvis det regner, blir bakken våt.", "isCorrect": false},
+      {"answerText": "D) Fordi de fleste hunder er lojale, konkluderer vi med at denne spesifikke hunden er lojal.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er en nøkkelkomponent i en induktiv syllogisme?",
+    "answers": [
+      {"answerText": "A) Det at en enkelt hendelse nødvendigvis fører til en bestemt konsekvens.", "isCorrect": false},
+      {"answerText": "B) Å bruke en generell regel til å trekke en spesifikk konklusjon om et tilfelle.", "isCorrect": true},
+      {"answerText": "C) Å sammenligne to ulike situasjoner for å vise likheter.", "isCorrect": false},
+      {"answerText": "D) Å konkludere at en handling er riktig basert på dens konsekvenser.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva kjennetegner et analogiargument?",
+    "answers": [
+      {"answerText": "A) Å sammenligne to situasjoner for å trekke en parallell mellom deres egenskaper.", "isCorrect": true},
+      {"answerText": "B) Å anta at en generell regel gjelder for alle objekter i en klasse.", "isCorrect": false},
+      {"answerText": "C) Å utlede konsekvenser basert på en normativ vurdering.", "isCorrect": false},
+      {"answerText": "D) Å bruke observasjoner fra en kontrollgruppe for å teste en hypotese.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvilket eksempel viser en konsekvensargumentasjon?",
+    "answers": [
+      {"answerText": "A) Hvis vi øker skattene, vil flere bedrifter slite økonomisk, noe som er uønsket.", "isCorrect": true},
+      {"answerText": "B) Alle observerte hunder bjeffer, derfor bjeffer alle hunder.", "isCorrect": false},
+      {"answerText": "C) Både katter og tigre er rovdyr, så katter har sannsynligvis lignende instinkter som tigre.", "isCorrect": false},
+      {"answerText": "D) Denne personen liker sjokolade, så alle mennesker liker sjokolade.", "isCorrect": false}
+    ]
+  },
+    {
+      "questionText": "Hva er en sentral forskjell mellom induktiv generalisering og induktiv syllogisme?",
+      "answers": [
+        {"answerText": "A) Induktiv generalisering drar slutninger basert på observasjoner av et utvalg, mens induktiv syllogisme trekker konklusjoner om et spesifikt tilfelle basert på en generell trend.", "isCorrect": true},
+        {"answerText": "B) Induktiv syllogisme baserer seg på analogi, mens induktiv generalisering baserer seg på kausalitet.", "isCorrect": false},
+        {"answerText": "C) Induktiv generalisering benytter deduktiv logikk, mens induktiv syllogisme er mer spekulativ.", "isCorrect": false},
+        {"answerText": "D) Induktiv syllogisme krever et større datasett enn induktiv generalisering.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "I en offentlig debatt argumenteres det for at 'økning i offentlig transport reduserer biltrafikk.' Hvilken type argument kan dette klassifiseres som?",
+      "answers": [
+        {"answerText": "A) Induktiv generalisering, fordi det bygger på antagelser fra tidligere observasjoner om transportvaner.", "isCorrect": false},
+        {"answerText": "B) Konsekvensargument, fordi det drøfter utfallet av en handling (økning i offentlig transport).", "isCorrect": true},
+        {"answerText": "C) Deduktivt argument, fordi det nødvendigvis må være sant dersom premissene holder.", "isCorrect": false},
+        {"answerText": "D) Analogisk argument, fordi det sammenligner transportmetoder med hverandre.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva vil være et eksempel på en analogisk argumentasjon?",
+      "answers": [
+        {"answerText": "A) En stor andel mennesker har vært smittet av influensa, derfor vil sannsynligvis flere bli smittet.", "isCorrect": false},
+        {"answerText": "B) Fordi alle observerte svaner er hvite, konkluderer vi med at alle svaner er hvite.", "isCorrect": false},
+        {"answerText": "C) Fordi hester og esler kan bære last, kan kameler sannsynligvis også bære last.", "isCorrect": true},
+        {"answerText": "D) Hvis skatter øker, kan det føre til økonomiske utfordringer for bedrifter, noe som kan være uønsket.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan kan vi best forstå konsekvensargumentasjonens rolle i normative debatter?",
+      "answers": [
+        {"answerText": "A) Det viser alltid til empiriske fakta uten normative vurderinger.", "isCorrect": false},
+        {"answerText": "B) Det beskriver utfallene av handlinger og gir en normativ vurdering av disse.", "isCorrect": true},
+        {"answerText": "C) Det sammenligner to situasjoner for å vise likheter i utfallene deres.", "isCorrect": false},
+        {"answerText": "D) Det understøtter påstander ved å vise at konklusjonen nødvendigvis følger fra premissene.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvilken av de følgende påstandene illustrerer et konsekvensargument?",
+      "answers": [
+        {"answerText": "A) Alle mennesker med denne sykdommen har symptomer, derfor har denne personen symptomer.", "isCorrect": false},
+        {"answerText": "B) Denne katten er tam, derfor er alle katter tamme.", "isCorrect": false},
+        {"answerText": "C) Hvis vi investerer i grønn teknologi, kan vi redusere klimagassutslipp, noe som er positivt for miljøet.", "isCorrect": true},
+        {"answerText": "D) Fordi de fleste europeere liker kaffe, liker sannsynligvis denne personen kaffe også.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Når vi vurderer et analogiargument, hva bør vi spesielt være oppmerksomme på?",
+      "answers": [
+        {"answerText": "A) Om de sammenlignede objektene eller situasjonene deler relevante egenskaper.", "isCorrect": true},
+        {"answerText": "B) Om begge situasjonene følger samme logiske nødvendighet.", "isCorrect": false},
+        {"answerText": "C) Om argumentet baseres på et representativt utvalg.", "isCorrect": false},
+        {"answerText": "D) Om argumentet utelukkende benytter normative påstander.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvilken av de følgende eksemplene er en induktiv generalisering?",
+      "answers": [
+        {"answerText": "A) Fordi de fleste personer med denne sykdommen har feber, antar vi at denne personen også har feber.", "isCorrect": false},
+        {"answerText": "B) Fordi jeg har observert flere hunder som bjeffer, konkluderer jeg med at alle hunder bjeffer.", "isCorrect": true},
+        {"answerText": "C) Hvis denne loven innføres, vil flere få tilgang til helsetjenester.", "isCorrect": false},
+        {"answerText": "D) Fordi alle land med høy BNP har gode skattesystemer, har Norge et godt skattesystem.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan kan man best beskrive en induktiv syllogisme?",
+      "answers": [
+        {"answerText": "A) En syllogisme som trekker en konklusjon om en hel populasjon basert på et lite utvalg.", "isCorrect": false},
+        {"answerText": "B) En syllogisme som går fra det generelle til det spesifikke basert på tidligere observasjoner.", "isCorrect": true},
+        {"answerText": "C) En syllogisme som alltid inneholder en sammenligning mellom to eller flere objekter.", "isCorrect": false},
+        {"answerText": "D) En syllogisme som baseres på normative vurderinger av utfall.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvilket av følgende argumenter er et eksempel på en deduktiv slutning?",
+      "answers": [
+        {"answerText": "A) Hvis alle fugler har fjær, og en spurv er en fugl, da har spurven fjær.", "isCorrect": true},
+        {"answerText": "B) Fordi noen fugler har fjær, antar vi at alle fugler har fjær.", "isCorrect": false},
+        {"answerText": "C) Fordi alle observerte fugler har fjær, antar vi at alle fugler har fjær.", "isCorrect": false},
+        {"answerText": "D) Hvis en spurv har fjær, må alle dyr ha fjær.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er en normativ påstand?",
+      "answers": [
+        {"answerText": "A) En påstand som beskriver hva som faktisk er tilfelle.", "isCorrect": false},
+        {"answerText": "B) En påstand som vurderer hvordan noe burde være.", "isCorrect": true},
+        {"answerText": "C) En påstand som er verifiserbar gjennom empiri.", "isCorrect": false},
+        {"answerText": "D) En påstand som kun gjelder for et bestemt tilfelle.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "I en debatt om miljøpolitikk blir det argumentert at 'ved å redusere plastbruk vil vi redde mange dyrearter fra utryddelse.' Hvilken type argumentasjon er dette et eksempel på?",
+      "answers": [
+        {"answerText": "A) Induktiv generalisering.", "isCorrect": false},
+        {"answerText": "B) Deduktiv slutning.", "isCorrect": false},
+        {"answerText": "C) Konsekvensargument.", "isCorrect": true},
+        {"answerText": "D) Analogisk argumentasjon.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er hensikten med å bruke analogiske argumenter i debatter?",
+      "answers": [
+        {"answerText": "A) Å gi normativ vurdering av sannsynlige konsekvenser.", "isCorrect": false},
+        {"answerText": "B) Å overbevise ved å vise nødvendige logiske slutninger.", "isCorrect": false},
+        {"answerText": "C) Å vise likhet mellom to tilfeller og overføre egenskaper fra ett tilfelle til et annet.", "isCorrect": true},
+        {"answerText": "D) Å etablere en generell sannhet basert på et utvalg observasjoner.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva menes med en abduktiv slutning?",
+      "answers": [
+        {"answerText": "A) En slutning hvor man trekker konklusjoner om et enkelt tilfelle basert på generell kunnskap.", "isCorrect": false},
+        {"answerText": "B) En slutning som forklarer en observasjon som den mest sannsynlige årsaken.", "isCorrect": true},
+        {"answerText": "C) En slutning hvor man drar konklusjoner basert på utbredelsen av en egenskap i et utvalg.", "isCorrect": false},
+        {"answerText": "D) En slutning som benytter sammenlignbare tilfeller for å komme til en konklusjon.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan skiller induktiv syllogisme seg fra induktiv generalisering?",
+      "answers": [
+        {"answerText": "A) Induktiv syllogisme er kun basert på normative vurderinger.", "isCorrect": false},
+        {"answerText": "B) Induktiv syllogisme handler om spesifikke tilfeller, mens induktiv generalisering handler om en hel klasse.", "isCorrect": true},
+        {"answerText": "C) Induktiv syllogisme og induktiv generalisering er det samme.", "isCorrect": false},
+        {"answerText": "D) Induktiv generalisering handler kun om hypotesetesting.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvilke to hovedformål nevnes i læreboken for offentlig debatt i et demokratisk samfunn?",
+      "answers": [
+        {"answerText": "A) Beslutningstaking og økonomisk vekst.", "isCorrect": false},
+        {"answerText": "B) Personlig overbevisning og retorisk effektivitet.", "isCorrect": false},
+        {"answerText": "C) Søken etter kunnskap og etablering av politisk legitimitet.", "isCorrect": true},
+        {"answerText": "D) Rettferdighet og individuell autonomi.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan definerer John Stuart Mill debattens rolle i kunnskapssøking?",
+      "answers": [
+        {"answerText": "A) Debatt er en måte å bekrefte eksisterende antakelser på.", "isCorrect": false},
+        {"answerText": "B) Debatt bør være et samarbeid for å forbedre og utfordre oppfatninger.", "isCorrect": true},
+        {"answerText": "C) Debatt er utelukkende et middel for å oppnå enighet.", "isCorrect": false},
+        {"answerText": "D) Debatt skal baseres på personlige overbevisninger fremfor rasjonelle argumenter.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvilken filosof nevner at offentlig debatt må være åpen og rasjonell for å oppnå demokratisk legitimitet?",
+      "answers": [
+        {"answerText": "A) Karl Popper", "isCorrect": false},
+        {"answerText": "B) Thomas Kuhn", "isCorrect": false},
+        {"answerText": "C) John Stuart Mill", "isCorrect": false},
+        {"answerText": "D) Jürgen Habermas", "isCorrect": true}
+      ]
+    },
+    {
+      "questionText": "Hva er et klart brudd på debattnormen om å bidra med relevant informasjon?",
+      "answers": [
+        {"answerText": "A) Å presentere en stråmannsargumentasjon.", "isCorrect": true},
+        {"answerText": "B) Å gi innhold som støtter motpartens synspunkt.", "isCorrect": false},
+        {"answerText": "C) Å benytte seg av fakta og logiske argumenter.", "isCorrect": false},
+        {"answerText": "D) Å delta uten en forhåndsdefinert agenda.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva mente filosofen Harry Frankfurt er en utfordring for offentlig debatt?",
+      "answers": [
+        {"answerText": "A) At folk er for ærlige.", "isCorrect": false},
+        {"answerText": "B) At folk ofte farer med 'bullshit', eller snakker uten hensyn til sannhet.", "isCorrect": true},
+        {"answerText": "C) At folk fokuserer for mye på fakta.", "isCorrect": false},
+        {"answerText": "D) At folk har for lite kunnskap om logiske argumenter.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan defineres den logiske funksjonen til argumenter?",
+      "answers": [
+        {"answerText": "A) Å formidle personlige meninger på en overbevisende måte.", "isCorrect": false},
+        {"answerText": "B) Å overbevise publikum ved hjelp av følelser.", "isCorrect": false},
+        {"answerText": "C) Å understøtte påstander basert på logiske og rasjonelle grunner.", "isCorrect": true},
+        {"answerText": "D) Å bruke etos for å skape troverdighet.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva innebærer det å ha et argument med 'riktighet' i følge teksten?",
+      "answers": [
+        {"answerText": "A) At argumentet nødvendigvis er sant og ikke kan være usant.", "isCorrect": false},
+        {"answerText": "B) At argumentet bygger på informasjon som faktisk er korrekt.", "isCorrect": true},
+        {"answerText": "C) At argumentet er emosjonelt overbevisende.", "isCorrect": false},
+        {"answerText": "D) At argumentet alltid følger logisk fra premissene.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er en argumentasjonsstruktur ifølge læreboken?",
+      "answers": [
+        {"answerText": "A) En struktur som brukes for å evaluere logiske feil.", "isCorrect": false},
+        {"answerText": "B) En måte å organisere retoriske teknikker på.", "isCorrect": false},
+        {"answerText": "C) Et verktøy for å avgjøre riktigheten av en påstand.", "isCorrect": false},
+        {"answerText": "D) Forholdet mellom argumentene og standpunktet de støtter.", "isCorrect": true}
+      ]
+    },
+    {
+      "questionText": "Hvordan kan man identifisere et sammensatt argument?",
+      "answers": [
+        {"answerText": "A) Det består av flere uavhengige påstander som støtter samme konklusjon.", "isCorrect": false},
+        {"answerText": "B) Det bygger kun på empiri.", "isCorrect": false},
+        {"answerText": "C) Det består av påstander som er avhengige av hverandre for å støtte en enkelt grunn.", "isCorrect": true},
+        {"answerText": "D) Det kan kun brukes i normative debatter.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva innebærer det at et argument er 'maksimalt relevant' i deduktiv logikk?",
+      "answers": [
+        {"answerText": "A) At det har en høy sannsynlighet for å være sant.", "isCorrect": false},
+        {"answerText": "B) At argumentet er emosjonelt overbevisende.", "isCorrect": false},
+        {"answerText": "C) At argumentet er basert på empiri.", "isCorrect": false},
+        {"answerText": "D) At argumentet følger med nødvendighet fra premissene hvis de er sanne.", "isCorrect": true}
+      ]
+    },
+    {
+      "questionText": "Hva er en abduktiv slutning?",
+      "answers": [
+        {"answerText": "A) En slutning som sammenligner to situasjoner for å finne likheter.", "isCorrect": false},
+        {"answerText": "B) En slutning som kun brukes i normative argumenter.", "isCorrect": false},
+        {"answerText": "C) En slutning basert på nødvendige logiske forbindelser.", "isCorrect": false},
+        {"answerText": "D) En slutning som går fra observasjoner til den beste forklaringen.", "isCorrect": true}
+      ]
+    },
+    {
+      "questionText": "Hva er et overordnet mål for epistemologi innenfor vitenskapsfilosofien?",
+      "answers": [
+        {"answerText": "A) Å evaluere påliteligheten til forskjellige kilder til kunnskap.", "isCorrect": true},
+        {"answerText": "B) Å utelukkende beskrive oppfatninger og informasjonsprosesser.", "isCorrect": false},
+        {"answerText": "C) Å fokusere på materielle realiteter i stedet for oppfatninger.", "isCorrect": false},
+        {"answerText": "D) Å dokumentere alle kjente kilder til kunnskap.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva beskriver best bekreftelsestendens i vitenskapelige metoder?",
+      "answers": [
+        {"answerText": "A) Menneskers evne til alltid å unngå bias i forskning.", "isCorrect": false},
+        {"answerText": "B) Tendensen til å søke informasjon som støtter eksisterende oppfatninger.", "isCorrect": true},
+        {"answerText": "C) Evnen til å legge merke til motstridende informasjon automatisk.", "isCorrect": false},
+        {"answerText": "D) Forskeres ferdigheter i å overse informasjon som støtter hypoteser.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er det første steget i HD-metoden?",
+      "answers": [
+        {"answerText": "A) Test hypotesen gjennom observasjon.", "isCorrect": false},
+        {"answerText": "B) Lag en prediksjon basert på hypotesen.", "isCorrect": false},
+        {"answerText": "C) Formuler en hypotese h.", "isCorrect": true},
+        {"answerText": "D) Test om hypotesen kan falsifiseres.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva kjennetegner asymmetrien mellom bekreftelse og avkreftelse?",
+      "answers": [
+        {"answerText": "A) Bekreftelse gir sikkerhet, mens avkreftelse er usikker.", "isCorrect": false},
+        {"answerText": "B) Bekreftelse er alltid sterkere enn avkreftelse.", "isCorrect": false},
+        {"answerText": "C) Avkreftelse er deduktivt gyldig, mens bekreftelse er induktivt svakere.", "isCorrect": true},
+        {"answerText": "D) Begge prosessene gir like gyldige konklusjoner.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er hensikten med ad hoc-hypoteser i forskningssammenheng?",
+      "answers": [
+        {"answerText": "A) Å styrke en teori uten uavhengig støtte.", "isCorrect": true},
+        {"answerText": "B) Å verifisere en teori på en ny måte.", "isCorrect": false},
+        {"answerText": "C) Å fjerne bias fra forskningsresultatene.", "isCorrect": false},
+        {"answerText": "D) Å teste en teori med uavhengige observasjoner.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er overraskelsesprinsippet, og hvordan relaterer det seg til hypotesebekreftelse?",
+      "answers": [
+        {"answerText": "A) Det sier at en forventet observasjon alltid svekker en hypotese.", "isCorrect": false},
+        {"answerText": "B) En observasjon som er overraskende dersom hypotesen er usann, bekrefter hypotesen sterkere.", "isCorrect": true},
+        {"answerText": "C) Det er irrelevant for vitenskapelig bekreftelse.", "isCorrect": false},
+        {"answerText": "D) Observasjoner som alltid stemmer, bekrefter alltid hypotesen uten forbehold.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er et overordnet formål med KUDOS-normene innen vitenskapen?",
+      "answers": [
+        {"answerText": "A) Å fremme samarbeid og deling i vitenskapen (kommunalisme).", "isCorrect": true},
+        {"answerText": "B) Å sikre individuelle interesser i forskningen.", "isCorrect": false},
+        {"answerText": "C) Å prioritere økonomiske gevinster i forskningsprosjekter.", "isCorrect": false},
+        {"answerText": "D) Å bevare hemmelighold i forskningsmiljøet.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan kan situeringen av kunnskap utfordre KUDOS-normenes universalisme?",
+      "answers": [
+        {"answerText": "A) Situeringen av kunnskap viser at forskere alltid er upartiske.", "isCorrect": false},
+        {"answerText": "B) Den viser at forskernes sosiale posisjon kan påvirke hva de legger merke til og hvilke spørsmål de stiller.", "isCorrect": true},
+        {"answerText": "C) Den viser at alle forskere følger de samme standardene uansett sosial posisjon.", "isCorrect": false},
+        {"answerText": "D) Den sikrer at alle forskningsresultater er objektive.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva innebærer paradigmebegrepet i Kuhns teori om vitenskapelig utvikling?",
+      "answers": [
+        {"answerText": "A) Et sett verdier og modeller som styrer forskning innen en disiplin.", "isCorrect": true},
+        {"answerText": "B) En fast metode som brukes i all forskning uavhengig av disiplin.", "isCorrect": false},
+        {"answerText": "C) En liste over alle forskere som bidrar til vitenskapelig arbeid.", "isCorrect": false},
+        {"answerText": "D) Et system som sikrer at all forskning er empirisk korrekt.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva skjer i vitenskapen under en vitenskapelig revolusjon, ifølge Kuhn?",
+      "answers": [
+        {"answerText": "A) Forskere styrker de eksisterende paradigmenes troverdighet.", "isCorrect": false},
+        {"answerText": "B) Et eksisterende paradigme erstattes av et nytt som bedre kan forklare avvikene i forskningen.", "isCorrect": true},
+        {"answerText": "C) Alle forskere enes om at vitenskapelige teorier aldri bør endres.", "isCorrect": false},
+        {"answerText": "D) Forskningsmetoder endres ikke, men begreper tilpasses det nye paradigmet.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er forskjellen mellom Kuhns og Poppers syn på vitenskapens utvikling?",
+      "answers": [
+        {"answerText": "A) Kuhn mener vitenskapen utvikler seg lineært, mens Popper mener den utvikler seg syklisk.", "isCorrect": false},
+        {"answerText": "B) Popper ser utviklingen som en gradvis eliminasjon av feilaktige teorier, mens Kuhn ser den som syklisk med paradigmeskifter.", "isCorrect": true},
+        {"answerText": "C) Kuhn og Popper mener begge at vitenskapelige teorier aldri bør utfordres.", "isCorrect": false},
+        {"answerText": "D) Popper mener vitenskapen alltid opererer innenfor et fast paradigme.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva betyr det at observasjoner er teoriavhengige ifølge Kuhn?",
+      "answers": [
+        {"answerText": "A) Observasjoner gir alltid en objektiv sannhet uavhengig av teorier.", "isCorrect": false},
+        {"answerText": "B) Observasjoner er alltid påvirket av eksisterende teorier og forutantakelser.", "isCorrect": true},
+        {"answerText": "C) Observasjoner kan aldri være en del av vitenskapelig forskning.", "isCorrect": false},
+        {"answerText": "D) Teoriavhengighet har ingen innvirkning på vitenskapelig realisme.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan kan Kuhns teori om vitenskapens utvikling støtte relativisme?",
+      "answers": [
+        {"answerText": "A) Kuhns teori antyder at paradigmer gir en objektiv målestokk for sannhet.", "isCorrect": false},
+        {"answerText": "B) Inkommensurabiliteten mellom paradigmer gjør at vitenskapelige resultater kan være relative til det gjeldende paradigmet.", "isCorrect": true},
+        {"answerText": "C) Kuhn mener at alle teorier er absolutt sanne uansett paradigmers innflytelse.", "isCorrect": false},
+        {"answerText": "D) Relativisme krever ikke noen form for vitenskapelig bevis.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er den realistiske posisjonen innenfor vitenskapsfilosofi?",
+      "answers": [
+        {"answerText": "A) Virkeligheten eksisterer uavhengig av våre teorier, og vitenskapen bør forsøke å beskrive den så presist som mulig.", "isCorrect": true},
+        {"answerText": "B) Virkeligheten er fullstendig avhengig av vår oppfatning og konsensus.", "isCorrect": false},
+        {"answerText": "C) Alle vitenskapelige teorier er like gyldige uavhengig av empirisk støtte.", "isCorrect": false},
+        {"answerText": "D) Virkeligheten endrer seg etter hva forskere tror på.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan utfordrer relativisme ideen om vitenskapelig fremskritt?",
+      "answers": [
+        {"answerText": "A) Relativisme støtter objektive standarder for fremskritt.", "isCorrect": false},
+        {"answerText": "B) Relativisme hevder at sannhet bestemmes av paradigmet, noe som gjør det vanskelig å måle fremskritt mellom paradigmer.", "isCorrect": true},
+        {"answerText": "C) Relativisme fremmer ideen om universell sannhet uavhengig av paradigmer.", "isCorrect": false},
+        {"answerText": "D) Relativisme anerkjenner fremskritt som uavhengig av forskningsmetoder.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er en hovedinnvending mot relativisme ifølge vitenskapelig realisme?",
+      "answers": [
+        {"answerText": "A) Relativisme gir en sikker garanti for at alle teorier er riktige.", "isCorrect": false},
+        {"answerText": "B) Relativisme gjør det vanskelig å forklare hvordan vi kan ta feil eller lære av feil.", "isCorrect": true},
+        {"answerText": "C) Relativisme fremmer objektiviteten i vitenskapen.", "isCorrect": false},
+        {"answerText": "D) Relativisme baserer seg på uavhengige empiriske data.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan ser standpunktepistemologer som Sandra Harding på relativisme?",
+      "answers": [
+        {"answerText": "A) Relativisme styrker marginaliserte gruppers perspektiver i vitenskapen.", "isCorrect": false},
+        {"answerText": "B) Relativisme undergraver marginaliserte gruppers evne til å utfordre dominerende teorier.", "isCorrect": true},
+        {"answerText": "C) Relativisme sikrer objektivitet i alle vitenskapelige undersøkelser.", "isCorrect": false},
+        {"answerText": "D) Relativisme er irrelevant for perspektivmangfold i vitenskapen.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva innebærer konstruktivisme i vitenskapsfilosofi?",
+      "answers": [
+        {"answerText": "A) En teori om at virkeligheten konstrueres uavhengig av sosiale faktorer.", "isCorrect": false},
+        {"answerText": "B) At vitenskapelige teorier og kunnskap konstrueres gjennom sosiale og kulturelle faktorer.", "isCorrect": true},
+        {"answerText": "C) At vitenskapelige resultater er uavhengige av forskernes påvirkning.", "isCorrect": false},
+        {"answerText": "D) En teori om at alle empiriske data er sanne uansett kontekst.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er enhetsvitenskap?",
+      "answers": [
+        {"answerText": "A) Ideen om at alle vitenskapelige disipliner opererer uten forbindelse til hverandre.", "isCorrect": false},
+        {"answerText": "B) Tanken om at vitenskapelige disipliner kan knyttes sammen ved å forklare fenomener med felles prinsipper.", "isCorrect": true},
+        {"answerText": "C) Et system som separerer samfunnsvitenskap og naturvitenskap.", "isCorrect": false},
+        {"answerText": "D) Et prinsipp om at alle vitenskaper skal bruke identiske metoder.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva menes med reduksjonisme i vitenskap?",
+      "answers": [
+        {"answerText": "A) Reduksjon av alle hypoteser til én enkel teori.", "isCorrect": false},
+        {"answerText": "B) At alle sannheter om et fenomen kan uttømmende oversettes til et språk som beskriver grunnleggende enheter.", "isCorrect": true},
+        {"answerText": "C) En metode for å ekskludere komplekse fenomener fra vitenskapen.", "isCorrect": false},
+        {"answerText": "D) En tankegang som utelukker empiriske observasjoner.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva utfordrer Poppers demarkasjonskriterium, ifølge eksempelet med Uranus’ bane og Neptun?",
+      "answers": [
+        {"answerText": "A) At vitenskapelige teorier aldri skal tilpasses ny informasjon.", "isCorrect": false},
+        {"answerText": "B) At vitenskapen ofte søker løsninger for å bevare etablerte teorier når anomalier oppstår.", "isCorrect": true},
+        {"answerText": "C) At vitenskapelige hypoteser aldri bør falsifiseres.", "isCorrect": false},
+        {"answerText": "D) At alle hypoteser må forkastes ved første motstridende observasjon.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er hensikten med å bruke ad hoc-hypoteser i vitenskapen?",
+      "answers": [
+        {"answerText": "A) Å redde en teori fra å bli falsifisert uten å ha uavhengig støtte.", "isCorrect": true},
+        {"answerText": "B) Å gjøre hypotesen enklere å teste eksperimentelt.", "isCorrect": false},
+        {"answerText": "C) Å verifisere en teori gjennom direkte observasjon.", "isCorrect": false},
+        {"answerText": "D) Å motbevise eksisterende teorier med empiri.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva innebærer Poppers konsept om 'severe tests' for hypoteser?",
+      "answers": [
+        {"answerText": "A) At hypoteser må testes gjennom krevende eksperimenter som virkelig utfordrer deres holdbarhet.", "isCorrect": true},
+        {"answerText": "B) At alle hypoteser må aksepteres uten kritisk vurdering.", "isCorrect": false},
+        {"answerText": "C) At hypoteser bør modifiseres til de passer dataene.", "isCorrect": false},
+        {"answerText": "D) At testing av hypoteser ikke er nødvendig i vitenskapen.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan utfordrer Quine-Duhem-tesen Poppers syn på falsifikasjonisme?",
+      "answers": [
+        {"answerText": "A) Den påpeker at vitenskapelige hypoteser alltid testes i isolasjon.", "isCorrect": false},
+        {"answerText": "B) Den hevder at det alltid finnes flere antakelser involvert i enhver vitenskapelig test, noe som gjør det vanskelig å avgjøre hvilken del som bør forkastes.", "isCorrect": true},
+        {"answerText": "C) Den viser at hypoteser aldri kan falsifiseres.", "isCorrect": false},
+        {"answerText": "D) Den bekrefter at alle hypoteser kan verifiseres uten hjelpemidler.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er hovedideen bak Lakatos’ forskningsprogrammer?",
+      "answers": [
+        {"answerText": "A) At vitenskapen bør fokusere på å falsifisere enkeltstående hypoteser uavhengig av kontekst.", "isCorrect": false},
+        {"answerText": "B) At vitenskapen ikke falsifiserer individuelle hypoteser, men heller hele forskningsprogrammer med en hard kjerne og et beskyttende belte av hjelpehypoteser.", "isCorrect": true},
+        {"answerText": "C) At alle hypoteser bør ignoreres til de motbevises.", "isCorrect": false},
+        {"answerText": "D) At forskningsprogrammer aldri kan justeres eller tilpasses.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva innebærer Thomas Kuhns konsept om normalvitenskap?",
+      "answers": [
+        {"answerText": "A) At forskere konstant utfordrer paradigmet de arbeider innenfor.", "isCorrect": false},
+        {"answerText": "B) At forskere arbeider innenfor rammene av et etablert paradigme og forsøker å løse problemer uten å utfordre grunnleggende antakelser.", "isCorrect": true},
+        {"answerText": "C) At paradigmer alltid forkastes etter få års bruk.", "isCorrect": false},
+        {"answerText": "D) At vitenskapen alltid utvikler seg lineært.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan kan Bayesiansk bekreftelse forklare hvorfor forskere kan beholde tillit til en etablert teori selv når den møter motstridende data?",
+      "answers": [
+        {"answerText": "A) Bayesiansk bekreftelse viser at en enkelt observasjon alltid falsifiserer en teori.", "isCorrect": false},
+        {"answerText": "B) Bayesiansk tilnærming lar forskere oppdatere sin tillit til en hypotese basert på tidligere bekreftelse og sannsynlighet, noe som kan gjøre en etablert teori mer troverdig enn en mindre bekreftet hypotese.", "isCorrect": true},
+        {"answerText": "C) Bayesiansk bekreftelse ignorerer tidligere resultater i forskningen.", "isCorrect": false},
+        {"answerText": "D) Bayesiansk tilnærming krever at alle hypoteser avvises ved første problem.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er en av utfordringene ved relativisme i vitenskapen, ifølge vitenskapsfilosofien?",
+      "answers": [
+        {"answerText": "A) Relativisme gjør det lettere å forstå hvordan vitenskapen utvikler seg.", "isCorrect": false},
+        {"answerText": "B) Relativisme kan undergrave muligheten for å gjøre feil eller korrigere feil, da det ikke finnes en ekstern virkelighet å måle sannhet mot.", "isCorrect": true},
+        {"answerText": "C) Relativisme fremmer universell sannhet på tvers av alle paradigmer.", "isCorrect": false},
+        {"answerText": "D) Relativisme sikrer at alle vitenskapelige funn er objektive.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan utfordrer standpunktepistemologi relativisme?",
+      "answers": [
+        {"answerText": "A) Standpunktepistemologi støtter relativisme ved å hevde at alle perspektiver er like gyldige.", "isCorrect": false},
+        {"answerText": "B) Standpunktepistemologi argumenterer for at enkelte sosiale posisjoner kan gi epistemologiske fordeler, noe som kan utfordre ideen om at alle perspektiver er like gyldige.", "isCorrect": true},
+        {"answerText": "C) Standpunktepistemologi hevder at kunnskap aldri kan situeres sosialt.", "isCorrect": false},
+        {"answerText": "D) Standpunktepistemologi støtter at alle forskere oppfatter virkeligheten på samme måte.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan kan situeringen av kunnskap brukes til å problematisere KUDOS-normene i vitenskap?",
+      "answers": [
+        {"answerText": "A) Situeringen av kunnskap viser at alle forskere er helt objektive i sine tolkninger.", "isCorrect": false},
+        {"answerText": "B) Situeringen av kunnskap utfordrer KUDOS-normen om universalisme ved å vise hvordan forskeres sosiale posisjon kan påvirke hvilke spørsmål de stiller og hvilke fenomener de legger merke til.", "isCorrect": true},
+        {"answerText": "C) Situeringen av kunnskap støtter at forskere kan handle uten påvirkning fra sosiale faktorer.", "isCorrect": false},
+        {"answerText": "D) Situeringen av kunnskap viser at forskere er upartiske uansett sosial kontekst.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva innebærer uttrykket 'inkommensurabilitet' i Kuhns teori om vitenskap?",
+      "answers": [
+        {"answerText": "A) At teorier fra ulike paradigmer kan sammenlignes direkte med hverandre.", "isCorrect": false},
+        {"answerText": "B) At teorier fra ulike paradigmer kan være så forskjellige at de ikke kan sammenlignes direkte, siden de opererer med forskjellige standarder og forståelsesrammer.", "isCorrect": true},
+        {"answerText": "C) At alle teorier er sammenlignbare på tvers av tid og sted.", "isCorrect": false},
+        {"answerText": "D) At vitenskapelig utvikling er lineær og enkel å måle.", "isCorrect": false}
+      ]
+    }
+  ]
+
+
+
+
+

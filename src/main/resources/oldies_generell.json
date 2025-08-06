@@ -1,0 +1,912 @@
+[
+  {
+    "questionText": "Hva er en deduktiv slutning i følge læreboken i argumentasjonsteori?",
+    "answers": [
+      {"answerText": "A) Den er en slutning hvor konklusjonen nødvendigvis følger fra premissene.", "isCorrect": true},
+      {"answerText": "B) Den er en slutning hvor premissene gjør konklusjonen sannsynlig, men ikke sikker.", "isCorrect": false},
+      {"answerText": "C) Den er en slutning som benytter seg av retoriske teknikker for å overbevise.", "isCorrect": false},
+      {"answerText": "D) Den er en slutning som krever bekreftelse gjennom empiri.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva regnes som et klart brudd på debattnormer i følge læreboken?",
+    "answers": [
+      {"answerText": "A) Å bruke induktiv generalisering for å styrke et argument.", "isCorrect": false},
+      {"answerText": "B) Å formulere normative påstander uten empirisk støtte.", "isCorrect": false},
+      {"answerText": "C) Å benytte stråmannsargumentasjon for å representere motpartens synspunkt.", "isCorrect": true},
+      {"answerText": "D) Å bruke en hypotese uten falsifikasjonsmulighet.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvilken metode i vitenskapsteori er Karl Popper mest kjent for å ha foreslått som et kjennetegn på vitenskapelig arbeid?",
+    "answers": [
+      {"answerText": "A) Bekreftelsesmetoden.", "isCorrect": false},
+      {"answerText": "B) Falsifikasjonsmetoden.", "isCorrect": true},
+      {"answerText": "C) Induksjonsmetoden.", "isCorrect": false},
+      {"answerText": "D) Anomalimetoden.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan kan vi best forstå forskjellen mellom en normativ og deskriptiv påstand?",
+    "answers": [
+      {"answerText": "A) Normative påstander beskriver hva som er tilfelle, mens deskriptive påstander beskriver hva som burde være tilfelle.", "isCorrect": false},
+      {"answerText": "B) Deskriptive påstander beskriver hva som er tilfelle, mens normative påstander vurderer hva som burde være tilfelle.", "isCorrect": true},
+      {"answerText": "C) Deskriptive påstander er alltid subjektive, mens normative påstander er objektive.", "isCorrect": false},
+      {"answerText": "D) Normative påstander kan aldri støttes av empiriske fakta, i motsetning til deskriptive påstander.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva regnes som et hovedformål med offentlig debatt, ifølge John Stuart Mill?",
+    "answers": [
+      {"answerText": "A) Å bygge konsensus gjennom retorisk dyktighet.", "isCorrect": false},
+      {"answerText": "B) Å etablere kunnskap gjennom samarbeid og argumentasjon.", "isCorrect": true},
+      {"answerText": "C) Å oppnå politisk legitimitet gjennom maktfordeling.", "isCorrect": false},
+      {"answerText": "D) Å øke offentlig deltagelse i demokratiske prosesser.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan kan vi best forstå Quine-Duhem-tesen i forbindelse med vitenskapelige tester?",
+    "answers": [
+      {"answerText": "A) Vitenskapelige hypoteser testes alltid i isolasjon fra andre hypoteser.", "isCorrect": false},
+      {"answerText": "B) Det er umulig å teste en hypotese uten å også gjøre antakelser om hjelpehypoteser.", "isCorrect": true},
+      {"answerText": "C) Hypoteser kan alltid testes uten å ta hensyn til bakgrunnsinformasjon.", "isCorrect": false},
+      {"answerText": "D) Vitenskapelige teorier er uavhengige av de instrumentene som brukes i tester.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan kan vi best forstå Poppers syn på hvordan vitenskapen gjør fremskritt?",
+    "answers": [
+      {"answerText": "A) Vitenskapen gjør fremskritt ved å gradvis bekrefte hypoteser gjennom induktiv testing.", "isCorrect": false},
+      {"answerText": "B) Fremskritt i vitenskapen skjer ved å eliminere hypoteser som ikke tåler falsifikasjon.", "isCorrect": true},
+      {"answerText": "C) Vitenskapen utvikler seg kun ved å bygge konsensus gjennom paradigmeskifter.", "isCorrect": false},
+      {"answerText": "D) Poppers syn innebærer at alle hypoteser må verifiseres for å anses som vitenskapelige.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er en stråmannsargumentasjon i en debatt?",
+    "answers": [
+      {"answerText": "A) Å bruke irrelevante påstander for å avlede motstanderen fra sakens kjerne.", "isCorrect": false},
+      {"answerText": "B) Å presentere et forenklet eller forvrengt versjon av motstanderens argument for å svekke det.", "isCorrect": true},
+      {"answerText": "C) Å angripe personen som fremmer et argument i stedet for å angripe argumentet selv.", "isCorrect": false},
+      {"answerText": "D) Å bruke induktiv generalisering for å overdrive motstanderens påstander.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva innebærer Kuhns begrep «inkommensurabilitet» i vitenskapsfilosofi?",
+    "answers": [
+      {"answerText": "A) To vitenskapelige teorier er umulige å sammenligne fordi de bruker ulike metoder.", "isCorrect": false},
+      {"answerText": "B) To paradigmer kan ikke sammenlignes fordi de benytter ulike standarder for evidens og logikk.", "isCorrect": true},
+      {"answerText": "C) To vitenskapelige hypoteser kan ikke falsifiseres samtidig i samme test.", "isCorrect": false},
+      {"answerText": "D) To hypoteser kan kun sammenlignes hvis de deler samme empiriske basis.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan beskriver Karl Popper vitenskapelig fremskritt i forhold til teorier?",
+    "answers": [
+      {"answerText": "A) Teorier kan aldri endelig bekreftes, bare falsifiseres.", "isCorrect": true},
+      {"answerText": "B) Teorier kan bekreftes gjennom empiriske observasjoner.", "isCorrect": false},
+      {"answerText": "C) Teorier blir sannere etter hver vellykkede test.", "isCorrect": false},
+      {"answerText": "D) Teorier kan bare aksepteres hvis de har stått imot alle forsøk på å motbevise dem.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er en kritisk forskjell mellom induktive og deduktive argumenter?",
+    "answers": [
+      {"answerText": "A) Induktive argumenter gir nødvendige konklusjoner, mens deduktive argumenter gir sannsynlige konklusjoner.", "isCorrect": false},
+      {"answerText": "B) Induktive argumenter baserer seg på enkelthendelser, mens deduktive bygger på universelle sannheter.", "isCorrect": false},
+      {"answerText": "C) Deduktive argumenter gir nødvendige konklusjoner, mens induktive argumenter gjør konklusjonen mer eller mindre sannsynlig.", "isCorrect": true},
+      {"answerText": "D) Deduktive argumenter krever empiri, mens induktive gjør ikke det.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvilken type feilslutning oppstår når man antar at fordi én hendelse fulgte en annen, må den første ha forårsaket den andre?",
+    "answers": [
+      {"answerText": "A) Stråmannsargumentasjon", "isCorrect": false},
+      {"answerText": "B) Post hoc ergo propter hoc", "isCorrect": true},
+      {"answerText": "C) Bekreftelsesbias", "isCorrect": false},
+      {"answerText": "D) Ad hominem", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan utfordrer Quine-Duhem-tesen Poppers falsifikasjonisme?",
+    "answers": [
+      {"answerText": "A) Den viser at hypoteser kan bekreftes selv om dataene ikke stemmer.", "isCorrect": false},
+      {"answerText": "B) Den hevder at falsifikasjon er umulig fordi det alltid er flere hypoteser involvert i en test.", "isCorrect": true},
+      {"answerText": "C) Den argumenterer for at hypoteser ikke trenger falsifiseres for å anses som vitenskapelige.", "isCorrect": false},
+      {"answerText": "D) Den hevder at det er umulig å avgjøre hvilken hypotese som er korrekt uten empirisk bekreftelse.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er forskjellen på epistemisk og etisk normativ argumentasjon?",
+    "answers": [
+      {"answerText": "A) Epistemisk argumentasjon handler om hvordan vi oppnår kunnskap, mens etisk argumentasjon handler om hva som er riktig å gjøre.", "isCorrect": true},
+      {"answerText": "B) Etisk argumentasjon er deskriptiv, mens epistemisk argumentasjon er normativ.", "isCorrect": false},
+      {"answerText": "C) Etisk argumentasjon baserer seg på logiske premisser, mens epistemisk argumentasjon er basert på empiri.", "isCorrect": false},
+      {"answerText": "D) Epistemisk argumentasjon er subjektiv, mens etisk argumentasjon er objektiv.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Når kan en hypotese kalles falsifiserbar ifølge Karl Popper?",
+    "answers": [
+      {"answerText": "A) Når den kan støttes av tilstrekkelige empiriske data.", "isCorrect": false},
+      {"answerText": "B) Når den kan motbevises gjennom en testbar observasjon.", "isCorrect": true},
+      {"answerText": "C) Når den kan bekreftes gjennom induktiv resonnering.", "isCorrect": false},
+      {"answerText": "D) Når den kan tilpasses alle mulige observasjoner.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er et eksempel på en positiv konsekvens i normativ argumentasjon?",
+    "answers": [
+      {"answerText": "A) Hvis vi bygger flere sykehus, vil flere mennesker få tilgang til helsehjelp, noe som er ønskelig.", "isCorrect": true},
+      {"answerText": "B) Hvis vi hever skattene, vil mange bedrifter gå konkurs, noe som vil føre til økonomisk nedgang.", "isCorrect": false},
+      {"answerText": "C) Hvis vi kutter i utdanningsbudsjettet, vil lærere få mindre lønn, noe som er urettferdig.", "isCorrect": false},
+      {"answerText": "D) Hvis vi forbyr plastposer, vil det være vanskeligere å bære dagligvarer.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er den viktigste forskjellen mellom normativ og deskriptiv vitenskapsfilosofi?",
+    "answers": [
+      {"answerText": "A) Normativ vitenskapsfilosofi stiller spørsmål om hvordan vitenskap bør utføres, mens deskriptiv vitenskapsfilosofi beskriver hvordan vitenskap faktisk utføres.", "isCorrect": true},
+      {"answerText": "B) Deskriptiv vitenskapsfilosofi fokuserer på å vurdere verdier, mens normativ vitenskapsfilosofi fokuserer på fakta.", "isCorrect": false},
+      {"answerText": "C) Normativ vitenskapsfilosofi handler om å bekrefte hypoteser, mens deskriptiv handler om å falsifisere dem.", "isCorrect": false},
+      {"answerText": "D) Deskriptiv vitenskapsfilosofi bygger på teoretiske spekulasjoner, mens normativ bygger på empirisk forskning.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan kan vi best forstå KUDOS-normenes rolle i vitenskapelig praksis?",
+    "answers": [
+      {"answerText": "A) KUDOS-normene sikrer at vitenskapen forblir sosialt rettferdig ved å fremme objektivitet og upartiskhet.", "isCorrect": true},
+      {"answerText": "B) KUDOS-normene regulerer metodiske regler og sikrer at all vitenskapelig forskning er logisk konsistent.", "isCorrect": false},
+      {"answerText": "C) KUDOS-normene handler om å sikre at vitenskapen er epistemisk korrekt, men tar ikke hensyn til sosiale og etiske normer.", "isCorrect": false},
+      {"answerText": "D) KUDOS-normene fokuserer på å fremme individuell kreativitet og personlig vinning innenfor vitenskapelige miljøer.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan definerer Kuhn begrepet 'normalvitenskap'?",
+    "answers": [
+      {"answerText": "A) En periode der vitenskapsfolk ikke møter motstridende data og fortsetter med etablerte metoder uten spørsmål.", "isCorrect": false},
+      {"answerText": "B) En tid hvor forskere prøver å etablere nye teorier for å erstatte tidligere paradigmer.", "isCorrect": false},
+      {"answerText": "C) En fase der forskere løser gåter og problemer innenfor rammene av et akseptert paradigme.", "isCorrect": true},
+      {"answerText": "D) En fase der forskere stadig endrer paradigmer for å tilpasse nye funn.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva innebærer Kuhns begrep «inkommensurabilitet» i vitenskapsfilosofi?",
+    "answers": [
+      {"answerText": "A) To vitenskapelige teorier er umulige å sammenligne fordi de bruker ulike metoder.", "isCorrect": false},
+      {"answerText": "B) To paradigmer kan ikke sammenlignes fordi de benytter ulike standarder for evidens og logikk.", "isCorrect": true},
+      {"answerText": "C) To vitenskapelige hypoteser kan ikke falsifiseres samtidig i samme test.", "isCorrect": false},
+      {"answerText": "D) To hypoteser kan kun sammenlignes hvis de deler samme empiriske basis.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er et ad hoc-argument i følge vitenskapsfilosofien?",
+    "answers": [
+      {"answerText": "A) Et argument som er ment å forklare alle mulige utfall i en debatt.", "isCorrect": false},
+      {"answerText": "B) Et argument som konstrueres for å redde en teori fra falsifikasjon, uten uavhengig støtte.", "isCorrect": true},
+      {"answerText": "C) Et argument som baserer seg på empiri, men ikke på logisk analyse.", "isCorrect": false},
+      {"answerText": "D) Et argument som avviser alle mulige motargumenter uten bevis.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er en kritisk forskjell mellom induktive og deduktive argumenter?",
+    "answers": [
+      {"answerText": "A) Induktive argumenter gir nødvendige konklusjoner, mens deduktive argumenter gir sannsynlige konklusjoner.", "isCorrect": false},
+      {"answerText": "B) Induktive argumenter baserer seg på enkelthendelser, mens deduktive bygger på universelle sannheter.", "isCorrect": false},
+      {"answerText": "C) Deduktive argumenter gir nødvendige konklusjoner, mens induktive argumenter gjør konklusjonen mer eller mindre sannsynlig.", "isCorrect": true},
+      {"answerText": "D) Deduktive argumenter krever empiri, mens induktive gjør ikke det.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva menes med en implisitt påstand i et argument?",
+    "answers": [
+      {"answerText": "A) En påstand som blir direkte uttrykt, men som mangler støttebevis.", "isCorrect": false},
+      {"answerText": "B) En påstand som ikke er uttalt, men som er underforstått for at argumentet skal være gyldig.", "isCorrect": true},
+      {"answerText": "C) En påstand som bygger på feilaktig logikk, men som likevel støtter konklusjonen.", "isCorrect": false},
+      {"answerText": "D) En påstand som er irrelevant for argumentets hovedpoeng, men som likevel nevnes.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva menes med 'teoriavhengighet' i vitenskap?",
+    "answers": [
+      {"answerText": "A) At teorier er avhengige av empiri for å kunne testes.", "isCorrect": false},
+      {"answerText": "B) At våre observasjoner er farget av de teoriene vi allerede har akseptert.", "isCorrect": true},
+      {"answerText": "C) At teorier ikke kan være uavhengige av hverandre, men må kombineres for å være fullstendige.", "isCorrect": false},
+      {"answerText": "D) At en teori kun kan eksistere hvis den støttes av flere forskere i feltet.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er 'naturalistisk feilslutning' i etisk teori?",
+    "answers": [
+      {"answerText": "A) Å slutte fra det som 'er' til det som 'bør' være uten å rettferdiggjøre overgangen.", "isCorrect": true},
+      {"answerText": "B) Å basere moralske verdier på religiøse dogmer.", "isCorrect": false},
+      {"answerText": "C) Å anta at naturlige prosesser alltid har moralsk verdi.", "isCorrect": false},
+      {"answerText": "D) Å konkludere at det som er naturlig nødvendigvis er det som er godt.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan kan vi best forstå skillet mellom 'empirisme' og 'rasjonalisme'?",
+    "answers": [
+      {"answerText": "A) Empirisme vektlegger sansene som kunnskapskilde, mens rasjonalisme legger vekt på fornuft.", "isCorrect": true},
+      {"answerText": "B) Empirisme fokuserer på matematiske bevis, mens rasjonalisme fokuserer på sansene.", "isCorrect": false},
+      {"answerText": "C) Empirisme er basert på deduksjon, mens rasjonalisme bygger på induksjon.", "isCorrect": false},
+      {"answerText": "D) Rasjonalisme benekter eksistensen av en fysisk verden, mens empirisme bekrefter den.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva innebærer Kuhns begrep 'paradigmeskifte'?",
+    "answers": [
+      {"answerText": "A) En gradvis tilpasning av en eksisterende teori.", "isCorrect": false},
+      {"answerText": "B) En radikal endring i grunnleggende teorier og antagelser i vitenskapen.", "isCorrect": true},
+      {"answerText": "C) En metode for å verifisere nye hypoteser.", "isCorrect": false},
+      {"answerText": "D) En evolusjon av vitenskapelige teorier gjennom induksjon.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan beskriver Hume kausalitet?",
+    "answers": [
+      {"answerText": "A) Kausalitet er en objektiv egenskap ved verden, som vi kan observere direkte.", "isCorrect": false},
+      {"answerText": "B) Vi opplever etterfølgende hendelser, og kausalitet er en mental forestilling basert på vane.", "isCorrect": true},
+      {"answerText": "C) Kausalitet er en nødvendighet i naturen oppdaget av alle rasjonelle mennesker.", "isCorrect": false},
+      {"answerText": "D) Kausalitet er iboende i materielle objekter og observerbar ved nær studering.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er hensikten med en kontrollgruppe i eksperimentell vitenskap?",
+    "answers": [
+      {"answerText": "A) Kontrollgruppen brukes til å teste hypotesens holdbarhet uten den eksperimentelle variabelen.", "isCorrect": true},
+      {"answerText": "B) Kontrollgruppen gis en annen behandling for variasjon i dataene.", "isCorrect": false},
+      {"answerText": "C) Kontrollgruppen får variabelen, mens eksperimentgruppen blir testet uten.", "isCorrect": false},
+      {"answerText": "D) Kontrollgruppen eksisterer for å balansere antall deltakere for statistisk pålitelighet.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva innebærer prinsippet om skade i forhold til frihet og moral i følge Mill?",
+    "answers": [
+      {"answerText": "A) Skadeprinsippet tillater samfunn å begrense frihet hvis handlinger skader andre.", "isCorrect": true},
+      {"answerText": "B) Skadeprinsippet tillater hindring av handlinger som krenker moralske normer uansett konsekvens.", "isCorrect": false},
+      {"answerText": "C) Skadeprinsippet lar individer handle fritt uten restriksjoner.", "isCorrect": false},
+      {"answerText": "D) Skadeprinsippet hevder at alle handlinger er riktige hvis de ikke strider mot majoritetens verdier.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er forskjellen mellom etikk og moral i filosofisk sammenheng?",
+    "answers": [
+      {"answerText": "A) Etikk er personlig tro og handling, mens moral er samfunnets lover og regler.", "isCorrect": false},
+      {"answerText": "B) Etikk er teoretisk refleksjon over riktig, mens moral er praksiser og normer i samfunnet.", "isCorrect": true},
+      {"answerText": "C) Moral handler om abstrakte prinsipper, mens etikk er praktisk.", "isCorrect": false},
+      {"answerText": "D) Etikk og moral brukes synonymt uten forskjeller i filosofi.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva innebærer Poppers falsifikasjonsprinsipp i vitenskap?",
+    "answers": [
+      {"answerText": "A) Å sikre at alle teorier kan bekreftes gjennom empiriske tester.", "isCorrect": false},
+      {"answerText": "B) Å skille mellom vitenskap og pseudovitenskap ved å teste teorier for falsifiserbarhet.", "isCorrect": true},
+      {"answerText": "C) Å styrke teorier gjennom induktiv generalisering.", "isCorrect": false},
+      {"answerText": "D) Å sikre at hypoteser alltid baseres på teoretiske prinsipper.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva menes med en 'empirisk hypotese'?",
+    "answers": [
+      {"answerText": "A) En hypotese bygget på moralske prinsipper.", "isCorrect": false},
+      {"answerText": "B) En hypotese som kan testes gjennom observasjon og erfaring.", "isCorrect": true},
+      {"answerText": "C) En hypotese som ikke kan falsifiseres, men kun bekreftes.", "isCorrect": false},
+      {"answerText": "D) En hypotese formet ut fra matematiske teorier alene.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva beskriver best et 'instrumentalistisk' syn på vitenskapelige teorier?",
+    "answers": [
+      {"answerText": "A) Teorier er nyttige verktøy for å forutsi fenomener, men ikke nødvendigvis sanne beskrivelser av virkeligheten.", "isCorrect": true},
+      {"answerText": "B) Teorier beskriver nøyaktig hvordan virkeligheten er, uavhengig av vår forståelse.", "isCorrect": false},
+      {"answerText": "C) Teorier bør tilpasses etiske normer for å være anvendelige.", "isCorrect": false},
+      {"answerText": "D) Teorier er gyldige så lenge de kan falsifiseres.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan forstår vi 'teleologiske' forklaringer i Aristoteles' filosofi?",
+    "answers": [
+      {"answerText": "A) Teleologiske forklaringer refererer til årsaker uten formål, som tilfeldige naturprosesser.", "isCorrect": false},
+      {"answerText": "B) Teleologiske forklaringer beskriver hvordan prosesser i naturen styrer mot et mål eller hensikt, som at en plante vokser for å blomstre.", "isCorrect": true},
+      {"answerText": "C) Teleologiske forklaringer er deterministiske og tillater ingen variasjon i utfallet.", "isCorrect": false},
+      {"answerText": "D) Teleologiske forklaringer handler om at naturfenomener ikke følger noen fastsatt struktur.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva innebærer Kants begrep om 'a priori'-kunnskap?",
+    "answers": [
+      {"answerText": "A) Kunnskap basert på empiriske observasjoner.", "isCorrect": false},
+      {"answerText": "B) Kunnskap som kan oppnås uavhengig av sanseerfaring.", "isCorrect": true},
+      {"answerText": "C) Kunnskap som kommer etter erfaring, ofte gjennom deduksjon.", "isCorrect": false},
+      {"answerText": "D) Kunnskap som kun gjelder etikk og moral.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva kjennetegner en skeptisk tilnærming til kunnskap?",
+    "answers": [
+      {"answerText": "A) Troen på at all kunnskap må verifiseres gjennom empiri.", "isCorrect": false},
+      {"answerText": "B) Tvilen om at det i det hele tatt er mulig å oppnå sikker kunnskap.", "isCorrect": true},
+      {"answerText": "C) Troen på at det meste av kunnskap er sant hvis det bekreftes av eksperter.", "isCorrect": false},
+      {"answerText": "D) En positiv holdning til at sannhet kan nås gjennom vitenskap.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva menes med en 'deduktiv-nomologisk' forklaringsmodell?",
+    "answers": [
+      {"answerText": "A) Det er en modell som hevder at man kan forklare et fenomen ved å knytte det til en bestemt hypotese.", "isCorrect": false},
+      {"answerText": "B) Modellen innebærer at man forklarer fenomener ved å vise at de følger logisk fra generelle lover og spesifikke betingelser.", "isCorrect": true},
+      {"answerText": "C) Modellen baserer seg på induksjon for å etablere sannheten av en forklaringsmodell.", "isCorrect": false},
+      {"answerText": "D) Modellen er kun relevant innen etikk og brukes lite i naturvitenskapen.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan kan vi best forstå skillet mellom epistemisk og etisk normativ argumentasjon?",
+    "answers": [
+      {"answerText": "A) Epistemisk handler om hvordan vi oppnår kunnskap, etisk om hva som er riktig å gjøre.", "isCorrect": true},
+      {"answerText": "B) Epistemisk argumentasjon er subjektiv, etisk argumentasjon objektiv.", "isCorrect": false},
+      {"answerText": "C) Epistemisk baseres på empiri, etisk på logikk.", "isCorrect": false},
+      {"answerText": "D) Etisk normativ argumentasjon har ingen sammenheng med empiri.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Det blir ofte bemerket at det er en asymmetri mellom bekreftelse og avkreftelse av hypoteser. Hva er forskjellen?",
+    "answers": [
+      {"answerText": "A) Kun hypoteser som avkreftes gjennom testing er helt sikkert vitenskapelig. Hypoteser som bekreftes er det ikke.", "isCorrect": false},
+      {"answerText": "B) For å avkrefte en hypotese gjennom observasjoner, kreves bare deduktive slutninger. Bekreftelse krever induksjon.", "isCorrect": true},
+      {"answerText": "C) Kun bekreftelse av hypoteser kan bidra til vitenskapelig fremskritt. Avkreftelse fører derimot til paradigmeskifter.", "isCorrect": false},
+      {"answerText": "D) Når en hypotese bekreftes av observasjoner, kan vi med sikkerhet si at den er sann. Avkreftelse gir ikke sikkerhet.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvilke av følgende påstander uttrykker best det som kalles Quine-Duhem-tesen?",
+    "answers": [
+      {"answerText": "A) Vitenskapelig aktivitet forutsetter solid og presis forståelse av det man undersøker for å gi pålitelige resultater. Hvis man har mangelfull eller feilaktig forståelse av det empiriske fenomenet så kan dette lede til feilaktige eller mangelfulle resultater.", "isCorrect": false},
+      {"answerText": "B) Vitenskap anvender observasjon eller eksperimenter for å undersøke om teorier/hypoteser er holdbare eller ikke. Resultatene av slike undersøkelser er imidlertid ofte tett sammenvevd med teoretiske antagelser som ikke testes i eksperimentet.", "isCorrect": true},
+      {"answerText": "C) Vitenskapelig aktivitet forutsetter solid og presis forståelse av teori for å gi pålitelige resultater. Hvis man har mangelfull eller feilaktig forståelse av teori så kan dette lede til feilaktige eller mangelfulle resultater.", "isCorrect": false},
+      {"answerText": "D) Vitenskapelige metoder forutsetter at man følger eksperimentelle opplegg presist i tråd med den anvendte metoden. Dersom man avviker fra det eksperimentelle opplegget, vil sannsynligvis resultatene basert på metoden være feilaktige eller mangelfulle.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Overraskelsesprinsippet sier noe om vitenskapelig bekreftelse. Hva skal til for at observasjon bekrefter en hypotese?",
+    "answers": [
+      {"answerText": "A) Observasjonen bekrefter en hypotese i den grad hypotesen er dristig og overraskende.", "isCorrect": false},
+      {"answerText": "B) Observasjonen bekrefter en hypotese i den grad den er forventet dersom hypotesen er sann, og overraskende dersom hypotesen er usann.", "isCorrect": true},
+      {"answerText": "C) Observasjonen bekrefter en hypotese i den grad observasjonen den leder til overraskende konklusjoner.", "isCorrect": false},
+      {"answerText": "D) Observasjonen bekrefter en hypotese i den grad den er overraskende dersom hypotesen er sann, og forventet dersom hypotesen er usann.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "I vitenskapsfilosofiske diskusjoner kan man støte på uttrykket ad hoc-hypotese. Hva menes med ad hoc-hypotese?",
+    "answers": [
+      {"answerText": "A) En hypotese som overraskende bekreftes når man undersøker noe helt annet.", "isCorrect": false},
+      {"answerText": "B) En hypotese som er basert på tilfeldige gjetninger uten noen form for evidens.", "isCorrect": false},
+      {"answerText": "C) En hypotese som introduseres for å “redde” en annen hypotese fra falsifikasjon.", "isCorrect": true},
+      {"answerText": "D) En hypotese som handler om de mest fundamentale vitenskapelige lovene.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Ifølge Robert Mertons KUDOS-normer, er det viktig at forskere etterstreber normen om universalisme. Hva går normen om universalisme ut på?",
+    "answers": [
+      {"answerText": "A) Den går ut på at siden vitenskapelig praksis handler om å skape et bedre samfunn, må man forske på det som er til beste for alle.", "isCorrect": false},
+      {"answerText": "B) Den går ut på at man må unngå at vitenskapelige forskningsprosjekt styres av forskeres egeninteresse.", "isCorrect": false},
+      {"answerText": "C) Den går ut på at man i utviklingen av vitenskapelige teorier må søke å komme frem til mest mulig allmenngyldige svar.", "isCorrect": false},
+      {"answerText": "D) Den går ut på at vitenskapelige påstander må kunne vurderes på bakgrunn av sitt innhold, uavhengig av hvem som fremsetter dem.", "isCorrect": true}
+    ]
+  },
+  {
+    "questionText": "Enkelte mener det lever en stor sjøorm i Loch Ness. Et av de viktigste og mest berømte «bevisene» er et kornete og uklart bilde av konturen av noe som kan se ut som en sjøorm. Skeptikere er lite imponerte. En typisk innvending er:\n«Bemerkelsesverdige påstander krever bemerkelsesverdig evidens. At det skulle leve en stor sjøorm i Loch Ness er i konflikt med mye av det vi vet om biologi og zoologi, og ville i utgangspunktet vært bemerkelsesverdig om det stemte. Det kornete og uklare bildet kan imidlertid forestille mye rart – det er ikke «bemerkelsesverdig» evidens for en sjøorm!»  \nHva er en tilsvarende måte å fremstille denne innvendingen på?  ",
+    "answers": [
+      {"answerText": "A) Ved hjelp av hypotetisk-deduktiv metode: Fra hypotesen at det lever en stor sjøorm i Loch Ness, kan man utlede observasjoner. Problemet her er at det ikke er klart at man faktisk har fått en observasjon i tråd med prediksjonene hypotesen gir oss.", "isCorrect": false},
+      {"answerText": "B) Ved hjelp av Poppers falsifikasjonisme: Kunnskapen vi har samlet i biologi og zoologi er samlet sett tilstrekkelig til å avkrefte hypotesen «det lever en stor sjøorm i Loch Ness».", "isCorrect": false},
+      {"answerText": "C) Ved hjelp av Quine–Duhem-tesen: Et fotografi kan nok kalles en test, men i dette tilfellet er det svært mange feilkilder og forutsetninger du må gjøre for å kunne konkludere med at bildet faktisk viser en sjøorm.", "isCorrect": false},
+      {"answerText": "D) Ved hjelp av overraskelsesprinsippet: At noen tar et kornete bilde av noe som likner en sjøorm, er egentlig ikke spesielt overraskende selv om det ikke var en sjøorm i Loch Ness.", "isCorrect": true}
+    ]
+  },
+  {
+    "questionText": "Vitenskapsteoretikere har lenge vært opptatt av å formulere et kriterium som skiller vitenskap fra ikke-vitenskap. Hvilken av følgende påstander uttrykker best Poppers versjon av demarkasjonskriteriet?",
+    "answers": [
+      {"answerText": "A) Vitenskap er basert på den vitenskapelige metode, dvs. hypotetisk-deduktiv metode.", "isCorrect": false},
+      {"answerText": "B) Vitenskapelige hypoteser må kunne verifiseres eller bekreftes, og hypotesene bør være dristige og vidtrekkende.", "isCorrect": false},
+      {"answerText": "C) Vitenskapelige hypoteser må kunne falsifiseres eller avkreftes, og hypotesene bør være dristige og vidtrekkende.", "isCorrect": true},
+      {"answerText": "D) Vitenskap er basert på observasjon og eksperiment, og induktiv generalisering av resultater fra observasjon og eksperiment.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvilket av følgende utsagn passer best som beskrivelse av det Kuhn omtaler som normalvitenskap?",
+    "answers": [
+      {"answerText": "A) I perioder med normalvitenskap forsøker man å utvikle stadig mer detaljerte og sofistikerte hypoteser basert på forutsetningene gitt av paradigmet, og forsøker å teste disse.", "isCorrect": true},
+      {"answerText": "B) I perioder kalt normalvitenskap forsøker man å oppdage nye fenomener ved å formulere radikalt nye teoretiske og metodologiske rammeverk samt nye eksperimentelle protokoller og nye vitenskapelige instrumenter.", "isCorrect": false},
+      {"answerText": "C) I perioder kalt normalvitenskap forsøker man å konstruere nye paradigmer som kan ivareta grunninnsiktene i det opprinnelige paradigmet, men på en klarere og mer presis måte.", "isCorrect": false},
+      {"answerText": "D) I perioder kalt normalvitenskap forsøker man å gjendrive kjernen i paradigmet ved å utsette de sentrale teoretiske og metodologiske antakelsene for systematisk undersøkelse og eksperimentering.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva kjennetegner et teleologisk (Aristotelisk) natursyn?",
+    "answers": [
+      {"answerText": "A) At prosesser i naturen beskrives som å realisere visse mål.", "isCorrect": true},
+      {"answerText": "B) At Gud har skapt naturen og naturens lover.", "isCorrect": false},
+      {"answerText": "C) At vitenskapen bør ha som mål å avdekke lovmessighet i naturen.", "isCorrect": false},
+      {"answerText": "D) At all bevegelse vi observerer skyldes mekaniske krefter som virker på materie.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Se for deg at Inga resonnerer på følgende måte: «Alle hendelser er fullt ut årsaksbestemte. Det betyr for eksempel at Utøya-terroristen ikke kunne ha valgt å handle annerledes enn han gjorde, gitt sine gener, oppvekst og andre faktorer som lå utenfor terroristens kontroll. Men terroristen må likevel sies å ha handlet av fri vilje. I alle fall fram til han ble stoppet av politiet handlet han uhindret helt i tråd i med sine ønsker og sin oppfatning av situasjonen».\nHvordan er det mest nærliggende å beskrive synet til Inga?",
+    "answers": [
+      {"answerText": "A) Inga har et libertariansk syn.", "isCorrect": false},
+      {"answerText": "B) Inga har et kompatibilistisk syn.", "isCorrect": true},
+      {"answerText": "C) Inga har et kommunitaristisk syn.", "isCorrect": false},
+      {"answerText": "D) Inga har et hardt deterministisk syn.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Fysikalistiske syn på bevissthet hevder at bevisste opplevelser, som det å føle smerte eller å se noe rødt, ikke er noe annet enn en spesiell type fysiske hendelser, tilstander og prosesser i nervesystemet etc. Dermed, hevdes det videre, vil bevissthet kunne gis en fullstendig beskrivelse og forklaring i rent naturvitenskapelige termer, på linje med slike andre fysiske fenomener som varme, elektrisitet etc. Mot dette synet har den australske filosofen Frank Jackson reist en velkjent innvending.\nHva vil være en rimelig framstilling av Frank Jacksons innvending mot fysikalismen?",
+    "answers": [
+      {"answerText": "A) Selv om man har naturvitenskapelig kunnskap om alle fysiske, kjemiske, biologiske fakta, vet man ikke nødvendigvis hvordan en farge ser ut for en person.", "isCorrect": true},
+      {"answerText": "B) Bevissthet krever at vi bruker hele kroppen i samspill med omgivelsene våre.", "isCorrect": false},
+      {"answerText": "C) Følelser og opplevelser har etisk betydning, noe fysiske forskjeller ikke har.", "isCorrect": false},
+      {"answerText": "D) Bevisste opplevelser har emosjonelle kvaliteter som hjernetilstander ikke kan gi uttrykk for.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "I filmen Ex Machina er den kunstig intelligente roboten Ava en sentral skikkelse. Hun opptrer på en slik måte at den andre av filmens hovedpersoner får sympati med henne, og bestemmer seg for å sette henne fri fra fangenskapet hun befinner seg i.\n Lars har nettopp sett filmen, og resonnerer på følgende måte: «På den ene siden er Ava en maskin. Hun består ikke av biologisk materiale. På den andre siden kan Ava stille spørsmål og gi svar som om hun var et menneske. Ytre stimuli forårsaker indre tilstander hos henne, og disse tilstandene har de samme virkningene som for eksempel ønsker og oppfatninger har hos oss. Hun kan gi uttrykk for sorg, eller for glede, når slike følelser er passende. \nHun kan oppføre seg flørtende, og manipulerende. Det er derfor rimelig å anta at Ava har bevissthet og er intelligent på samme måte som oss mennesker».Hvilket syn på bevissthet er det mest nærliggende å si at Lars' resonnement om Ava reflekterer?",
+    "answers": [
+      {"answerText": "A) Et funksjonalistisk syn.", "isCorrect": true},
+      {"answerText": "B) Et identitetsteoretisk syn.", "isCorrect": false},
+      {"answerText": "C) Et enaktivistisk syn.", "isCorrect": false},
+      {"answerText": "D) Et dualistisk syn.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "I et leserbrev i en avis svarer en student på kritikk en universitetsprofessor har fremsatt i en kronikk. Kritikken fra professoren går på studenters bruk av sosiale medier. «De er ikke bare forstyrrende for undervisningen, de er også ødeleggende for studenters sosiale engasjement. For de forhindrer dem i å danne reelle sosiale nettverk», hevder professoren. Studenten svarer at sosiale medier kan være et problem for eldre brukere som ikke er vokst opp med en slik teknologi. Men unge mennesker som har brukt dem siden de var små er «digitalt innfødte». Derfor har de langt bedre forutsetninger for å bruke dem på en positiv måte\n. Hvilke argumenter kunne man brukt som støtte for studentens synspunkt ifølge Bernard Stiegler?",
+    "answers": [
+      {"answerText": "A) Teknologier former mye av det vi tenker på som menneskelig da de muliggjør vår kultur.", "isCorrect": true},
+      {"answerText": "B) Teknologi i seg selv er nøytral; bare vår bruk avgjør positivt eller negativt.", "isCorrect": false},
+      {"answerText": "C) Teknologi kan kompensere for menneskets manglende naturlige evner.", "isCorrect": false},
+      {"answerText": "D) Professorens innvending er et illegitimt skråplansargument.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hanne er teknologisk determinist. Hun diskuterer kunstig intelligens med vennegjengen. Hvilket utsagn representerer best Hannes posisjon som teknologisk determinist?",
+    "answers": [
+      {"answerText": "A) Kunstig intelligens vil ta over mange jobber i fremtiden fordi den er mer effektiv enn mennesker.", "isCorrect": true},
+      {"answerText": "B) Samfunnet kan regulere bruken av kunstig intelligens i arbeidsmarkedet.", "isCorrect": false},
+      {"answerText": "C) Kunstig intelligens er bare et verktøy vi kan velge å bruke eller ikke.", "isCorrect": false},
+      {"answerText": "D) Kunstig intelligens kan aldri erstatte mennesker i jobber som krever kreativitet og sosial interaksjon.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "I debatten om hvorvidt mennesker har fri vilje, hva menes med kompatibilisme?",
+    "answers": [
+      {"answerText": "A) Selv om alle prosesser er determinert, kan mennesker likevel ha fri vilje.", "isCorrect": true},
+      {"answerText": "B) Noen valg er ikke forutbestemte til tross for deterministiske prosesser.", "isCorrect": false},
+      {"answerText": "C) Kvantefysikk viser at noen hendelser er vilkårlige.", "isCorrect": false},
+      {"answerText": "D) Illusjonen av fri vilje er viktig for vår selvforståelse.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Fuglearten storjordspurv holder til på Galapagos, og kjennetegnes ved å ha større og kraftigere nebb enn beslektede arter.  \nHvilken av de følgende alternativene er det mest nærliggende å regne som en teleologisk forklaring av at en storjordspurv har et kraftig nebb?",
+    "answers": [
+      {"answerText": "A) Storjordspurven har kraftig nebb for å kunne knekke nøtter og spise store frø.", "isCorrect": true},
+      {"answerText": "B) Storjordspurven har kraftig nebb fordi tidligere generasjoner med større nebb var mer tilpasningsdyktige.", "isCorrect": false},
+      {"answerText": "C) Storjordspurven har kraftig nebb fordi Gud har skapt den slik.", "isCorrect": false},
+      {"answerText": "D) Storjordspurven har kraftig nebb fordi det er et typisk trekk ved arten.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Betegnelsen «det mekanistiske natursynet» brukes om natursynet som begynte å ta form blant naturvitere og filosofer i Europa på 1500-tallet. \nHvilket utsagn stemmer best overens med det mekanistiske natursynet?",
+    "answers": [
+      {"answerText": "A) Enhver bevegelse kan i prinsippet beskrives og forutsies ved hjelp av matematikk.", "isCorrect": true},
+      {"answerText": "B) Det er en vesentlig, kvalitativ forskjell mellom levende organismer og ikke-levende gjenstander.", "isCorrect": false},
+      {"answerText": "C) Vi må skille mellom tre typer forandring: kvalitativ, kvantitativ og substansiell.", "isCorrect": false},
+      {"answerText": "D) De fysiske lovene på jorda er forskjellige fra de som gjelder for himmellegemer.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Les den følgende kommentaren:  \n\n«Når et menneske har smerter, er de underliggende fysiske prosessene helt forskjellige fra når for eksempel en blekksprut har smerter. Det er også mulig å tenke seg utenomjordiske vesener som kan oppleve smerter, selv om de fysisk er enda mer forskjellige fra oss mennesker enn det blekkspruter er.» \n\nBetraktninger av denne typen utgjør et spesielt stort problem for en bestemt type teori om bevissthet. Hvilken?  ",
+    "answers": [
+      {"answerText": "A) Identitetsteori", "isCorrect": true},
+      {"answerText": "B) Funksjonalisme", "isCorrect": false},
+      {"answerText": "C) Kroppsliggjøringsteori", "isCorrect": false},
+      {"answerText": "D) Fenomenologisk teori", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Les den følgende uttalelsen: «Kjernekraft i seg selv er verken godt eller ondt. Det er først når mennesker velger å bruke kraften i vitenskapen til skade for miljø og liv at teknologien kan bli «ond».» Hvilket teknologisyn gjenspeiles i uttalelsen «Kjernekraft i seg selv er verken godt eller ondt»?",
+    "answers": [
+      {"answerText": "A) Et instrumentalistisk teknologisyn.", "isCorrect": true},
+      {"answerText": "B) Et deterministisk teknologisyn.", "isCorrect": false},
+      {"answerText": "C) Et kompatibilistisk teknologisyn.", "isCorrect": false},
+      {"answerText": "D) Et relasjonelt teknologisyn.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva innebærer Turings test for å avgjøre om maskiner kan hevdes å tenke?",
+    "answers": [
+      {"answerText": "A) Hvis en maskin kan gi svar som i de fleste tilfeller ikke kan skilles fra menneskers, kan den hevdes å tenke.", "isCorrect": true},
+      {"answerText": "B) Hvis maskinens svar overgår menneskers i presisjon og detaljer, kan den hevdes å tenke.", "isCorrect": false},
+      {"answerText": "C) Maskinen må forstå sine omgivelser på samme måte som et biologisk vesen.", "isCorrect": false},
+      {"answerText": "D) Maskinen må ha de samme forutsetningene for tenkning som finnes i biologiske vesener.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "I en diskusjon om hva fremveksten av smarte samtaleroboter og andre former for kunstig intelligente system vil ha å si for hvilke eksamensformer som vil bli brukt i framtida, sier Per: «Denne teknologien legger ikke bare føringer for hvordan studenters faglige måloppnåelse skal vurderes framover. På lengre sikt vil den også endre selve vårt begrep om hva det vil si å oppnå og inneha kunnskap om noe, og derigjennom legge nye premisser for utdannings- og forskningspolitiske avgjørelser». \nHvilken teknologifilosofisk posisjon er det Per tar til orde for?",
+    "answers": [
+      {"answerText": "A) Teknologisk determinisme", "isCorrect": true},
+      {"answerText": "B) Teknologisk instrumentalisme", "isCorrect": false},
+      {"answerText": "C) Relasjonelt teknologisyn", "isCorrect": false},
+      {"answerText": "D) Konstruktivistisk teknologisyn", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Mona hevder at dødsstraff alltid er moralsk galt. Hvordan vil en moralsk nihilist karakterisere utsagnet hennes?",
+    "answers": [
+      {"answerText": "A) Monas syn på dødsstraff er bare et uttrykk for smak og behag.", "isCorrect": true},
+      {"answerText": "B) Monas syn på dødsstraff er uttrykk for alle mennesker sin ukrenkelige verdighet.", "isCorrect": false},
+      {"answerText": "C) Monas syn på dødsstraff er gyldig kun i stater der dødsstraff er forbudt, for moral og juss henger uløselig sammen.", "isCorrect": false},
+      {"answerText": "D) Monas syn på dødsstraff er akseptabelt, kun så lenge det ikke er snakk om usedvanlig grusomme forbrytelser som gjerningspersonen ikke angrer.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Se på følgende argument: «Veganisme er meningsløst ettersom mennesker har spist kjøtt i tusenvis av år». Hvorfor er dette argumentet problematisk?",
+    "answers": [
+      {"answerText": "A) Det er en appell til det naturlige, en form for slutning fra er til bør.", "isCorrect": true},
+      {"answerText": "B) Det er et brudd på skadeprinsippet fordi det uttrykker paternalisme.", "isCorrect": false},
+      {"answerText": "C) Det innebærer at det også må være moralsk tillat å spise menneskekjøtt.", "isCorrect": false},
+      {"answerText": "D) Det er åpenbart at dyr har akkurat de samme rettigheter som mennesker.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "En av Kants formuleringer av det kategoriske imperativ kalles humanitetsformuleringen. Hvilket av de følgende er det mest presise uttrykket for humanitetsformuleringen?",
+    "answers": [
+      {"answerText": "A) Aldri behandle noen bare som et middel, men alltid samtidig som et mål.", "isCorrect": true},
+      {"answerText": "B) Handle slik at alle mennesker skal kunne handle på samme måte som du selv.", "isCorrect": false},
+      {"answerText": "C) Handle slik overfor din neste at summen av velferd samtidig blir størst mulig for menneskeheten.", "isCorrect": false},
+      {"answerText": "D) Alle mennesker har en medfødt rett til å få dekket grunnleggende fysiske, sosiale og emosjonelle behov.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvilket av de følgende alternativene uttrykker en vanlig innvending mot utilitarismen?",
+    "answers": [
+      {"answerText": "A) Utilitarismens fokus på maksimering av gode konsekvenser fører noen ganger til at vi krenker interessene til enkeltindivider.", "isCorrect": true},
+      {"answerText": "B) Utilitarismen viser alt for liten toleranse for ulike livsstiler.", "isCorrect": false},
+      {"answerText": "C) Utilitarismen sier bare noe om karaktertrekk, og gir i liten grad svar på hvordan vi bør handle.", "isCorrect": false},
+      {"answerText": "D) Utilitarismens fokus på lykke skaper et etisk system som utelukkende vektlegger mennesker og ikke andre levende vesener.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er ifølge en dydsetiker grunnlaget for moralsk bedømmelse?",
+    "answers": [
+      {"answerText": "A) Hvilke karaktertrekk en person har.", "isCorrect": true},
+      {"answerText": "B) Hvilke konsekvenser en handling har.", "isCorrect": false},
+      {"answerText": "C) Om handlingen er motivert av plikt eller ikke.", "isCorrect": false},
+      {"answerText": "D) Om handlingen er i overenstemmelse med de gjeldende lover.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvilken av de følgende setningene er et eksempel på et hypotetisk imperativ?",
+    "answers": [
+      {"answerText": "A) Hvis du ønsker at andre skal ha tillit til deg, bør du aldri lyve.", "isCorrect": true},
+      {"answerText": "B) Handle bare etter moralregler som er slik at du samtidig kan ville at moralregelen skal bli en allmenn lov.", "isCorrect": false},
+      {"answerText": "C) Aldri behandle noen bare som et middel, men alltid samtidig som et mål.", "isCorrect": false},
+      {"answerText": "D) Handle som om maksimen for din handling gjennom din vilje skulle bli en allmenn naturlov.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Det mangler nyrer til livsviktige nyretransplantasjoner, og det er foreslått å tillate salg av egne nyrer. Hvilken teori ligger i størst grad til grunn for argumentet at salg av nyrer kan gjøre folk grådigere, mens organdonasjon kan fremme hjelpsomhet?",
+    "answers": [
+      {"answerText": "A) Dydsetikk", "isCorrect": true},
+      {"answerText": "B) Utilitarisme", "isCorrect": false},
+      {"answerText": "C) Pliktetikk", "isCorrect": false},
+      {"answerText": "D) Kulturrelativisme", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Anna mener at vi bør gi mer penger til bistand. Hvilket alternativ uttrykker best en utilitaristisk begrunnelse for Annas synspunkt?",
+    "answers": [
+      {"answerText": "A) Nødstilte mennesker vil ha mer utbytte av å motta noe av vår velstandsoverflod gjennom bistand enn vi vil ha av å beholde hele denne overfloden for oss selv.", "isCorrect": true},
+      {"answerText": "B) Det er moralsk påkrevd at vi hjelper andre, men vi står selv fritt til å velge hvordan vi vil hjelpe.", "isCorrect": false},
+      {"answerText": "C) Sjenerøsitet er en betingelse for å være moralsk god. For å kunne regnes som sjenerøs må man handle på en sjenerøs måte, slik som ved å gi penger til bistand.", "isCorrect": false},
+      {"answerText": "D) Fattigdom bryter med vår naturlige rett til frihet, fordi det setter mennesker i et avhengighetsforhold til rike. Derfor bør vi bidra til å utrydde fattigdom.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvilken av de følgende formuleringene er mest i samsvar med Kants universalitetsprinsipp?",
+    "answers": [
+      {"answerText": "A) Du bør ikke lyve, for du kan ikke konsistent ha til hensikt å lyve for å oppnå en fordel samtidig som du tillater at alle andre kan handle på samme måte.", "isCorrect": true},
+      {"answerText": "B) Du bør ikke lyve såfremt det ikke er nødvendig for å redde deg selv eller noen andre ut av en høyst prekær situasjon.", "isCorrect": false},
+      {"answerText": "C) Du bør ikke lyve, for løgn undergraver tillit mellom mennesker, og tillit er viktig for at samfunnet skal fungere.", "isCorrect": false},
+      {"answerText": "D) Du bør ikke lyve, da dette er å krenke den verdigheten som alle personer har krav på å få respektert.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvilken av de følgende begrunnelsene for å gi til veldedige formål er mest nærliggende for en dydsetiker?",
+    "answers": [
+      {"answerText": "A) Sjenerøsitet er et godt karaktertrekk, og sjenerøse mennesker gir til veldedige formål når de selv har mer enn de trenger.", "isCorrect": true},
+      {"answerText": "B) Sammenlignet med å bruke penger på eget luksusforbruk, utgjør det et større velferdsbidrag om vi gir pengene til en organisasjon som jobber for de fattige i samfunnet.", "isCorrect": false},
+      {"answerText": "C) Vi bør hjelpe de som er dårligere stilt enn oss selv, for det ville vi selv ønsket hvis vi var blant de dårligst stilte.", "isCorrect": false},
+      {"answerText": "D) Vi har plikt til å hjelpe andre opp til et velferdsnivå som er tilstrekkelig for at de kan leve godt.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "I en diskusjon sier en av dine venner: «Det er galt at mafiaen truer småbutikker til å betale for beskyttelse her i Norge, men det er noe annet at de gjør slikt i Sør-Italia eller New York der praksisen med å kreve beskyttelsespenger er moralsk akseptert.» Hvilken karakteristikk passer best for din venns standpunkt?",
+    "answers": [
+      {"answerText": "A) Din venns standpunkt er kulturrelativistisk.", "isCorrect": true},
+      {"answerText": "B) Din venns standpunkt baserer seg på dydsetikk.", "isCorrect": false},
+      {"answerText": "C) Din venns standpunkt er utilitaristisk.", "isCorrect": false},
+      {"answerText": "D) Din venn baserer seg på en appell til det naturlige.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvilket av de følgende utsagnene uttrykker tydeligst en utilitaristisk tilnærming til spørsmål om hvordan vi bør forholde oss til andre dyr?",
+    "answers": [
+      {"answerText": "A) Å tillegge lidelsen til et menneske større vekt enn like sterk lidelse hos et dyr er sammenlignbart med rasisme.", "isCorrect": true},
+      {"answerText": "B) Bare de dyrene som selv har evne til moralsk ansvar, kan ha moralsk status i form av egenverdi.", "isCorrect": false},
+      {"answerText": "C) Vi har plikt til å behandle alle skapninger med bevissthet som mål i seg selv, og det inkluderer også dyr.", "isCorrect": false},
+      {"answerText": "D) Det finnes ikke noe allment prinsipp om hva respektfull og omsorgsfull behandling av dyr består i, men det varierer fra situasjon til situasjon.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Et politisk parti foreslår at alle ungdommer burde gjennomføre et pliktår med samfunnstjeneste det året de fyller 18. En av partiets representanter argumenterer slik: «Gjennom samfunnstjeneste vil unge mennesker utvikle egenskaper som medfølelse, ansvarlighet og samfunnsengasjement, som er viktige for å leve et lykkelig liv.» Hvilken etisk posisjon reflekterer representantens argument?",
+    "answers": [
+      {"answerText": "A) Kulturrelativisme", "isCorrect": false},
+      {"answerText": "B) Dydsetikk", "isCorrect": true},
+      {"answerText": "C) Pliktetikk", "isCorrect": false},
+      {"answerText": "D) Kulturrelativisme", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva menes med 'naturalistisk feilslutning' i moralfilosofi?",
+    "answers": [
+      {"answerText": "A) Å trekke en etisk konklusjon fra en deskriptiv premiss uten begrunnelse.", "isCorrect": true},
+      {"answerText": "B) Å tro at moralske sannheter er objektive og universelle.", "isCorrect": false},
+      {"answerText": "C) Å anta at alle mennesker har samme moralske verdier.", "isCorrect": false},
+      {"answerText": "D) Å vurdere handlinger utelukkende ut fra deres konsekvenser.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan definerer Thomas Kuhn en 'anomalitet' innenfor et paradigme?",
+    "answers": [
+      {"answerText": "A) En hendelse som bekrefter de eksisterende vitenskapelige teoriene.", "isCorrect": false},
+      {"answerText": "B) Et fenomen som ikke kan forklares innenfor det eksisterende paradigmet.", "isCorrect": true},
+      {"answerText": "C) En observasjon som nødvendigvis fører til et paradigmeskifte.", "isCorrect": false},
+      {"answerText": "D) En metode for å teste teorier uavhengig av empiri.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er et 'empirisk' argument i filosofisk sammenheng?",
+    "answers": [
+      {"answerText": "A) Et argument som bygger på sanseinntrykk og observasjoner.", "isCorrect": true},
+      {"answerText": "B) Et argument som baserer seg utelukkende på logisk resonnement.", "isCorrect": false},
+      {"answerText": "C) Et argument som forklarer moralske sannheter.", "isCorrect": false},
+      {"answerText": "D) Et argument som fokuserer på introspektiv refleksjon.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva innebærer 'universalisme' i KUDOS-normene for vitenskap?",
+    "answers": [
+      {"answerText": "A) Vitenskapelige påstander skal vurderes uavhengig av forskerens personlige bakgrunn.", "isCorrect": true},
+      {"answerText": "B) Alle vitenskapelige teorier må være relevante for alle kulturer.", "isCorrect": false},
+      {"answerText": "C) Alle forskere må være enige om vitenskapelige metoder.", "isCorrect": false},
+      {"answerText": "D) Vitenskap skal fokusere på det som er relevant for samfunnet.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan skiller Descartes mellom 'res cogitans' og 'res extensa'?",
+    "answers": [
+      {"answerText": "A) 'Res cogitans' er det tenkende, ikke-utstrakte, mens 'res extensa' er det utstrakte, materielle.", "isCorrect": true},
+      {"answerText": "B) 'Res cogitans' beskriver naturlover, mens 'res extensa' beskriver etiske normer.", "isCorrect": false},
+      {"answerText": "C) 'Res cogitans' er en del av kroppen, mens 'res extensa' er en del av sjelen.", "isCorrect": false},
+      {"answerText": "D) 'Res cogitans' gjelder empiri, mens 'res extensa' gjelder logikk.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva menes med 'a posteriori'-kunnskap?",
+    "answers": [
+      {"answerText": "A) Kunnskap som er avhengig av erfaring og sanseinntrykk.", "isCorrect": true},
+      {"answerText": "B) Kunnskap som er uavhengig av alle sanseerfaringer.", "isCorrect": false},
+      {"answerText": "C) Kunnskap som er deduktivt bevist uten empirisk støtte.", "isCorrect": false},
+      {"answerText": "D) Kunnskap om metafysiske sannheter.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er det sentrale poenget i John Stuart Mills 'skadeprinsipp'?",
+    "answers": [
+      {"answerText": "A) Individets frihet kan bare begrenses for å forhindre skade på andre.", "isCorrect": true},
+      {"answerText": "B) Samfunnet kan regulere handlinger som bryter med moral, selv om ingen blir skadet.", "isCorrect": false},
+      {"answerText": "C) Individuell frihet skal alltid prioriteres over samfunnets normer.", "isCorrect": false},
+      {"answerText": "D) Mennesker har full frihet til å handle som de ønsker uten konsekvenser.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan kan vi best forstå 'epistemisk relativisme'?",
+    "answers": [
+      {"answerText": "A) Oppfatningen om at hva som regnes som kunnskap kan variere mellom kulturer.", "isCorrect": true},
+      {"answerText": "B) Troen på at kunnskap er objektiv og uavhengig av kulturelle forskjeller.", "isCorrect": false},
+      {"answerText": "C) At all kunnskap må være empirisk verifiserbar for å være gyldig.", "isCorrect": false},
+      {"answerText": "D) At kunnskap kun kan oppnås gjennom deduktiv logikk.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er formålet med en 'kontrollgruppe' i et vitenskapelig eksperiment?",
+    "answers": [
+      {"answerText": "A) Å sammenligne effekten av den eksperimentelle variabelen mot en gruppe som ikke påvirkes.", "isCorrect": true},
+      {"answerText": "B) Å motta den eksperimentelle behandlingen for å bekrefte hypotesen.", "isCorrect": false},
+      {"answerText": "C) Å teste flere hypoteser samtidig uten ekstern variabel.", "isCorrect": false},
+      {"answerText": "D) Å redusere den statistiske usikkerheten i dataene.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan beskriver Hume sin skepsis til kausalitet?",
+    "answers": [
+      {"answerText": "A) Han mener at kausalitet er en vane eller forventning vi har, ikke noe vi kan observere direkte.", "isCorrect": true},
+      {"answerText": "B) Han hevder at kausalitet er en naturlov vi oppdager gjennom empiri.", "isCorrect": false},
+      {"answerText": "C) Han påstår at kausalitet er iboende i alle objekter og handlinger.", "isCorrect": false},
+      {"answerText": "D) Han mener at kausalitet er en rasjonell nødvendighet som krever deduksjon.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva beskriver forskjellen mellom induktive og deduktive argumenter ifølge læreboken?",
+    "answers": [
+      {"answerText": "A) Deduktive argumenter gir sannsynlige konklusjoner, mens induktive gir nødvendige konklusjoner.", "isCorrect": false},
+      {"answerText": "B) Induktive argumenter gir sannsynlige konklusjoner basert på observasjoner, mens deduktive argumenter gir nødvendige konklusjoner.", "isCorrect": true},
+      {"answerText": "C) Induktive argumenter krever ingen premisser, mens deduktive krever empiriske premisser.", "isCorrect": false},
+      {"answerText": "D) Deduktive argumenter baserer seg på observasjoner, mens induktive er rene antakelser.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er et kjennetegn ved 'empirisk falsifiserbarhet' ifølge Karl Popper?",
+    "answers": [
+      {"answerText": "A) Teorier kan bekreftes hvis de stemmer overens med observasjoner.", "isCorrect": false},
+      {"answerText": "B) En teori må kunne motbevises gjennom empiriske tester for å være vitenskapelig.", "isCorrect": true},
+      {"answerText": "C) En teori kan bare anses som vitenskapelig hvis den har blitt verifisert.", "isCorrect": false},
+      {"answerText": "D) Empirisk falsifiserbarhet innebærer at en teori aldri kan motbevises.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan forklarer Kants etikk prinsippet om 'mennesker som mål i seg selv'?",
+    "answers": [
+      {"answerText": "A) Mennesker bør behandles som midler for å oppnå et større gode.", "isCorrect": false},
+      {"answerText": "B) Mennesker skal aldri brukes som midler, men alltid respekteres som mål i seg selv.", "isCorrect": true},
+      {"answerText": "C) Mennesker er alltid et middel for samfunnet de lever i.", "isCorrect": false},
+      {"answerText": "D) Mennesker bør bare behandles som mål hvis de oppfyller bestemte etiske krav.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva menes med 'normativ etikk'?",
+    "answers": [
+      {"answerText": "A) Normativ etikk handler om hvordan vi oppnår kunnskap om moral.", "isCorrect": false},
+      {"answerText": "B) Normativ etikk utforsker hva som er riktig eller galt uavhengig av kultur og tid.", "isCorrect": true},
+      {"answerText": "C) Normativ etikk er utelukkende deskriptiv og basert på empiri.", "isCorrect": false},
+      {"answerText": "D) Normativ etikk tar kun for seg sosiale konvensjoner.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er et kjennetegn på et 'gyldig argument' i logikken?",
+    "answers": [
+      {"answerText": "A) Et gyldig argument har sanne premisser og en sann konklusjon.", "isCorrect": false},
+      {"answerText": "B) Et gyldig argument innebærer at konklusjonen følger nødvendigvis fra premissene, hvis de er sanne.", "isCorrect": true},
+      {"answerText": "C) Et gyldig argument kan alltid bekreftes empirisk.", "isCorrect": false},
+      {"answerText": "D) Et gyldig argument må støtte seg på moralske premisser.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan forstås skillet mellom 'deskriptive' og 'preskriptive' påstander?",
+    "answers": [
+      {"answerText": "A) Deskriptive påstander beskriver hva som er, mens preskriptive påstander sier noe om hva som bør være.", "isCorrect": true},
+      {"answerText": "B) Deskriptive påstander er alltid subjektive, mens preskriptive er objektive.", "isCorrect": false},
+      {"answerText": "C) Preskriptive påstander beskriver fakta, mens deskriptive vurderer normer.", "isCorrect": false},
+      {"answerText": "D) Deskriptive påstander gjelder kun moral, mens preskriptive omhandler vitenskap.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva innebærer Aristoteles' 'gyldne middelvei'?",
+    "answers": [
+      {"answerText": "A) At alle moralske handlinger bør være ekstreme for å være gode.", "isCorrect": false},
+      {"answerText": "B) At dyd ligger i balansen mellom to ytterligheter, for eksempel mellom overmot og feighet.", "isCorrect": true},
+      {"answerText": "C) At mennesker bør strebe etter å være så moderate som mulig i alle handlinger.", "isCorrect": false},
+      {"answerText": "D) At moralske valg alltid skal være basert på samfunnsnormer.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva menes med at vitenskapelige teorier skal være 'parsimoniske'?",
+    "answers": [
+      {"answerText": "A) At de skal forklare så mange fenomener som mulig uten unødvendige antakelser.", "isCorrect": true},
+      {"answerText": "B) At de skal være fleksible og tilpasses ulike observasjoner.", "isCorrect": false},
+      {"answerText": "C) At de skal være kompliserte for å dekke alle detaljer.", "isCorrect": false},
+      {"answerText": "D) At de skal være subjektive og tilpasses individuelle tolkninger.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva innebærer 'hypotetisk-deduktiv metode' i forskning?",
+    "answers": [
+      {"answerText": "A) At man tester en teori ved å forsøke å bekrefte den med induktive resonnementer.", "isCorrect": false},
+      {"answerText": "B) At man tester en teori ved å utlede forutsigelser og undersøker om disse kan falsifiseres.", "isCorrect": true},
+      {"answerText": "C) At man etablerer en teori utelukkende gjennom empiri.", "isCorrect": false},
+      {"answerText": "D) At man alltid bekrefter teorien uavhengig av observasjoner.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er Kants 'kategoriske imperativ'?",
+    "answers": [
+      {"answerText": "A) En regel som gjelder betinget av kulturelle og personlige preferanser.", "isCorrect": false},
+      {"answerText": "B) En regel som gjelder universelt og uavhengig av konsekvenser.", "isCorrect": true},
+      {"answerText": "C) En etisk regel som gjelder kun under spesielle forhold.", "isCorrect": false},
+      {"answerText": "D) En regel som støtter de mest fordelaktige handlingene.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva betyr 'utilitarisme' ifølge John Stuart Mill?",
+    "answers": [
+      {"answerText": "A) En handling er moralsk hvis den maksimerer lykke og minimerer lidelse for flest mulig.", "isCorrect": true},
+      {"answerText": "B) En handling er moralsk hvis den gir mest fordeler til de rikeste.", "isCorrect": false},
+      {"answerText": "C) En handling er moralsk hvis den følger universelle normer uansett utfall.", "isCorrect": false},
+      {"answerText": "D) En handling er moralsk hvis den følger individuelle interesser.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva kjennetegner en 'teleologisk' forklaring i Aristoteles' filosofi?",
+    "answers": [
+      {"answerText": "A) At hendelser skjer uten noe formål eller mål.", "isCorrect": false},
+      {"answerText": "B) At alle fenomener har et iboende mål eller sluttformål de søker å oppnå.", "isCorrect": true},
+      {"answerText": "C) At naturens prosesser er tilfeldige og uforutsigbare.", "isCorrect": false},
+      {"answerText": "D) At vitenskap er uten noen form for årsaksforklaring.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva menes med et 'ontologisk' spørsmål innen filosofi?",
+    "answers": [
+      {"answerText": "A) Et spørsmål om hvordan vi oppnår moralsk innsikt.", "isCorrect": false},
+      {"answerText": "B) Et spørsmål om hva som eksisterer og hva som innebærer eksistens.", "isCorrect": true},
+      {"answerText": "C) Et spørsmål om hvordan vi tilegner oss kunnskap.", "isCorrect": false},
+      {"answerText": "D) Et spørsmål om universets opprinnelse.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva går 'bekreftelsesbias' ut på i vitenskapsfilosofi?",
+    "answers": [
+      {"answerText": "A) Tendensen til å søke informasjon som utfordrer våre egne antakelser.", "isCorrect": false},
+      {"answerText": "B) Tendensen til å fokusere på informasjon som bekrefter våre eksisterende overbevisninger.", "isCorrect": true},
+      {"answerText": "C) Tendensen til å avvise enhver informasjon som utfordrer våre teorier.", "isCorrect": false},
+      {"answerText": "D) Tendensen til å ignorere all informasjon som er relevant for våre teorier.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva innebærer 'skeptisisme' innen epistemologi?",
+    "answers": [
+      {"answerText": "A) Overbevisningen om at kunnskap er tilgjengelig for alle.", "isCorrect": false},
+      {"answerText": "B) En tvil om at sikker kunnskap er mulig å oppnå.", "isCorrect": true},
+      {"answerText": "C) En holdning som verdsetter kunnskap uansett hvor den kommer fra.", "isCorrect": false},
+      {"answerText": "D) En positiv tro på at alle teorier er sanne.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan kan 'stråmannsargumentasjon' benyttes i en debatt?",
+    "answers": [
+      {"answerText": "A) Ved å representere motpartens syn på en måte som gjør det lettere å angripe.", "isCorrect": true},
+      {"answerText": "B) Ved å forenkle sitt eget argument for å fremstå klarere.", "isCorrect": false},
+      {"answerText": "C) Ved å overse alt motparten sier og kun presentere egne data.", "isCorrect": false},
+      {"answerText": "D) Ved å kun fokusere på emosjonelle appell for å overbevise.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva mente Hume med at kausalitet ikke kan observeres direkte?",
+    "answers": [
+      {"answerText": "A) At vi kun ser hendelser følge hverandre, men aldri en nødvendighet mellom dem.", "isCorrect": true},
+      {"answerText": "B) At vi kan observere kausalitet direkte, men at den ofte er upålitelig.", "isCorrect": false},
+      {"answerText": "C) At kausalitet kun kan oppfattes gjennom teoretiske modeller.", "isCorrect": false},
+      {"answerText": "D) At kausalitet alltid følger naturlovene uten unntak.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva betyr 'epistemisk normativitet' i argumentasjonsteori?",
+    "answers": [
+      {"answerText": "A) Det som regulerer hva vi bør tro ut fra kunnskap og bevis.", "isCorrect": true},
+      {"answerText": "B) Det som dikterer våre moralske handlinger.", "isCorrect": false},
+      {"answerText": "C) Det som angår hva vi oppfatter gjennom sansene.", "isCorrect": false},
+      {"answerText": "D) Det som baserer seg på personlige meninger.", "isCorrect": false}
+    ]
+  }
+]
+
