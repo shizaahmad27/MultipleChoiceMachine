@@ -58,7 +58,7 @@ public class Main {
       InputStream inputStream = Main.class.getClassLoader().getResourceAsStream("alleOS_labeled.json");
 
       if (inputStream == null) {
-        System.out.println("Resource not found: " + "questions_1&2.json");
+        System.out.println("Resource not found." );
         return null;
       }
 
