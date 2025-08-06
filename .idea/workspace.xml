@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5defeba-0b3f-4b2d-9f59-f92dfd116d5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/java/org/shizaadiv/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/java/org/shizaadiv/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/resources/alleOS.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/resources/alleOS_cleaned.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/resources/alleOS_labeled.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/resources/bærekraft.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/resources/kompendium.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/resources/oldies_generell.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/resources/questions_1&amp;2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/resources/questions_3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/src/main/resources/questions_4&amp;5.json" afterDir="false" />
+    <list default="true" id="c5defeba-0b3f-4b2d-9f59-f92dfd116d5e" name="Changes" comment="cleaned up main class">
+      <change beforePath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../VÅR1/Programmering 2/MultipleChoiceMachine/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,11 +129,30 @@
       <workItem from="1744729182990" duration="1846000" />
       <workItem from="1744813339044" duration="1565000" />
       <workItem from="1754416517723" duration="7550000" />
-      <workItem from="1754469981051" duration="319000" />
+      <workItem from="1754469981051" duration="1815000" />
     </task>
+    <task id="LOCAL−00001" summary="cleaned up main class">
+      <option name="closed" value="true" />
+      <created>1754470455867</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1754470455867</updated>
+    </task>
+    <task id="LOCAL−00002" summary="cleaned up main class">
+      <option name="closed" value="true" />
+      <created>1754470503372</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1754470503372</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cleaned up main class" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaned up main class" />
   </component>
 </project>

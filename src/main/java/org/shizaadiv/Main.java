@@ -18,9 +18,11 @@ public class Main {
       return;
     }
 
-    //For å få de random
+    // Shuffle questions randomly
     Collections.shuffle(questions);
     int counter = 0;
+    int correctCount = 0;
+    int incorrectCount = 0;
 
     Scanner scanner = new Scanner(System.in);
     for (Question question : questions) {
@@ -43,12 +45,19 @@ public class Main {
               .orElse("Unknown");
       if (correct) {
         System.out.println("Correct!\n");
+        correctCount++;
       } else {
         System.out.println("Incorrect.\n");
-        System.out.println("The correct answer is: "+ correctAnswer + "\n");
+        System.out.println("The correct answer is: " + correctAnswer + "\n");
+        incorrectCount++;
       }
-      }
+    }
     scanner.close();
+
+    // Display summary
+    System.out.println("Quiz Summary:");
+    System.out.println("Correct answers: " + correctCount);
+    System.out.println("Incorrect answers: " + incorrectCount);
   }
 
   private static List<Question> loadQuestionsFromFile() {
@@ -58,7 +67,7 @@ public class Main {
       InputStream inputStream = Main.class.getClassLoader().getResourceAsStream("alleOS_labeled.json");
 
       if (inputStream == null) {
-        System.out.println("Resource not found." );
+        System.out.println("Resource not found.");
         return null;
       }
 
