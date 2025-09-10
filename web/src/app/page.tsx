@@ -42,11 +42,23 @@ export default function Home() {
   useEffect(() => {
     async function load() {
       try {
-        const res = await fetch(dataset, { cache: "no-store" });
+        // Try the dataset path first
+        let res = await fetch(dataset, { cache: "no-store" });
+        
+        // If that fails, try with a relative path (for Vercel)
+        if (!res.ok && dataset.startsWith('/')) {
+          res = await fetch(`.${dataset}`, { cache: "no-store" });
+        }
+        
         if (!res.ok) {
           throw new Error(`Failed to load dataset: ${res.status} ${res.statusText}`);
         }
+        
         const data: Question[] = await res.json();
+        if (!Array.isArray(data) || data.length === 0) {
+          throw new Error("Invalid or empty dataset");
+        }
+        
         setQuestions(shuffle(data));
         setStartedAt(Date.now());
         setIdx(0);
