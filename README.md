@@ -49,38 +49,37 @@ npm run dev
 ```
 *Open http://localhost:3000 in your browser*
 
-## Web Version (Next.js for Vercel)
-A deployable web version is in `web/` (Next.js + TypeScript). It loads the same JSON datasets from `public/`.
+## Deployment
 
-- Dev:
+### Web Version to Vercel
+1. **Install Vercel CLI**: `npm i -g vercel`
+2. **Deploy**: From `web/` folder, run `vercel`
+3. **Or connect repo** in Vercel dashboard:
+   - Framework preset: Next.js
+   - Build command: `npm run build`
+   - Output directory: `.next`
+4. **Datasets**: JSON files in `web/public/` are served as `/<file>.json`
+
+### Desktop Version Distribution
 ```bash
-cd web
-npm run dev
-```
-
-- Build:
-```bash
-cd web
-npm run build
-npm start
-```
-
-- Deploy to Vercel:
-  1) Install the Vercel CLI: `npm i -g vercel`
-  2) From `web/`: `vercel` (or connect the repo in the Vercel dashboard)
-  3) Framework preset: Next.js; Build command: `npm run build`; Output: `.next`
-  4) Datasets in `web/public/*.json` will be served as `/<file>.json`
-
-## Build
-Compile without running tests:
-```bash
+# Build JAR
 mvn -DskipTests package
+
+# Create native bundle (requires JDK with jpackage)
+jpackage --name "Multiple Choice Machine" \
+  --input target \
+  --main-jar MultipleChoiceMachine-1.0-SNAPSHOT.jar \
+  --type app-image
 ```
 
 ## Data Files
-Question sets live in `src/main/resources/` as JSON (e.g., `alleOS_labeled.json`, `kompendium.json`). The app currently loads `alleOS_labeled.json` by default. To switch datasets, change the resource name in `org/shizaadiv/QuizApp.java` inside `loadQuestions()`.
+Question sets are stored as JSON files:
+- **Desktop**: `src/main/resources/*.json`
+- **Web**: `web/public/*.json`
 
-JSON format example (array of objects):
+**Available datasets**: alleOS_labeled, alleOS, kompendium, bærekraft, oldies_generell, questions_1&2, questions_3, questions_4&5
+
+**JSON format** (array of question objects):
 ```json
 [
   {
@@ -95,30 +94,18 @@ JSON format example (array of objects):
 ]
 ```
 
-## Keyboard & UX
-- Select options: `A`, `B`, `C`, `D`
-- Submit: `Enter`
-- Visual feedback: green (correct), red (incorrect)
-
-## Packaging Options (optional)
-- Executable JAR:
-```bash
-mvn -DskipTests package
-```
-Jar will be in `target/`. Because JavaFX modules are needed at runtime, prefer `javafx:run` during development or use jlink/jpackage for distribution.
-
-- Native bundle with `jpackage` (requires JDK with jpackage):
-```bash
-jpackage --name "Multiple Choice Machine" \
-  --input target \
-  --main-jar MultipleChoiceMachine-1.0-SNAPSHOT.jar \
-  --type app-image
-```
-Adjust paths and JavaFX modules for your platform.
+## Portfolio Value
+This project demonstrates:
+- **Full-stack development**: Desktop (JavaFX) + Web (Next.js)
+- **Cross-platform deployment**: Native apps + web hosting
+- **Modern UI/UX**: Responsive design, progress tracking, statistics
+- **Data handling**: JSON parsing, state management
+- **Build tools**: Maven, npm, Vercel deployment
 
 ## Troubleshooting
-- If the window doesn’t appear on macOS, use Mission Control or click the app in the Dock.
-- Ensure Java 21 is selected. With multiple JDKs, set `JAVA_HOME` accordingly.
+- **Desktop**: If window doesn't appear on macOS, use Mission Control or click app in Dock
+- **Web**: Ensure Node.js 18+ is installed
+- **Java**: Ensure Java 21 is selected; set `JAVA_HOME` if multiple JDKs installed
 
 ## License
 Personal/educational use. Adapt as needed for your portfolio.
