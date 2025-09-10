@@ -1,0 +1,400 @@
+[
+  {
+    "questionText": "Hvordan forklarer det teleologiske natursynet årsakene til prosesser i naturen, ifølge Aristoteles?",
+    "answers": [
+      {"answerText": "A) Ved å fokusere på tingens formål og funksjon som deler av en helhet.", "isCorrect": true},
+      {"answerText": "B) Ved å forklare alle prosesser gjennom mekaniske krefter.", "isCorrect": false},
+      {"answerText": "C) Ved å bruke matematiske lover og ligninger.", "isCorrect": false},
+      {"answerText": "D) Ved å avvise at årsaker kan forstås gjennom observasjon.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er formens rolle i Aristoteles' forståelse av substans?",
+    "answers": [
+      {"answerText": "A) Form skaper substansens fysiske egenskaper alene.", "isCorrect": false},
+      {"answerText": "B) Form uttrykker hva slags type ting substansen er, mens stoffet gir substansen sin individualitet.", "isCorrect": true},
+      {"answerText": "C) Form gir substansen en bestemt plass i universet.", "isCorrect": false},
+      {"answerText": "D) Form er kun et dekorativt aspekt uten betydning.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva mener Aristoteles med at ting i naturen har en 'naturlig plass'?",
+    "answers": [
+      {"answerText": "A) At ting er tilfeldigvis plassert i universet.", "isCorrect": false},
+      {"answerText": "B) At ting forblir i ro med mindre de påvirkes av ytre krefter.", "isCorrect": false},
+      {"answerText": "C) At alle ting streber mot sitt 'naturlige sted' basert på sammensetningen av de fire elementene.", "isCorrect": true},
+      {"answerText": "D) At alle ting eksisterer uten bevegelse.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan skiller det mekanistiske natursynet seg fra det teleologiske i sin tilnærming til årsaksforklaringer?",
+    "answers": [
+      {"answerText": "A) Det mekanistiske natursynet forklarer prosesser gjennom formålsårsaker, mens det teleologiske natursynet avviser disse.", "isCorrect": false},
+      {"answerText": "B) Det mekanistiske natursynet forklarer prosesser gjennom bevirkende årsaker og avviser formålsforklaringer.", "isCorrect": true},
+      {"answerText": "C) Det mekanistiske natursynet bruker kun kvalitative beskrivelser av naturen.", "isCorrect": false},
+      {"answerText": "D) Det teleologiske natursynet bygger på eksperimentell forskning alene.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er hovedforskjellen mellom hvordan bevegelse forstås i det teleologiske og mekanistiske natursynet?",
+    "answers": [
+      {"answerText": "A) I det teleologiske synet er bevegelse alltid tilfeldig, mens det mekanistiske synet ser det som målrettet.", "isCorrect": false},
+      {"answerText": "B) Det teleologiske synet ser bevegelse som en realisering av iboende mål, mens det mekanistiske synet forklarer bevegelse som resultatet av ytre krefter.", "isCorrect": true},
+      {"answerText": "C) Det mekanistiske natursynet forklarer bevegelse som en manifestasjon av naturlige mål.", "isCorrect": false},
+      {"answerText": "D) Begge natursynene anser bevegelse som et resultat av iboende natur.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan ser det mekanistiske natursynet på forholdet mellom levende og ikke-levende ting?",
+    "answers": [
+      {"answerText": "A) Levende og ikke-levende ting behandles som fundamentalt forskjellige, der levende ting har mål og formål.", "isCorrect": false},
+      {"answerText": "B) Både levende og ikke-levende ting ses som deler av samme mekaniske system og kan beskrives ved de samme fysiske lovene.", "isCorrect": true},
+      {"answerText": "C) Levende ting forklares kun gjennom iboende natur og formål.", "isCorrect": false},
+      {"answerText": "D) Ikke-levende ting behandles med hensyn til intensjoner og bevisste valg.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvorfor var overgangen til et mekanistisk natursyn viktig for vitenskapen?",
+    "answers": [
+      {"answerText": "A) Fordi det innførte tanken om at alle prosesser kunne beskrives og forutses matematisk.", "isCorrect": true},
+      {"answerText": "B) Fordi det fremhevet behovet for å bevare ting i deres naturlige plass.", "isCorrect": false},
+      {"answerText": "C) Fordi det prioriterte kvalitativ beskrivelse av prosesser over kvantitativ analyse.", "isCorrect": false},
+      {"answerText": "D) Fordi det fremmet en eksperimentell metode som kun fokuserte på bevirkende årsaker.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvilke av det mekanistiske natursynets grunnforestillinger ble utfordret av relativitetsteorien?",
+    "answers": [
+      {"answerText": "A) Ideen om absolutte tid og rom, som ble erstattet av relativ romtid.", "isCorrect": true},
+      {"answerText": "B) Behovet for bevirkende årsaker, som ble erstattet av formålsårsaker.", "isCorrect": false},
+      {"answerText": "C) Antagelsen om at materie ikke kan være bølgenatur.", "isCorrect": false},
+      {"answerText": "D) Troen på at naturen har iboende formål og intensjoner.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan endret kvantemekanikken det mekanistiske natursynet?",
+    "answers": [
+      {"answerText": "A) Kvantemekanikken innførte usikkerhet og sannsynlighet som sentrale prinsipper på mikronivå.", "isCorrect": true},
+      {"answerText": "B) Kvantemekanikken bekreftet deterministiske årsaksforhold på makronivå.", "isCorrect": false},
+      {"answerText": "C) Kvantemekanikken erstattet alle mekanistiske forklaringer med formålsårsaker.", "isCorrect": false},
+      {"answerText": "D) Kvantemekanikken utelukket bruk av matematiske modeller for små partikler.", "isCorrect": false}
+    ]
+  },
+    {
+      "questionText": "Hva er kompatibilisme, og hvordan forklarer Hobbes fri vilje i et deterministisk verdensbilde?",
+      "answers": [
+        {"answerText": "A) Kompatibilisme er synet på at fri vilje kan eksistere samtidig med determinisme.", "isCorrect": true},
+        {"answerText": "B) Hobbes mente at frihet innebærer at vi kan handle i tråd med våre ønsker uten ytre hindringer.", "isCorrect": false},
+        {"answerText": "C) Kompatibilisme innebærer at fri vilje og determinisme utelukker hverandre.", "isCorrect": false},
+        {"answerText": "D) Hobbes mente at menneskers ønsker er uavhengige av naturlovene.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er det filosofiske problemet om forholdet mellom kropp og sinn?",
+      "answers": [
+        {"answerText": "A) Problemet omhandler sammenhengen mellom det fysiske og det mentale, eller kropp og sinn.", "isCorrect": true},
+        {"answerText": "B) Descartes prøvde å besvare dette problemet gjennom sin dualistiske teori om at kropp og sinn er to forskjellige substanser.", "isCorrect": false},
+        {"answerText": "C) Problemet fokuserer på hvordan mentale prosesser kan eksistere uten en fysisk kropp.", "isCorrect": false},
+        {"answerText": "D) Descartes mente at kropp og sinn er identiske og uten skille.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er substansdualisme?",
+      "answers": [
+        {"answerText": "A) Substansdualisme er synet om at kropp og sinn er to fundamentalt forskjellige substanser.", "isCorrect": true},
+        {"answerText": "B) Elisabeth kritiserte hvordan sinn og kropp kunne samhandle dersom de var fundamentalt forskjellige.", "isCorrect": false},
+        {"answerText": "C) Substansdualisme hevder at kropp og sinn er deler av samme substans og dermed ikke adskilte.", "isCorrect": false},
+        {"answerText": "D) Elisabeth mente at dualisme ikke kunne forklare mentale prosesser.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er fysikalisme, og hvordan forsøker identitetsteorien å forklare kropp/sinn-problemet?",
+      "answers": [
+        {"answerText": "A) Fysikalisme er synet om at alt som eksisterer er fysisk og dermed må sinnet også forklares fysisk.", "isCorrect": true},
+        {"answerText": "B) Identitetsteorien foreslår at mentale tilstander er identiske med fysiske tilstander i hjernen.", "isCorrect": false},
+        {"answerText": "C) Fysikalisme hevder at sinn og kropp er adskilte, men opererer under de samme naturlovene.", "isCorrect": false},
+        {"answerText": "D) Identitetsteorien argumenterer for at sinnstilstander kan eksistere uavhengig av hjerneaktivitet.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan utfordret Frank Jackson fysikalismen gjennom sitt kunnskapsargument?",
+      "answers": [
+        {"answerText": "A) Han hevdet at subjektiv opplevelse, som fargeopplevelse, gir oss ny kunnskap utover det fysiske.", "isCorrect": true},
+        {"answerText": "B) Jackson argumenterte for at fysikalismen ikke kan forklare hvordan det er å erfare smerte.", "isCorrect": false},
+        {"answerText": "C) Han mente at fysikalismen fullt ut kan forklare både fysiske og mentale erfaringer.", "isCorrect": false},
+        {"answerText": "D) Jacksons argument påstår at fysiske prosesser er tilstrekkelige for å forklare bevissthet.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er funksjonalisme, og hvordan kan denne tilnærmingen lede til tanken om 'det utvidede sinnet'?",
+      "answers": [
+        {"answerText": "A) Funksjonalisme foreslår at mentale tilstander kan forklares ut fra deres funksjoner, ikke deres substans.", "isCorrect": true},
+        {"answerText": "B) Funksjonalisme mener at mentale prosesser kun kan skje innenfor hjernen.", "isCorrect": false},
+        {"answerText": "C) Funksjonalisme støtter ideen om at sinnet er uavhengig av kroppslige funksjoner.", "isCorrect": false},
+        {"answerText": "D) Funksjonalisme avviser at eksterne faktorer kan påvirke mentale tilstander.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan utfordret Einsteins relativitetsteori det mekanistiske natursynet, spesielt med hensyn til tid og rom?",
+      "answers": [
+        {"answerText": "A) Relativitetsteorien erstattet ideen om absolutt tid og rom med et konsept om romtid, som påvirkes av materie og energi.", "isCorrect": true},
+        {"answerText": "B) Relativitetsteorien introduserte ideen om at tid og rom er relative og endrer seg avhengig av observatørens bevegelsestilstand.", "isCorrect": false},
+        {"answerText": "C) Relativitetsteorien antydet at tid og rom er faste og absolutte, lik Newtons perspektiv.", "isCorrect": false},
+        {"answerText": "D) Einsteins teori opprettholdt det mekanistiske synet på tid som konstant i alle referanserammer.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan kan ulike syn på naturen påvirke individers og samfunns forhold til naturen?",
+      "answers": [
+        {"answerText": "A) Et mekanistisk syn kan lede til utnyttelse av naturressurser uten hensyn til langsiktige konsekvenser.", "isCorrect": true},
+        {"answerText": "B) Et teleologisk syn kan føre til en mer bærekraftig tilnærming ved å respektere naturens iboende verdi.", "isCorrect": false},
+        {"answerText": "C) Evolusjonsteorien kan inspirere til bevaring av biologisk mangfold og ansvar for miljøet.", "isCorrect": false},
+        {"answerText": "D) Et økologisk syn kan oppfordre til redusert forbruk og resirkulering for å bevare økosystemene.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan er natursyn knyttet til etikk i forholdet vårt til naturen?",
+      "answers": [
+        {"answerText": "A) Et mekanistisk syn kan føre til et instrumentelt etikk der naturen sees som en ressurs for menneskelig nytte.", "isCorrect": true},
+        {"answerText": "B) Et teleologisk syn fremmer en etikk som tar hensyn til naturens iboende verdi og hensikt.", "isCorrect": false},
+        {"answerText": "C) Økologisk natursyn fremmer en relasjonell etikk som tar ansvar for opprettholdelse av balanse i økosystemene.", "isCorrect": false},
+        {"answerText": "D) Evolusjonslæren oppmuntrer til en ansvarlig etikk der vi tar hensyn til langsiktige konsekvenser for miljøet.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva går Heideggers teknologikritikk ut på?",
+      "answers": [
+        {"answerText": "A) Heidegger mente at teknologien gjør at vi ser verden som ressurser uten egenverdi.", "isCorrect": true},
+        {"answerText": "B) Heidegger hevdet at teknologien bidrar til menneskets frihet og kreativitet.", "isCorrect": false},
+        {"answerText": "C) Heidegger mente at teknologi er verdinøytral og uavhengig av samfunnsutviklingen.", "isCorrect": false},
+        {"answerText": "D) Heidegger mente at moderne teknologi fremmer omsorg for naturen.", "isCorrect": false}
+      ]
+    },
+  {
+    "questionText": "Hva er hovedtrekkene ved Hobbes' syn på fri vilje, og hvordan ser kompatibilismen på forholdet mellom fri vilje og determinisme?",
+    "answers": [
+      {"answerText": "A) Kompatibilismen mener at vi kun har fri vilje når vi er uavhengige av våre ønsker.", "isCorrect": false},
+      {"answerText": "B) Hobbes mente at fri vilje innebærer evnen til å gjennomføre egne ønsker uten hindringer.", "isCorrect": true},
+      {"answerText": "C) Kompatibilismen avviser muligheten for fri vilje i et deterministisk univers.", "isCorrect": false},
+      {"answerText": "D) Hobbes mente at fri vilje betyr uavhengighet fra naturlovene.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva går det filosofiske problemet om forholdet mellom kropp og sinn ut på?",
+    "answers": [
+      {"answerText": "A) Problemet fokuserer på å forklare samspillet mellom ulike deler av hjernen.", "isCorrect": false},
+      {"answerText": "B) Det handler om hvordan det mentale og det fysiske kan påvirke hverandre, spesielt sinnet og kroppen.", "isCorrect": true},
+      {"answerText": "C) Det handler om å skille mellom biologiske og psykologiske prosesser i kroppen.", "isCorrect": false},
+      {"answerText": "D) Det omhandler forholdet mellom sanser og virkelighet.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er substansdualisme, og hva gikk Elisabeth von Böhmens kritikk av substansdualismen ut på?",
+    "answers": [
+      {"answerText": "A) Substansdualisme er synet på at sinn og kropp er ulike substanser, og Elisabeth kritiserte det ved å påpeke problemet med interaksjon mellom dem.", "isCorrect": true},
+      {"answerText": "B) Elisabeth mente at substansdualisme forklarer sinn-kropp-interaksjon på en komplett måte.", "isCorrect": false},
+      {"answerText": "C) Substansdualisme er troen på at kropp og sinn kan forklares gjennom identiske fysiske prosesser.", "isCorrect": false},
+      {"answerText": "D) Substansdualisme hevder at alt er kroppslig, noe Elisabeth var enig i.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er fysikalisme generelt og identitetsteorien spesielt som tilnærming til kropp/sinn-problemet?",
+    "answers": [
+      {"answerText": "A) Identitetsteorien avviser at mentale prosesser kan ha noe med hjernen å gjøre.", "isCorrect": false},
+      {"answerText": "B) Fysikalisme fokuserer på emosjonelle tilstander, og identitetsteorien fokuserer på subjektive opplevelser.", "isCorrect": false},
+      {"answerText": "C) Fysikalisme hevder at alt kan forklares fysisk, og identitetsteorien hevder at mentale tilstander er identiske med hjerneprosesser.", "isCorrect": true},
+      {"answerText": "D) Fysikalisme hevder at alt er åndelig, mens identitetsteorien hevder at sinnet er uavhengig av kroppen.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er funksjonalisme, og hvordan kan dette synet lede til tanken om 'det utvidede sinnet'?",
+    "answers": [
+      {"answerText": "A) Funksjonalisme ser på sinnet som helt uavhengig av kroppen, noe som avviser 'det utvidede sinnet'-konseptet.", "isCorrect": false},
+      {"answerText": "B) Funksjonalisme ser eksterne objekter som hindringer for kognisjon.", "isCorrect": false},
+      {"answerText": "C) Funksjonalismen danner grunnlag for tanken om at sinnet kan inkludere eksterne objekter som redskaper.", "isCorrect": true},
+      {"answerText": "D) Funksjonalisme mener at mentale prosesser kun skjer innen hjernen og kan ikke strekke seg ut til verktøy.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er Turingtesten, og hvordan bygger den på et funksjonalistisk syn på forholdet mellom kropp og sinn?",
+    "answers": [
+      {"answerText": "A) Turingtesten vurderer en maskins emosjonelle tilknytning til mennesker, uavhengig av intelligens.", "isCorrect": false},
+      {"answerText": "B) Turingtesten måler hvor raskt en datamaskin kan lære nye språk.", "isCorrect": false},
+      {"answerText": "C) Turingtesten evaluerer en datamaskins evne til å etterligne menneskelig intelligens, basert på funksjonen til mentale prosesser.", "isCorrect": true},
+      {"answerText": "D) Turingtesten fokuserer på en datamaskins evne til selvrefleksjon.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan kan teorier om kroppsliggjøring bidra til å forklare bevissthet og sinnstilstander?",
+    "answers": [
+      {"answerText": "A) Kroppsliggjøring hevder at bevissthet og sinn er nært knyttet til kroppens interaksjon med miljøet.", "isCorrect": true},
+      {"answerText": "B) Teorier om kroppsliggjøring mener at kun hjernens struktur former sinnet.", "isCorrect": false},
+      {"answerText": "C) Kroppsliggjøring antar at sinnet eksisterer som en egen entitet uavhengig av kroppen.", "isCorrect": false},
+      {"answerText": "D) Kroppsliggjøring påstår at bevissthet er uavhengig av kroppen og er kun mentalt.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva går teknologisk determinisme ut på, og hvordan ville en teknologisk determinist se på bruken av en datingapp som Tinder?",
+    "answers": [
+      {"answerText": "A) En teknologisk determinist ser teknologi som verdinøytralt og uten påvirkning på datingkultur.", "isCorrect": false},
+      {"answerText": "B) En teknologisk determinist mener at teknologi utelukkende styrker personlige relasjoner.", "isCorrect": false},
+      {"answerText": "C) En teknologisk determinist vil si at Tinder har ført til en mer overfladisk datingkultur basert på visuelle vurderinger.", "isCorrect": true},
+      {"answerText": "D) En teknologisk determinist mener at teknologi bare brukes som et hjelpemiddel i dating.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er et sosioteknisk nettverk, og hvordan påvirker dette teknologien og samfunnet gjensidig?",
+    "answers": [
+      {"answerText": "A) Et sosioteknisk nettverk er et teknologisk system som fungerer uavhengig av sosiale faktorer.", "isCorrect": false},
+      {"answerText": "B) Et sosioteknisk nettverk viser hvordan teknologi påvirker, men ikke påvirkes av samfunnet.", "isCorrect": false},
+      {"answerText": "C) Et sosioteknisk nettverk viser sammenhengen mellom teknologi og samfunn, der begge påvirker hverandre gjensidig.", "isCorrect": true},
+      {"answerText": "D) Et sosioteknisk nettverk begrenser seg kun til teknologiske komponenter i produksjon.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva var Platons kritikk av skrivekunsten, og kan denne typen kritikk anvendes på moderne teknologi?",
+    "answers": [
+      {"answerText": "A) Platon mente skrivekunsten ville styrke menneskelig hukommelse og forståelse.", "isCorrect": false},
+      {"answerText": "B) Platon mente at skrivekunst ville svekke hukommelsen ved å stole på eksterne kilder, og lignende kritikk kan brukes på teknologi som smarttelefoner.", "isCorrect": true},
+      {"answerText": "C) Platon hevdet at skrivekunst ville ødelegge sosiale bånd mellom mennesker.", "isCorrect": false},
+      {"answerText": "D) Platon mente skrivekunsten var nødvendig for å utvikle visdom og innsikt.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er problemet med fri vilje i filosofisk forstand?",
+    "answers": [
+      {"answerText": "A) Problemet handler om hvordan mennesker kan ha fri vilje i et tilfeldig univers uten regler.", "isCorrect": false},
+      {"answerText": "B) Problemet handler om hvordan fri vilje kan eksistere i et deterministisk univers.", "isCorrect": true},
+      {"answerText": "C) Problemet handler om hvordan våre ønsker ikke påvirker våre handlinger.", "isCorrect": false},
+      {"answerText": "D) Problemet handler om at mennesker aldri kan handle etter sine ønsker.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva mente Hobbes med sin teori om kompatibilisme?",
+    "answers": [
+      {"answerText": "A) At mennesker er unntatt fra naturlovene og kan handle fritt uansett omstendigheter.", "isCorrect": false},
+      {"answerText": "B) At fri vilje og determinisme er forenlig, fordi frihet innebærer muligheten til å handle i henhold til ønsker.", "isCorrect": true},
+      {"answerText": "C) At mennesker alltid er begrenset av samfunnslover og dermed aldri har fri vilje.", "isCorrect": false},
+      {"answerText": "D) At fri vilje er umulig siden alt er forutbestemt uten unntak.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva går substansdualismen ut på ifølge Descartes?",
+    "answers": [
+      {"answerText": "A) At kropp og sinn er ett og det samme.", "isCorrect": false},
+      {"answerText": "B) At kropp og sinn er fundamentalt ulike, hvor kroppen er fysisk og sinnet ikke-fysisk.", "isCorrect": true},
+      {"answerText": "C) At kropp og sinn bare kan forstås som fysiske prosesser.", "isCorrect": false},
+      {"answerText": "D) At kropp og sinn fungerer uavhengig av hverandre uten påvirkning.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva var Elisabeth von Böhmens kritikk av substansdualismen?",
+    "answers": [
+      {"answerText": "A) Hun mente at kropp og sinn var like i alle henseender.", "isCorrect": false},
+      {"answerText": "B) Hun kritiserte at substansdualismen ikke kunne forklare hvordan sinn og kropp kunne påvirke hverandre.", "isCorrect": true},
+      {"answerText": "C) Hun støttet Descartes og mente at hans teori var fullstendig korrekt.", "isCorrect": false},
+      {"answerText": "D) Hun mente at kropp og sinn ikke var fysiske objekter.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er fysikalisme i filosofisk sammenheng?",
+    "answers": [
+      {"answerText": "A) Teorien om at sinnet og kroppen eksisterer som adskilte enheter.", "isCorrect": false},
+      {"answerText": "B) Verdensbildet om at alt som eksisterer, inkludert sinnet, kan forklares fysisk.", "isCorrect": true},
+      {"answerText": "C) Teorien om at sinnet ikke kan forklares gjennom fysisk vitenskap.", "isCorrect": false}
+      ]
+    },
+  {
+    "questionText": "Hva er fysikalisme i filosofisk sammenheng?",
+    "answers": [
+      {"answerText": "A) Teorien om at sinnet og kroppen eksisterer som adskilte enheter.", "isCorrect": false},
+      {"answerText": "B) Verdensbildet om at alt som eksisterer, inkludert sinnet, kan forklares fysisk.", "isCorrect": true},
+      {"answerText": "C) Teorien om at sinnet ikke kan forklares gjennom fysisk vitenskap.", "isCorrect": false},
+      {"answerText": "D) Teorien om at kun det materielle er virkelig, uten behov for fysisk forklaring av bevissthet.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva innebærer identitetsteorien innen fysikalisme?",
+    "answers": [
+      {"answerText": "A) At sinn og kropp er fullstendig adskilte enheter uten interaksjon.", "isCorrect": false},
+      {"answerText": "B) At mentale tilstander er identiske med spesifikke tilstander i hjernen.", "isCorrect": false},
+      {"answerText": "C) At mentale prosesser er identiske med nevrale prosesser og kan forklares fysisk.", "isCorrect": true},
+      {"answerText": "D) At mentale tilstander kun er en illusjon og ikke har noen fysisk basis.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan argumenterer Frank Jackson mot fysikalisme?",
+    "answers": [
+      {"answerText": "A) Ved å påstå at alle mentale tilstander er fysiske prosesser.", "isCorrect": false},
+      {"answerText": "B) Ved å hevde at fysikalisme er den eneste måten å forstå sinn på.", "isCorrect": false},
+      {"answerText": "C) Ved å hevde at subjektiv opplevelse tilfører kunnskap utover det fysiske.", "isCorrect": true},
+      {"answerText": "D) Ved å hevde at fysiske lover kan forklare alle opplevelser fullstendig.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er funksjonalisme som tilnærming til kropp/sinn-problemet?",
+    "answers": [
+      {"answerText": "A) Troen på at sinnet er immaterielt og at kroppen bare er et verktøy.", "isCorrect": false},
+      {"answerText": "B) Synet på at mentale prosesser er unike og ikke kan beskrives fysisk.", "isCorrect": false},
+      {"answerText": "C) Ideologien om at mentale tilstander er definert av deres funksjon, ikke av sin fysiske form.", "isCorrect": true},
+      {"answerText": "D) Teorien om at mentale prosesser kan eksistere uten noen fysisk realisering.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva innebærer tanken om 'det utvidede sinnet'?",
+    "answers": [
+      {"answerText": "A) At sinnet eksisterer uavhengig av kropp og omgivelser.", "isCorrect": false},
+      {"answerText": "B) At hjernen alene er ansvarlig for kognitive funksjoner.", "isCorrect": false},
+      {"answerText": "C) At sinnet inkluderer eksterne verktøy som bidrar til kognitive prosesser.", "isCorrect": true},
+      {"answerText": "D) At kroppen ikke spiller noen rolle i mentale prosesser.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er Turingtesten ment å avgjøre?",
+    "answers": [
+      {"answerText": "A) Om maskiner kan oppnå menneskelige følelser.", "isCorrect": false},
+      {"answerText": "B) Om maskiner kan simulere menneskelig tenkning basert på atferd.", "isCorrect": false},
+      {"answerText": "C) Om en maskin kan forveksles med et menneske i samtale basert på sine svar.", "isCorrect": true},
+      {"answerText": "D) Om maskiner kan oppfylle menneskelige ønsker autonomt.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva går Searles 'kinesiske rom'-argument ut på?",
+    "answers": [
+      {"answerText": "A) At datamaskiner kan forstå språk på samme måte som mennesker.", "isCorrect": false},
+      {"answerText": "B) At datamaskiner kan utføre alle menneskelige kognitive prosesser.", "isCorrect": false},
+      {"answerText": "C) At datamaskiner simulerer forståelse uten å virkelig forstå.", "isCorrect": true},
+      {"answerText": "D) At datamaskiner har bevissthet og følelser i likhet med mennesker.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva understreker teorier om kroppsliggjøring angående bevissthet?",
+    "answers": [
+      {"answerText": "A) At bevissthet kun kan eksistere i hjernen uavhengig av kroppslig erfaring.", "isCorrect": false},
+      {"answerText": "B) At bevissthet oppstår gjennom passiv informasjonsbehandling i hjernen.", "isCorrect": false},
+      {"answerText": "C) At bevissthet er uløselig knyttet til kroppens fysiske interaksjon med verden.", "isCorrect": true},
+      {"answerText": "D) At kropp og bevissthet ikke har noen gjensidig påvirkning på hverandre.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan kan feministiske perspektiver på sinnet relateres til kroppsliggjøringsteorier?",
+    "answers": [
+      {"answerText": "A) Ved å hevde at kroppens rolle er irrelevant for sinnsopplevelse.", "isCorrect": false},
+      {"answerText": "B) Ved å se bort fra hvordan sosiale faktorer påvirker subjektiv erfaring.", "isCorrect": false},
+      {"answerText": "C) Ved å fremheve at kroppslig erfaring påvirker både hvordan vi opplever verden og oss selv i den.", "isCorrect": true},
+      {"answerText": "D) Ved å fokusere utelukkende på hjernens funksjon uten hensyn til kroppen.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er teknologisk determinisme?",
+    "answers": [
+      {"answerText": "A) Synet på at teknologi er et nøytralt verktøy vi kontrollerer.", "isCorrect": false},
+      {"answerText": "B) Ideen om at teknologi utvikler seg uten menneskelig påvirkning.", "isCorrect": false},
+      {"answerText": "C) Tanken om at teknologi styrer samfunnsutviklingen og menneskelige verdier.", "isCorrect": true},
+      {"answerText": "D) Synet på at teknologi alltid brukes positivt for samfunnsutviklingen.", "isCorrect": false}
+    ]
+  }
+]
+
+
+

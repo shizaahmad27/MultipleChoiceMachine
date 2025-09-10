@@ -1,0 +1,589 @@
+[
+  {
+    "questionText": "Hvorfor mener mange filosofer at det er problematisk å trekke slutninger fra «er» til «bør»?",
+    "answers": [
+      {"answerText": "A) Fordi normative utsagn alltid må være absolutte og ikke kan baseres på deskriptive observasjoner.", "isCorrect": false},
+      {"answerText": "B) Fordi det er utfordrende å etablere normative påstander kun ut fra hvordan noe er beskrevet.", "isCorrect": true},
+      {"answerText": "C) Fordi filosofien ikke tillater vurderinger basert på beskrivende språk.", "isCorrect": false},
+      {"answerText": "D) Fordi deskriptive utsagn mangler moralsk verdi i seg selv.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva handler metaetikk om, og hvordan skiller metaetiske spørsmål seg fra normative spørsmål om etikk?",
+    "answers": [
+      {"answerText": "A) Metaetikk handler om å lage regler for hvordan vi skal leve.", "isCorrect": false},
+      {"answerText": "B) Metaetikk undersøker moralens grunnlag og skiller seg fra normative spørsmål ved at den ikke gir handlingsanbefalinger.", "isCorrect": true},
+      {"answerText": "C) Metaetikk omfatter diskusjoner om rettferdighet og handlinger i spesifikke situasjoner.", "isCorrect": false},
+      {"answerText": "D) Metaetikk dreier seg om hvilke handlinger som er mest nyttige for samfunnet.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er moralsk nihilisme?",
+    "answers": [
+      {"answerText": "A) Moralsk nihilisme er troen på at etiske normer er konstruert av samfunnet.", "isCorrect": false},
+      {"answerText": "B) Moralsk nihilisme mener at moralske utsagn er personlige meninger uten objektiv sannhet.", "isCorrect": true},
+      {"answerText": "C) Moralsk nihilisme hevder at all moral må baseres på religion.", "isCorrect": false},
+      {"answerText": "D) Moralsk nihilisme betyr at etiske verdier kan varieres fritt i et samfunn.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er kulturrelativisme?",
+    "answers": [
+      {"answerText": "A) Kulturrelativisme er troen på at noen verdier er universelt gyldige for alle kulturer.", "isCorrect": false},
+      {"answerText": "B) Kulturrelativisme mener at moral kun er gyldig innenfor hver enkelt kultur.", "isCorrect": false},
+      {"answerText": "C) Kulturrelativisme handler om at moralske verdier avhenger av kulturelle konvensjoner og ikke har en absolutt målestokk.", "isCorrect": true},
+      {"answerText": "D) Kulturrelativisme handler om å ignorere moralske forskjeller mellom kulturer.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er en viktig innvending mot nihilisme?",
+    "answers": [
+      {"answerText": "A) At nihilismen ikke gir rom for diskusjon eller enighet om moralske normer.", "isCorrect": false},
+      {"answerText": "B) At nihilisme aksepterer normer uten kritikk.", "isCorrect": false},
+      {"answerText": "C) At nihilisme hevder moralske normer er absolutte, noe som motsier individualitet.", "isCorrect": false},
+      {"answerText": "D) At nihilisten ikke kan delta meningsfylt i diskusjoner uten å akseptere noen normative prinsipper.", "isCorrect": true}
+    ]
+  },
+  {
+    "questionText": "Hva er en svakhet ved kulturrelativisme?",
+    "answers": [
+      {"answerText": "A) Kulturrelativisme gir enhetlige moralske svar som kan brukes overalt.", "isCorrect": false},
+      {"answerText": "B) Kulturrelativisme tillater ingen kritikk av kulturelle normer, selv når de virker urettferdige.", "isCorrect": true},
+      {"answerText": "C) Kulturrelativisme baserer seg kun på individets egne meninger.", "isCorrect": false},
+      {"answerText": "D) Kulturrelativisme sier at bare universelle normer gjelder, uansett kultur.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er Humes lov, også kjent som Humes giljotin?",
+    "answers": [
+      {"answerText": "A) Humes lov sier at alle normative utsagn må kunne testes vitenskapelig.", "isCorrect": false},
+      {"answerText": "B) Humes lov hevder at vi aldri kan slutte fra en beskrivelse av hva som er til hva som bør være.", "isCorrect": false},
+      {"answerText": "C) Humes lov betyr at vi ikke kan trekke normative slutninger utelukkende fra deskriptive fakta.", "isCorrect": true},
+      {"answerText": "D) Humes lov sier at deskriptive og normative påstander må være likeverdige.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvordan skiller normative utsagn seg fra deskriptive utsagn?",
+    "answers": [
+      {"answerText": "A) Normative utsagn beskriver hva som faktisk skjer, mens deskriptive utsagn vurderer verdien av handlinger.", "isCorrect": false},
+      {"answerText": "B) Normative utsagn er faktabaserte, mens deskriptive utsagn er basert på verdier.", "isCorrect": false},
+      {"answerText": "C) Normative utsagn sier noe om hva som bør være tilfelle, mens deskriptive utsagn beskriver hva som er tilfelle.", "isCorrect": true},
+      {"answerText": "D) Normative utsagn er objektive, mens deskriptive utsagn er subjektive.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva mener Philippa Foot om moralske egenskaper?",
+    "answers": [
+      {"answerText": "A) At moralske egenskaper er irrelevante for praktisk liv.", "isCorrect": false},
+      {"answerText": "B) At moralske egenskaper kun er kulturelt bestemte.", "isCorrect": false},
+      {"answerText": "C) At moralske egenskaper hjelper oss til å leve godt og håndtere utfordringer.", "isCorrect": true},
+      {"answerText": "D) At moralske egenskaper er uavhengige av menneskelig natur.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er en naturalistisk feilslutning?",
+    "answers": [
+      {"answerText": "A) En antagelse om at normative utsagn kun kan baseres på religiøse prinsipper.", "isCorrect": false},
+      {"answerText": "B) En slutning der man blander sammen det naturlige med det som er moralsk riktig.", "isCorrect": true},
+      {"answerText": "C) En vurdering av det som er, uten hensyn til det som bør være.", "isCorrect": false},
+      {"answerText": "D) En antagelse om at det som er vanlig, automatisk er moralsk riktig.", "isCorrect": false}
+    ]
+  },
+    {
+      "questionText": "Hva er det som avgjør handlingers moralske verdi ifølge utilitarismen?",
+      "answers": [
+        {"answerText": "A) Handlingens intensjon og de etiske prinsippene som ligger bak.", "isCorrect": false},
+        {"answerText": "B) Konsekvensene av handlingen og hvor mye nytte den skaper.", "isCorrect": true},
+        {"answerText": "C) Hvorvidt handlingen følger tradisjonelle moralnormer.", "isCorrect": false},
+        {"answerText": "D) Hvor mye handlingen påvirker enkeltindivider personlig.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva mener John Stuart Mill er den ultimate verdien i utilitarismen?",
+      "answers": [
+        {"answerText": "A) Bare handlinger som skaper rettferdighet er moralsk riktige.", "isCorrect": false},
+        {"answerText": "B) Den største mengden lykke for flest mulig.", "isCorrect": false},
+        {"answerText": "C) Følelsen av nytelse eller behag og fravær av smerte.", "isCorrect": true},
+        {"answerText": "D) Moralsk status som sikrer lik behandling for alle.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva menes med «moralsk status» i utilitarismen?",
+      "answers": [
+        {"answerText": "A) At bare mennesker har moralsk verdi.", "isCorrect": false},
+        {"answerText": "B) At alle arter behandles likt uten forskjeller.", "isCorrect": false},
+        {"answerText": "C) At alle med evne til å føle smerte og glede har lik moralsk verdi.", "isCorrect": true},
+        {"answerText": "D) At bare dem med høy intelligens har moralsk verdi.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan påvirker utilitarismen synet på fordeling av goder i samfunnet?",
+      "answers": [
+        {"answerText": "A) Den fremmer nødvendigheten av å bevare ulikheter for stabilitet.", "isCorrect": false},
+        {"answerText": "B) Den mener at alle ressurser bør fordeles jevnt for maksimal lykke.", "isCorrect": false},
+        {"answerText": "C) Den balanserer hensynet til grensenytte og insentiver for best resultat.", "isCorrect": true},
+        {"answerText": "D) Den prioriterer de svakeste uansett hva konsekvensene er.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er forskjellen mellom beslutningssituasjoner og vurderingssituasjoner i utilitarismen?",
+      "answers": [
+        {"answerText": "A) Beslutningssituasjoner fokuserer på ansvar, vurderingssituasjoner på intensjon.", "isCorrect": false},
+        {"answerText": "B) Beslutningssituasjoner handler om å velge, vurderingssituasjoner om å evaluere en handling i etterkant.", "isCorrect": true},
+        {"answerText": "C) Beslutningssituasjoner har kun moralsk betydning, mens vurderingssituasjoner ikke har det.", "isCorrect": false},
+        {"answerText": "D) Beslutningssituasjoner vurderes strengt etter loven, vurderingssituasjoner etter moral.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er en viktig innvending mot utilitarismen?",
+      "answers": [
+        {"answerText": "A) Den fokuserer for mye på individuelle rettigheter.", "isCorrect": false},
+        {"answerText": "B) Den kan oppfordre til å krenke enkeltindividers rettigheter for flertallets nytte.", "isCorrect": false},
+        {"answerText": "C) Den stiller for store moralske krav ved at den prioriterer andres lykke over egen.", "isCorrect": true},
+        {"answerText": "D) Den fremmer alltid de svakeste, noe som kan være ineffektivt.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva innebærer preferanseutilitarisme?",
+      "answers": [
+        {"answerText": "A) Fokus på å maksimere materielle goder for flest mulig.", "isCorrect": false},
+        {"answerText": "B) Å maksimere følelsen av nytelse og fravær av smerte.", "isCorrect": false},
+        {"answerText": "C) Å maksimere oppfyllelse av preferanser fremfor kun lykke.", "isCorrect": true},
+        {"answerText": "D) Å sikre moralske prinsipper uten hensyn til konsekvenser.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan kan avtakende grensenytte støtte utilitaristiske argumenter for utjevning?",
+      "answers": [
+        {"answerText": "A) Den viser at rikdom fordeles best ved å belønne de rike.", "isCorrect": false},
+        {"answerText": "B) Den viser at de som har minst, får mest nytte av hver ekstra enhet av et gode.", "isCorrect": true},
+        {"answerText": "C) Den viser at alle goder bør fordeles likt uansett innsats.", "isCorrect": false},
+        {"answerText": "D) Den fremmer behovet for stabilitet i velferdssystemer.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva mener Bentham og Mill er viktigst i utilitarismen?",
+      "answers": [
+        {"answerText": "A) Å ha like regler for alle mennesker.", "isCorrect": false},
+        {"answerText": "B) Å ha lik tilgang til ressurser for alle individer.", "isCorrect": false},
+        {"answerText": "C) Å maksimere lykke for flest mulig, uansett hvordan lykken oppnås.", "isCorrect": true},
+        {"answerText": "D) Å unngå smerte gjennom moralske normer.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva kan være en ulempe med utilitarismens syn på samfunnsansvar?",
+      "answers": [
+        {"answerText": "A) Utilitarismen gir for mye ansvar til enkeltpersoner i samfunnet.", "isCorrect": true},
+        {"answerText": "B) Utilitarismen oppfordrer til selvstendighet i alle valg.", "isCorrect": false},
+        {"answerText": "C) Utilitarismen gir kun fokus på individuelle fordeler.", "isCorrect": false},
+        {"answerText": "D) Utilitarismen krever ingen fordeling av ansvar i samfunnet.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er en forskjell mellom pliktetikk og utilitarisme?",
+      "answers": [
+        {"answerText": "A) Pliktetikk fokuserer kun på konsekvenser av handlinger.", "isCorrect": false},
+        {"answerText": "B) Pliktetikere mener at også handlingens motiv og selve handlingen kan være moralsk relevant, ikke bare konsekvensene.", "isCorrect": true},
+        {"answerText": "C) Pliktetikk ignorerer helt spørsmål om moral og etikk.", "isCorrect": false},
+        {"answerText": "D) Pliktetikk er uavhengig av noen form for prinsippbasert handlingsteori.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva går Kants universalitetsformulering av det kategoriske imperativ ut på?",
+      "answers": [
+        {"answerText": "A) At vi kan handle etter egne regler uten hensyn til konsekvenser.", "isCorrect": false},
+        {"answerText": "B) At vi bare skal handle etter regler som vi kan akseptere at alle andre også følger.", "isCorrect": true},
+        {"answerText": "C) At vi bør vurdere om handlingene våre gir den største lykken for flest mulig.", "isCorrect": false},
+        {"answerText": "D) At det er greit å bruke andre mennesker som midler for å nå egne mål.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva innebærer humanitetsformuleringen av Kants kategoriske imperativ?",
+      "answers": [
+        {"answerText": "A) At vi kan bruke mennesker som redskaper hvis de samtykker.", "isCorrect": false},
+        {"answerText": "B) At vi aldri skal bruke andre mennesker kun som et middel, men alltid også som et mål i seg selv.", "isCorrect": true},
+        {"answerText": "C) At vi skal handle etter maksimal lykke for alle parter involvert.", "isCorrect": false},
+        {"answerText": "D) At vi bør unngå å handle ut fra plikt.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan skiller Kants hypotetiske imperativer seg fra hans kategoriske imperativer?",
+      "answers": [
+        {"answerText": "A) Kategoriske imperativer gjelder kun i visse situasjoner.", "isCorrect": false},
+        {"answerText": "B) Hypotetiske imperativer gjelder bare hvis man ønsker å oppnå et spesifikt mål.", "isCorrect": true},
+        {"answerText": "C) Kategoriske imperativer er alltid relative til individuelle ønsker.", "isCorrect": false},
+        {"answerText": "D) Hypotetiske imperativer krever handling uansett individets ønsker.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva menes med Kants begrep om uperfekte plikter?",
+      "answers": [
+        {"answerText": "A) Plikter som alltid må overholdes uten unntak.", "isCorrect": false},
+        {"answerText": "B) Plikter som kan oppfylles på ulike måter og ikke krever én bestemt handling.", "isCorrect": true},
+        {"answerText": "C) Plikter som ikke har noen moralsk betydning.", "isCorrect": false},
+        {"answerText": "D) Plikter som kun gjelder i nødssituasjoner.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan vurderer pliktetikere moralsk status?",
+      "answers": [
+        {"answerText": "A) Moralsk status er irrelevant for pliktetikere.", "isCorrect": false},
+        {"answerText": "B) Moralsk status er knyttet til individets evne til å handle ut fra rasjonelle grunner.", "isCorrect": true},
+        {"answerText": "C) Alle levende vesener har samme moralske status.", "isCorrect": false},
+        {"answerText": "D) Kun dyr har moralsk status ifølge pliktetikken.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er en innvending mot Kants pliktetikk?",
+      "answers": [
+        {"answerText": "A) Den gir altfor stor vekt på konsekvensene av handlinger.", "isCorrect": false},
+        {"answerText": "B) Den mangler fleksibilitet og hensyn til unntak i moralske dilemmaer.", "isCorrect": true},
+        {"answerText": "C) Den gir ingen moralbegrunnelse for menneskers handlinger.", "isCorrect": false},
+        {"answerText": "D) Den anerkjenner kun følelser som moralsk relevante aspekter.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan skiller dydsetikk seg fra utilitarisme og pliktetikk?",
+      "answers": [
+        {"answerText": "A) Dydsetikk fokuserer utelukkende på regler og plikter.", "isCorrect": false},
+        {"answerText": "B) Dydsetikk fokuserer på individets karakter og dyder fremfor spesifikke handlinger.", "isCorrect": true},
+        {"answerText": "C) Dydsetikk handler om maksimering av lykke for flest mulig.", "isCorrect": false},
+        {"answerText": "D) Dydsetikk krever strenge regler for hver moralsk situasjon.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er en dyd ifølge dydsetikken, og hvorfor er dyder viktige?",
+      "answers": [
+        {"answerText": "A) Dyder er faste regler for handlinger.", "isCorrect": false},
+        {"answerText": "B) Dyder er positive karaktertrekk som hjelper oss å handle moralsk riktig.", "isCorrect": true},
+        {"answerText": "C) Dyder er nøyaktige beregninger av lykke.", "isCorrect": false},
+        {"answerText": "D) Dyder er passive tilstander uten praktisk betydning.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva innebærer skadeprinsippet ifølge John Stuart Mill?",
+      "answers": [
+        {"answerText": "A) At samfunnet kan påtvinge sine verdier for å fremme moral.", "isCorrect": false},
+        {"answerText": "B) At staten alltid skal beskytte innbyggerne mot enhver fare.", "isCorrect": false},
+        {"answerText": "C) At makt kun kan brukes for å forhindre skade på andre.", "isCorrect": true},
+        {"answerText": "D) At paternalisme skal begrenses i de fleste situasjoner.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan skiller Mills begrunnelse for ytringsfrihet seg fra en statusbasert begrunnelse?",
+      "answers": [
+        {"answerText": "A) Mill mener at ytringsfrihet er irrelevant for et godt samfunn.", "isCorrect": false},
+        {"answerText": "B) Mill mener at ytringsfrihet kun har verdi for staten.", "isCorrect": false},
+        {"answerText": "C) Mill ser ytringsfrihet som et middel for å fremme sannhet og samfunnsforbedring.", "isCorrect": true},
+        {"answerText": "D) Statusbaserte teorier ser ytringsfrihet som en iboende rettighet uavhengig av konsekvenser.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er et kjennetegn ved instrumentelt syn på rettigheter?",
+      "answers": [
+        {"answerText": "A) Rettigheter er iboende og ukrenkelige uavhengig av nytteverdi.", "isCorrect": false},
+        {"answerText": "B) Rettigheter kan aldri begrenses uansett situasjon.", "isCorrect": false},
+        {"answerText": "C) Rettigheter vurderes ut fra deres nytteverdi for samfunnets beste.", "isCorrect": true},
+        {"answerText": "D) Rettigheter kan begrenses dersom de ikke fører til ønskede konsekvenser.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan ser Mill på politisk frihet?",
+      "answers": [
+        {"answerText": "A) Mill mener politisk frihet er viktig for å kontrollere folks handlinger.", "isCorrect": false},
+        {"answerText": "B) Mill mener politisk frihet er uviktig for enkeltindividets utvikling.", "isCorrect": false},
+        {"answerText": "C) Mill ser politisk frihet som fravær av innblanding fra staten og andre myndigheter.", "isCorrect": true},
+        {"answerText": "D) Mill ser politisk frihet som et instrument for individets selvutvikling uten unødig innblanding.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan ser Wollstonecraft på politisk frihet?",
+      "answers": [
+        {"answerText": "A) Wollstonecraft mener at frihet kun handler om fravær av tvang fra staten.", "isCorrect": false},
+        {"answerText": "B) Wollstonecraft mener at økonomisk ulikhet ikke påvirker politisk frihet.", "isCorrect": false},
+        {"answerText": "C) Wollstonecraft ser frihet som ikke-dominans, der ingen skal kunne utøve vilkårlig makt over andre.", "isCorrect": true},
+        {"answerText": "D) Wollstonecraft mener økonomisk uavhengighet er nødvendig for reell politisk frihet.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva mener Kant er nødvendig for ekte politisk frihet?",
+      "answers": [
+        {"answerText": "A) Kant mener at individuell frihet kun gjelder økonomisk suksess.", "isCorrect": false},
+        {"answerText": "B) Kant ser ikke behovet for noen form for statlig omfordeling.", "isCorrect": false},
+        {"answerText": "C) Kant mener at staten har ansvar for å sikre et økonomisk grunnlag for alle borgere.", "isCorrect": true},
+        {"answerText": "D) Kant mener at politisk frihet innebærer likhet og ansvarlighet for alle.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan forsvarer Wollstonecraft og Kant ideen om demokrati?",
+      "answers": [
+        {"answerText": "A) De mener demokrati er unødvendig for likestilling.", "isCorrect": false},
+        {"answerText": "B) De mener demokrati kun gjelder økonomisk frihet.", "isCorrect": false},
+        {"answerText": "C) De ser demokrati som nødvendig for å sikre ikke-dominans og lik politisk adgang.", "isCorrect": true},
+        {"answerText": "D) De mener demokrati er nødvendig for politisk frihet og forhindring av dominans.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva innebærer et naturrettslig syn på rettigheter?",
+      "answers": [
+        {"answerText": "A) Rettigheter vurderes kun ut fra deres nytteverdi.", "isCorrect": false},
+        {"answerText": "B) Rettigheter kan begrenses basert på deres konsekvenser.", "isCorrect": false},
+        {"answerText": "C) Rettigheter er grunnleggende og ukrenkelige, uavhengig av nytteverdi.", "isCorrect": true},
+        {"answerText": "D) Rettigheter springer ut fra menneskets iboende verdi og status.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan skiller Mills begrep om politisk frihet seg fra det begrepet om politisk frihet vi finner hos Wollstonecraft og Kant?",
+      "answers": [
+        {"answerText": "A) Mill legger vekt på skadeprinsippet og individuell frihet uten unødig innblanding, mens Wollstonecraft og Kant vektlegger ikke-dominans og like rettigheter.", "isCorrect": true},
+        {"answerText": "B) Mill fokuserer på ikke-dominans, mens Wollstonecraft og Kant vektlegger fravær av statlig innblanding.", "isCorrect": false},
+        {"answerText": "C) Wollstonecraft og Kant ser politisk frihet som irrelevant for økonomisk likhet, mens Mill ser frihet som et instrumentelt verktøy.", "isCorrect": false},
+        {"answerText": "D) For Mill handler politisk frihet om å fremme økonomisk uavhengighet for alle, mens Wollstonecraft og Kant ser frihet som fravær av ansvarlighet.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva mener Wollstonecraft om forholdet mellom økonomisk uavhengighet og politisk frihet?",
+      "answers": [
+        {"answerText": "A) Økonomisk uavhengighet gjelder kun for menn og ikke for kvinner.", "isCorrect": false},
+        {"answerText": "B) Politisk frihet krever økonomisk støtte fra veldedighet.", "isCorrect": false},
+        {"answerText": "C) Politisk frihet krever økonomisk uavhengighet, da økonomisk avhengighet kan føre til dominans og tap av frihet.", "isCorrect": true},
+        {"answerText": "D) Økonomisk uavhengighet er irrelevant for politisk frihet.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er et sentralt trekk ved egalitær liberalfeminisme sammenlignet med klassisk liberalfeminisme?",
+      "answers": [
+        {"answerText": "A) Den legger vekt på reell likhet gjennom statlige tiltak for å endre sosiale og økonomiske strukturer.", "isCorrect": true},
+        {"answerText": "B) Den fokuserer på å opprettholde tradisjonelle kjønnsroller.", "isCorrect": false},
+        {"answerText": "C) Den mener staten ikke bør blande seg inn i strukturelle forhold.", "isCorrect": false},
+        {"answerText": "D) Den mener formell likhet er tilstrekkelig for likestilling.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan forsvarer Kant ideen om økonomisk omfordeling i sammenheng med politisk frihet?",
+      "answers": [
+        {"answerText": "A) Han mener økonomisk omfordeling er irrelevant for politisk frihet.", "isCorrect": false},
+        {"answerText": "B) Kant mener økonomisk omfordeling sikrer at ingen er avhengige av veldedighet og kan oppnå reell politisk frihet.", "isCorrect": false},
+        {"answerText": "C) Økonomisk omfordeling bør bare gjelde statlige institusjoner.", "isCorrect": false},
+        {"answerText": "D) Kant mener økonomisk omfordeling sikrer at ingen er avhengige av veldedighet og kan oppnå reell politisk frihet.", "isCorrect": true}
+      ]
+    },
+    {
+      "questionText": "Hva innebærer Taylors kritikk av politisk atomisme?",
+      "answers": [
+        {"answerText": "A) Politisk atomisme fremmer solidaritet og samfunnsansvar.", "isCorrect": false},
+        {"answerText": "B) Politisk atomisme verdsetter fellesskapets rolle.", "isCorrect": false},
+        {"answerText": "C) Taylor hevder at politisk atomisme undervurderer individets avhengighet av fellesskapet.", "isCorrect": true},
+        {"answerText": "D) Politisk atomisme fokuserer på kollektive mål som fremmer fellesskapet.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er et hovedargument for Taylors «forskjellspolitikk»?",
+      "answers": [
+        {"answerText": "A) Likhetspolitikk er tilstrekkelig for å sikre rettferdighet for alle.", "isCorrect": false},
+        {"answerText": "B) Forskjellspolitikk anerkjenner behovet for særbehandling av enkelte grupper for å sikre reell rettferdighet.", "isCorrect": true},
+        {"answerText": "C) Forskjellspolitikk fjerner behovet for kulturell anerkjennelse.", "isCorrect": false},
+        {"answerText": "D) Forskjellspolitikk prioriterer universelle rettigheter fremfor gruppebasert behandling.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er en viktig forskjell mellom klassisk liberalfeminisme og egalitær liberalfeminisme når det gjelder statens rolle?",
+      "answers": [
+        {"answerText": "A) Klassisk liberalfeminisme mener staten bør aktivt fremme økonomisk likhet.", "isCorrect": false},
+        {"answerText": "B) Egalitær liberalfeminisme ser på staten som en viktig aktør for å sikre reell likestilling gjennom sosiale og økonomiske reformer.", "isCorrect": true},
+        {"answerText": "C) Begge mener at staten skal blande seg inn i private relasjoner.", "isCorrect": false},
+        {"answerText": "D) Klassisk liberalfeminisme mener staten må fremme kjønnsroller for å sikre likhet.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan karakteriseres Mary Wollstonecrafts feminisme ifølge teksten?",
+      "answers": [
+        {"answerText": "A) Hun er hovedsakelig en likhetsfeminist, da hun argumenterer for at kvinner og menn har de samme evnene og bør ha like rettigheter.", "isCorrect": true},
+        {"answerText": "B) Hun er hovedsakelig en forskjellsfeminist, da hun mener kvinner bør fokusere på tradisjonelle roller.", "isCorrect": false},
+        {"answerText": "C) Hun argumenterer mot kvinners rett til økonomisk selvstendighet.", "isCorrect": false},
+        {"answerText": "D) Hun mener at kvinner og menn ikke bør ha de samme utdanningsmulighetene.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan nyanserer Wollstonecraft sitt syn på likhetsfeminisme?",
+      "answers": [
+        {"answerText": "A) Hun ser mødre som innehavere av en viktig samfunnsfunksjon, noe som kan forstås som et forskjellsfeministisk element.", "isCorrect": true},
+        {"answerText": "B) Hun mener at kvinner bør være avhengige av menn økonomisk.", "isCorrect": false},
+        {"answerText": "C) Hun argumenterer for at kun mødre skal ha rettigheter i hjemmet.", "isCorrect": false},
+        {"answerText": "D) Hun mener at kvinners rolle som mødre bør svekkes for å sikre likhet.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er et kjennetegn ved Charles Taylors begrep om politisk atomisme?",
+      "answers": [
+        {"answerText": "A) Det vektlegger individets frihet uavhengig av sosiale fellesskap og kollektive bånd.", "isCorrect": true},
+        {"answerText": "B) Det ser staten som hovedaktør for sosial rettferdighet.", "isCorrect": false},
+        {"answerText": "C) Det vektlegger fellesskapets rolle i å styrke individets frihet.", "isCorrect": false},
+        {"answerText": "D) Det gir høy prioritet til solidaritet og samfunnsansvar.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva går Taylors kritikk av politisk atomisme ut på?",
+      "answers": [
+        {"answerText": "A) Politisk atomisme fremmer en sterkere følelse av fellesskap og solidaritet.", "isCorrect": false},
+        {"answerText": "B) Taylor kritiserer politisk atomisme for å undervurdere fellesskapets betydning for individets identitet og frihet.", "isCorrect": true},
+        {"answerText": "C) Politisk atomisme anser staten som fellesskapets viktigste forvalter.", "isCorrect": false},
+        {"answerText": "D) Taylor hevder at politisk atomisme fremmer kollektivisme.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva kjennetegner Taylors «forskjellspolitikk»?",
+      "answers": [
+        {"answerText": "A) Den anerkjenner behovet for særbehandling av enkelte grupper for å sikre reell rettferdighet og likestilling.", "isCorrect": true},
+        {"answerText": "B) Den legger vekt på at alle behandles likt uten hensyn til gruppeforskjeller.", "isCorrect": false},
+        {"answerText": "C) Den fokuserer på formell likestilling uten hensyn til kulturelle forskjeller.", "isCorrect": false},
+        {"answerText": "D) Den motsetter seg alle former for positiv diskriminering.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva kan være en utfordring med Taylors forskjellspolitikk?",
+      "answers": [
+        {"answerText": "A) Det kan føre til at enkelte individer blir sett mer som representanter for sin gruppe enn som enkeltindivider.", "isCorrect": true},
+        {"answerText": "B) Det kan føre til større grad av homogenitet i samfunnet.", "isCorrect": false},
+        {"answerText": "C) Det reduserer behovet for kulturell tilpasning.", "isCorrect": false},
+        {"answerText": "D) Det fokuserer kun på majoritetsgruppers rettigheter.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva går Nussbaums kapabilitetstilnærming ut på?",
+      "answers": [
+        {"answerText": "A) Å fokusere på hva mennesker er i stand til å gjøre og være, altså deres faktiske muligheter til å leve et godt liv.", "isCorrect": true},
+        {"answerText": "B) Å måle livskvalitet hovedsakelig ut fra økonomisk vekst.", "isCorrect": false},
+        {"answerText": "C) Å vurdere livskvalitet kun basert på subjektive følelser av lykke.", "isCorrect": false},
+        {"answerText": "D) Å prioritere materielle ressurser som den viktigste faktoren for livskvalitet.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan skiller kapabilitetstilnærmingen seg fra økonomiske målestokker som BNP i vurdering av livskvalitet?",
+      "answers": [
+        {"answerText": "A) Den vurderer kun subjektiv lykke i stedet for økonomiske indikatorer.", "isCorrect": false},
+        {"answerText": "B) Den fokuserer på de faktiske frihetene og mulighetene mennesker har, i stedet for materiell rikdom alene.", "isCorrect": true},
+        {"answerText": "C) Den anser kun økonomisk vekst som en pålitelig indikator på livskvalitet.", "isCorrect": false},
+        {"answerText": "D) Den vurderer livskvalitet som avhengig av høy BNP for alle borgere.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvorfor mener Nussbaum at subjektiv velvære er en problematisk indikator på livskvalitet?",
+      "answers": [
+        {"answerText": "A) Fordi subjektivt velvære kan bli rapportert høyt selv i undertrykkende forhold, hvor folk tilpasser seg dårlige levevilkår.", "isCorrect": true},
+        {"answerText": "B) Fordi subjektivt velvære alltid korrelerer med økonomisk rikdom.", "isCorrect": false},
+        {"answerText": "C) Fordi det er en fullgod indikator på livskvalitet uten behov for ytterligere kapabiliteter.", "isCorrect": false},
+        {"answerText": "D) Fordi subjektivt velvære alltid gir en nøyaktig indikasjon på samfunnets velferd.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er en viktig forskjell mellom kapabiliteter og funksjoneringer i Nussbaums tilnærming?",
+      "answers": [
+        {"answerText": "A) Kapabiliteter handler om de faktiske valgene mennesker tar, mens funksjoneringer er de mulighetene de har.", "isCorrect": false},
+        {"answerText": "B) Kapabiliteter er muligheten til å gjøre noe, mens funksjoneringer er det faktiske valget å gjøre det.", "isCorrect": true},
+        {"answerText": "C) Funksjoneringer refererer kun til økonomiske ressurser, mens kapabiliteter handler om subjektiv lykke.", "isCorrect": false},
+        {"answerText": "D) Kapabiliteter og funksjoneringer er identiske i Nussbaums tilnærming.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvorfor mener Nussbaum at utilitarismen er problematisk som tilnærming til livskvalitet?",
+      "answers": [
+        {"answerText": "A) Fordi den kan føre til at minoriteters rettigheter ofres for å maksimere samfunnets samlede lykke.", "isCorrect": true},
+        {"answerText": "B) Fordi den kun fokuserer på økonomisk vekst og ignorere individuell tilfredshet.", "isCorrect": false},
+        {"answerText": "C) Fordi den legger vekt på individuelle kapabiliteter over subjektive følelser.", "isCorrect": false},
+        {"answerText": "D) Fordi den alltid sikrer lik fordeling av ressurser.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva innebærer Nussbaums kapabilitetstilnærming når det gjelder statens plikter overfor borgerne?",
+      "answers": [
+        {"answerText": "A) At staten skal sikre at alle har faktiske ressurser og betingelser til å leve verdige liv.", "isCorrect": true},
+        {"answerText": "B) At staten kun bør gi formelle rettigheter uten å sikre faktiske muligheter.", "isCorrect": false},
+        {"answerText": "C) At staten bør fokusere på å maksimere BNP for å heve alle borgeres livskvalitet.", "isCorrect": false},
+        {"answerText": "D) At statens eneste plikt er å beskytte individers private eiendom.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan kan maktfordelingsprinsippet forenes med demokrati?",
+      "answers": [
+        {"answerText": "A) Gjennom maktfordeling kan demokratiet begrenses for å hindre folkelig deltakelse.", "isCorrect": false},
+        {"answerText": "B) Ved at maktfordeling beskytter individets rettigheter og hindrer maktkonsentrasjon.", "isCorrect": true},
+        {"answerText": "C) Ved at maktfordeling gjør domstolene til den mest demokratiske institusjonen.", "isCorrect": false},
+        {"answerText": "D) Ved at demokratiet utelukker maktfordeling for effektivt styre.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er et argument for epistokrati (ekspertstyre) i henhold til Nussbaums tilnærming?",
+      "answers": [
+        {"answerText": "A) Ekspertstyre kan tilby mer kunnskapsbaserte beslutninger som ivaretar kapabiliteter som helse og utdanning.", "isCorrect": true},
+        {"answerText": "B) Ekspertstyre prioriterer folkelig representasjon fremfor kunnskap.", "isCorrect": false},
+        {"answerText": "C) Ekspertstyre sikrer at alle har like muligheter til politisk deltagelse.", "isCorrect": false},
+        {"answerText": "D) Ekspertstyre fokuserer på subjektiv lykke fremfor objektive kapabiliteter.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er et argument mot epistokrati (ekspertstyre) sett fra et kapabilitetsperspektiv?",
+      "answers": [
+        {"answerText": "A) Epistokrati sikrer større demokratisk deltakelse for alle borgere.", "isCorrect": false},
+        {"answerText": "B) Epistokrati kan ekskludere store deler av befolkningen fra politiske beslutninger, noe som undergraver likhet og autonomi.", "isCorrect": true},
+        {"answerText": "C) Epistokrati hindrer noen borgere i å oppnå formell likhet i samfunnet.", "isCorrect": false},
+        {"answerText": "D) Epistokrati fremmer folkesuverenitet ved å gi alle lik tilgang til beslutninger.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva går maktfordelingsprinsippet ut på ifølge Montesquieu?",
+      "answers": [
+        {"answerText": "A) Å dele statsmakten i tre grener: lovgivende, utøvende og dømmende makt for å unngå maktkonsentrasjon.", "isCorrect": true},
+        {"answerText": "B) Å samle all statsmakt hos én person for å sikre effektiv styring.", "isCorrect": false},
+        {"answerText": "C) Å gi makt kun til den lovgivende forsamlingen og ignorere de andre grenene.", "isCorrect": false},
+        {"answerText": "D) Å fokusere utelukkende på folkets rett til å bestemme over alle statens funksjoner.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er en av de viktigste funksjonene til maktfordelingen i et demokrati?",
+      "answers": [
+        {"answerText": "A) Å gi lovgivende, utøvende og dømmende makt til ulike instanser for å sikre kontroll og balanse.", "isCorrect": true},
+        {"answerText": "B) Å sørge for at én maktgren har full kontroll over de andre.", "isCorrect": false},
+        {"answerText": "C) Å gi folket direkte tilgang til å kontrollere alle statens beslutninger.", "isCorrect": false},
+        {"answerText": "D) Å fjerne domstolenes mulighet til å påvirke politiske avgjørelser.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan kan maktfordeling bidra til å beskytte individets rettigheter?",
+      "answers": [
+        {"answerText": "A) Ved at ulike maktinstanser overvåker hverandre, hindres maktkonsentrasjon og potensielt maktmisbruk.", "isCorrect": true},
+        {"answerText": "B) Ved å sikre at kun den utøvende makten har beslutningsmyndighet.", "isCorrect": false},
+        {"answerText": "C) Ved å fjerne den dømmende maktens rett til å gripe inn i lovgivningen.", "isCorrect": false},
+        {"answerText": "D) Ved å overlate all makt til folkeforsamlingen uten sjekk og balanse.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva kan være en utfordring ved demokratiske styringsformer ifølge teksten?",
+      "answers": [
+        {"answerText": "A) Demokratier kan være sårbare for populistiske ledere og kortsiktige beslutninger.", "isCorrect": true},
+        {"answerText": "B) Demokratier sikrer alltid informerte og langsiktige beslutninger.", "isCorrect": false},
+        {"answerText": "C) Demokratier unngår populistiske valg ved å overlate makten til eksperter.", "isCorrect": false},
+        {"answerText": "D) Demokratier tar kun hensyn til minoritetenes interesser.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan kan epistokrati (ekspertstyre) beskytte samfunnet mot populisme og feilinformasjon?",
+      "answers": [
+        {"answerText": "A) Ved å la kompetente individer ta de viktigste beslutningene, unngår man valg basert på feilinformerte velgeres synspunkter.", "isCorrect": true},
+        {"answerText": "B) Ved å la alle borgere få lik tilgang til beslutningsprosesser.", "isCorrect": false},
+        {"answerText": "C) Ved å sikre at kun de mest populistiske ideene vinner frem.", "isCorrect": false},
+        {"answerText": "D) Ved å hindre at eksperter får noen innflytelse i samfunnet.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er et argument mot epistokrati fra et demokratisk perspektiv?",
+      "answers": [
+        {"answerText": "A) Epistokrati kan føre til ekskludering av store deler av befolkningen, noe som kan svekke den demokratiske legitimiteten.", "isCorrect": true},
+        {"answerText": "B) Epistokrati sikrer alltid at alle får delta i politiske prosesser.", "isCorrect": false},
+        {"answerText": "C) Epistokrati gir alle velgerne like mye makt som i et demokrati.", "isCorrect": false},
+        {"answerText": "D) Epistokrati fokuserer utelukkende på kortsiktige løsninger.", "isCorrect": false}
+      ]
+    }
+  ]
+
+

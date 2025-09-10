@@ -1,0 +1,326 @@
+[
+  {
+    "questionText": "Hvordan kan forholdet mellom teknologi og vitenskap forstås, ifølge teksten?",
+    "answers": [
+      {"answerText": "A) Teknologi og vitenskap er fullstendig avhengige av hverandre for å gjøre fremskritt.", "isCorrect": false},
+      {"answerText": "B) Teknologi og vitenskap kan ikke gjøre fremskritt uten at de utvikler seg parallelt.", "isCorrect": false},
+      {"answerText": "C) Teknologi og vitenskap kan påvirke hverandre, men de kan også utvikle seg uavhengig.", "isCorrect": true},
+      {"answerText": "D) Teknologi og vitenskap er alltid motstridende i utviklingen sin.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva kjennetegner opplysningstiden når det gjelder samfunnsutvikling?",
+    "answers": [
+      {"answerText": "A) Den fremmet blind autoritetstro og forsterket gamle maktstrukturer.", "isCorrect": false},
+      {"answerText": "B) Den bygde på religiøs autoritet og tro.", "isCorrect": false},
+      {"answerText": "C) Den introduserte nye ideer om rasjonalitet og kritisk tenkning, som utfordret gamle autoritetsstrukturer.", "isCorrect": true},
+      {"answerText": "D) Den fremmet ideen om at monarkiet bør ha all makt.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er singulariteten i teknologisk sammenheng?",
+    "answers": [
+      {"answerText": "A) Et punkt hvor menneskene får full kontroll over all teknologi.", "isCorrect": false},
+      {"answerText": "B) En hypotese om at teknologiens utvikling vil avta kraftig i fremtiden.", "isCorrect": false},
+      {"answerText": "C) En hypotetisk fremtid hvor teknologisk utvikling når et nivå der det blir vanskelig for mennesker å forutse og kontrollere konsekvensene.", "isCorrect": true},
+      {"answerText": "D) En situasjon der menneskelig intelligens er overlegen kunstig intelligens.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva innebærer prinsippet om den nedadstigende rekke av tillatelighet?",
+    "answers": [
+      {"answerText": "A) At sårbare grupper alltid bør inkluderes først i forskning.", "isCorrect": false},
+      {"answerText": "B) At medisinsk forskning alltid må ha frivillig deltagelse.", "isCorrect": false},
+      {"answerText": "C) At forskere bør starte med å inkludere de gruppene som best kan forstå risikoen, som friske voksne.", "isCorrect": true},
+      {"answerText": "D) At forskere kan inkludere hvem som helst i forskningen, så lenge de gir samtykke.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er en hovedforsvarslinje i medisinsk forskning, ifølge Knut W. Ruyter?",
+    "answers": [
+      {"answerText": "A) Full åpenhet om alle forskningsdata uavhengig av sensitivitet.", "isCorrect": false},
+      {"answerText": "B) Eksklusiv bruk av sårbare personer i forskning.", "isCorrect": false},
+      {"answerText": "C) Frivillig og informert samtykke fra deltakerne.", "isCorrect": false},
+      {"answerText": "D) Risiko-nytte-vurdering for å balansere forskningsprosjekters skadepotensial mot forventet nytte.", "isCorrect": true}
+    ]
+  },
+  {
+    "questionText": "Hva betyr aktivt ansvar i ingeniørfaget?",
+    "answers": [
+      {"answerText": "A) Å alltid stå til ansvar for sine handlinger etter at noe har skjedd.", "isCorrect": false},
+      {"answerText": "B) Å gi en redegjørelse for sine handlinger når man blir holdt ansvarlig.", "isCorrect": false},
+      {"answerText": "C) Å proaktivt handle for å unngå skadelige konsekvenser i fremtiden.", "isCorrect": true},
+      {"answerText": "D) Å ta ansvar kun når noe allerede har gått galt.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hvilke betingelser må være oppfylt for at noen kan holdes klanderverdig ifølge van de Poel & Royakkers?",
+    "answers": [
+      {"answerText": "A) At vedkommende hadde dårlige intensjoner.", "isCorrect": false},
+      {"answerText": "B) At vedkommende manglet tilstrekkelig kunnskap om konsekvensene.", "isCorrect": false},
+      {"answerText": "C) Feilhandling, kausalt bidrag, forutsigbarhet og handlefrihet.", "isCorrect": true},
+      {"answerText": "D) At vedkommende jobbet innen ingeniørfaget.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva innebærer separatismen i ingeniøryrket?",
+    "answers": [
+      {"answerText": "A) At ingeniører har ansvaret for alle etiske avgjørelser i prosjektet.", "isCorrect": false},
+      {"answerText": "B) At ingeniører også bestemmer over samfunnsmessige mål.", "isCorrect": false},
+      {"answerText": "C) At ingeniører kun har ansvar for tekniske aspekter, mens verdibaserte beslutninger overlates til ledere og politikere.", "isCorrect": true},
+      {"answerText": "D) At brukere har det tekniske ansvaret for prosjektene.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er teknokrati, og hvilke problemer kan knyttes til denne styringsformen?",
+    "answers": [
+      {"answerText": "A) Teknokrati betyr at alle beslutninger blir tatt demokratisk.", "isCorrect": false},
+      {"answerText": "B) Teknokrati er en styreform der kun ingeniører kan delta.", "isCorrect": false},
+      {"answerText": "C) Teknokrati innebærer styring av eksperter, men kan være udemokratisk og paternalistisk.", "isCorrect": true},
+      {"answerText": "D) Teknokrati krever ingen spesialisert kunnskap hos lederne.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva kjennetegner svak bærekraft?",
+    "answers": [
+      {"answerText": "A) At økonomisk gevinst alltid prioriteres over miljøhensyn.", "isCorrect": false},
+      {"answerText": "B) At miljøødeleggelser ikke tas hensyn til i bærekraftsregnskap.", "isCorrect": false},
+      {"answerText": "C) At miljøskadelig aktivitet kan forsvares hvis den gir store økonomiske eller samfunnsmessige fordeler.", "isCorrect": false},
+      {"answerText": "D) At miljøkapital kan erstattes av økonomisk kapital hvis fordelene er tilstrekkelige.", "isCorrect": true}
+    ]
+  },
+  {
+    "questionText": "Hva innebærer John Elkingtons triple bunnlinje?",
+    "answers": [
+      {"answerText": "A) At bedrifter kun skal fokusere på økonomisk vekst.", "isCorrect": false},
+      {"answerText": "B) At miljømessige hensyn er viktigere enn sosiale og økonomiske aspekter.", "isCorrect": false},
+      {"answerText": "C) At bærekraftige virksomheter bør balansere økonomi, miljø og sosiale forhold.", "isCorrect": true},
+      {"answerText": "D) At sosiale hensyn alltid skal prioriteres over økonomiske hensyn.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er en kritikk mot Elkingtons triple bunnlinje?",
+    "answers": [
+      {"answerText": "A) Den fokuserer utelukkende på miljømessige forhold.", "isCorrect": false},
+      {"answerText": "B) Den vektlegger kun økonomisk bærekraft og ignorerer sosiale faktorer.", "isCorrect": false},
+      {"answerText": "C) Den antar at alle tre bunnlinjer kan balanseres likeverdig, men miljøet kan ofte ha forrang.", "isCorrect": false},
+      {"answerText": "D) Den kan bidra til grønnvasking hvis bedrifter bruker konseptet uten å gjøre reelle endringer.", "isCorrect": true}
+    ]
+  },
+  {
+    "questionText": "Hva innebærer føre-var-prinsippet?",
+    "answers": [
+      {"answerText": "A) At risikoer alltid kan ignoreres hvis de gir økonomisk fordel.", "isCorrect": false},
+      {"answerText": "B) At enhver handling bør utføres selv om det er fare for alvorlige konsekvenser.", "isCorrect": false},
+      {"answerText": "C) At tiltak bør unngås hvis de kan føre til alvorlige skader, inntil bevis foreligger om at de er trygge.", "isCorrect": true},
+      {"answerText": "D) At forskere alltid må bevise at all aktivitet er helt ufarlig.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva beskriver 'allmenningens tragedie'?",
+    "answers": [
+      {"answerText": "A) At individer alltid prioriterer felleskapets interesser over egne interesser.", "isCorrect": false},
+      {"answerText": "B) At ressurser reguleres best uten restriksjoner.", "isCorrect": false},
+      {"answerText": "C) At individer som bruker en felles ressurs uten restriksjoner, kan overforbruke og ødelegge ressursen for alle.", "isCorrect": false},
+      {"answerText": "D) At ressursen blir overutnyttet fordi individer handler ut fra egeninteresse, noe som fører til at den blir utarmet.", "isCorrect": true}
+    ]
+  },
+  {
+    "questionText": "Hvordan skiller 'techno-think' seg fra 'grønn filosofi'?",
+    "answers": [
+      {"answerText": "A) Techno-think fokuserer på miljøvern, mens grønn filosofi fokuserer på teknologi.", "isCorrect": false},
+      {"answerText": "B) Techno-think legger vekt på teknologiske løsninger og effektivitet, mens grønn filosofi fokuserer på samarbeid med naturen og langsiktig bærekraft.", "isCorrect": true},
+      {"answerText": "C) Grønn filosofi ser teknologi som løsningen på alle miljøproblemer.", "isCorrect": false},
+      {"answerText": "D) Techno-think handler om at ingeniører ikke trenger å ta hensyn til miljø.", "isCorrect": false}
+    ]
+  },
+  {
+    "questionText": "Hva er et eksempel på en ikke-menneskesentrert etisk tilnærming?",
+    "answers": [
+      {"answerText": "A) Sentient-etikk, som fokuserer på alle sansende vesener og deres evne til å føle smerte og glede.", "isCorrect": true},
+      {"answerText": "B) Økonomisk etikk, som fokuserer på menneskelig nytteverdi.", "isCorrect": false},
+      {"answerText": "C) Teknologisk etikk, som kun fokuserer på effektivitet og innovasjon.", "isCorrect": false},
+      {"answerText": "D) Individualetikk, som utelukkende prioriterer menneskets behov.", "isCorrect": false}
+    ]
+  },
+    {
+      "questionText": "Hvordan kan forholdet mellom teknologi og vitenskap forstås?",
+      "answers": [
+        {"answerText": "A) Teknologi og vitenskap må alltid utvikles parallelt for å oppnå fremskritt.", "isCorrect": false},
+        {"answerText": "B) Teknologi og vitenskap er gjensidig avhengige av hverandre for å utvikles.", "isCorrect": false},
+        {"answerText": "C) Teknologi og vitenskap påvirker hverandre, men kan også utvikles uavhengig av hverandre.", "isCorrect": true},
+        {"answerText": "D) Teknologi og vitenskap er to separate områder uten innflytelse på hverandre.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva kjennetegner teknologisk utvikling i det islamske riket og Kina i historisk sammenheng?",
+      "answers": [
+        {"answerText": "A) Teknologien der var utelukkende basert på vitenskapelige teorier.", "isCorrect": false},
+        {"answerText": "B) Teknologisk utvikling skjedde i stor grad uten parallell utvikling av teoretisk vitenskap.", "isCorrect": true},
+        {"answerText": "C) Både teknologi og vitenskap utviklet seg i samme tempo.", "isCorrect": false},
+        {"answerText": "D) Teknologien ble importert uten videre utvikling i disse områdene.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan kan vi forklare opplysningstidens innvirkning på samfunn og vitenskap?",
+      "answers": [
+        {"answerText": "A) Den bygde opp om autoritetstro og gamle strukturer.", "isCorrect": false},
+        {"answerText": "B) Den skapte et skifte mot empirisk bevis og kritisk tenkning, som utfordret eksisterende autoriteter.", "isCorrect": true},
+        {"answerText": "C) Den var hovedsakelig en politisk bevegelse uten innvirkning på vitenskapen.", "isCorrect": false},
+        {"answerText": "D) Den reduserte vitenskapens betydning i samfunnet.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan påvirket den industrielle revolusjonen samfunnets strukturer?",
+      "answers": [
+        {"answerText": "A) Den førte til vekst i økonomien og en ny samfunnsklasse, arbeiderklassen.", "isCorrect": true},
+        {"answerText": "B) Den førte til en svekkelse av byene og fremvekst av landbrukssamfunn.", "isCorrect": false},
+        {"answerText": "C) Den begrenset økonomisk vekst og redusert sosial mobilitet.", "isCorrect": false},
+        {"answerText": "D) Den styrket kun føydalsystemet.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva beskriver teknologisk singularitet?",
+      "answers": [
+        {"answerText": "A) Et punkt hvor teknologisk utvikling avtar betydelig.", "isCorrect": false},
+        {"answerText": "B) En fremtidig tilstand der teknologi utvikles så raskt at mennesker mister evnen til å forstå eller kontrollere den.", "isCorrect": true},
+        {"answerText": "C) En tilstand der mennesker har full kontroll over alle teknologiske fremskritt.", "isCorrect": false},
+        {"answerText": "D) En hypotetisk situasjon hvor teknologi slutter å utvikles.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er formålet med prinsippet om den nedadstigende rekke av tillatelighet?",
+      "answers": [
+        {"answerText": "A) Å sikre at sårbare grupper alltid inkluderes først i forskningen.", "isCorrect": false},
+        {"answerText": "B) Å starte med friske, voksne forsøkspersoner før man eventuelt inkluderer sårbare grupper.", "isCorrect": true},
+        {"answerText": "C) Å eliminere alle restriksjoner på forskningsdeltakelse.", "isCorrect": false},
+        {"answerText": "D) Å bruke sårbare grupper for å oppnå raske resultater i forskningen.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvorfor har den nedadstigende rekke av tillatelighet blitt viktig i medisinsk forskning?",
+      "answers": [
+        {"answerText": "A) For å øke forskningshastigheten ved å bruke sårbare grupper først.", "isCorrect": false},
+        {"answerText": "B) For å beskytte sårbare grupper mot å bli utnyttet unødvendig i forskning.", "isCorrect": true},
+        {"answerText": "C) For å gi forskere mer kontroll over forskningsprosessen.", "isCorrect": false},
+        {"answerText": "D) For å sikre at ingen friske personer deltar i forskning.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er en hovedforsvarslinje i forskningsetikk ifølge Knut W. Ruyter?",
+      "answers": [
+        {"answerText": "A) Forskerens ansvar for å beskytte forsøkspersonenes sikkerhet og integritet.", "isCorrect": true},
+        {"answerText": "B) Offentlighetens ansvar for å overvåke forskning.", "isCorrect": false},
+        {"answerText": "C) Fravær av uavhengige vurderinger av forskningsprosjekter.", "isCorrect": false},
+        {"answerText": "D) Redusert informasjonsdeling med forskningsdeltakere.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er passivt ansvar?",
+      "answers": [
+        {"answerText": "A) Ansvar som tas før noe har skjedd.", "isCorrect": false},
+        {"answerText": "B) Ansvar som innebærer å ta ansvar for handlinger i ettertid, når noe allerede har skjedd.", "isCorrect": true},
+        {"answerText": "C) Ansvar som kun gjelder for tekniske avgjørelser.", "isCorrect": false},
+        {"answerText": "D) Ansvar som ikke krever noen form for handling.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Under hvilke betingelser kan en person sies å være klanderverdig ifølge van de Poel & Royakkers?",
+      "answers": [
+        {"answerText": "A) Ved manglende kunnskap om konsekvensene av handlingen.", "isCorrect": false},
+        {"answerText": "B) Ved fullstendig fravær av intensjon om å handle korrekt.", "isCorrect": false},
+        {"answerText": "C) Når personen har handlet feil, bidratt kausalt, kunne forutsett konsekvensene og hadde handlefrihet.", "isCorrect": true},
+        {"answerText": "D) Når personen jobbet innen ingeniørfaget uten nødvendige kvalifikasjoner.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva innebærer separatismen i ingeniørfaget?",
+      "answers": [
+        {"answerText": "A) At ingeniører kun tar ansvar for tekniske aspekter, mens moralske og verdibaserte beslutninger overlates til ledere og politikere.", "isCorrect": true},
+        {"answerText": "B) At ingeniører har det overordnede ansvaret for alle deler av prosjektet.", "isCorrect": false},
+        {"answerText": "C) At brukerne har det tekniske ansvaret for prosjektet.", "isCorrect": false},
+        {"answerText": "D) At ingeniører avgjør både tekniske og politiske målsettinger.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er en vanlig innvending mot teknokrati som styringsform?",
+      "answers": [
+        {"answerText": "A) Teknokrati er alltid fullstendig demokratisk.", "isCorrect": false},
+        {"answerText": "B) Teknokrati anses som udemokratisk og paternalistisk fordi beslutninger tas av eksperter på vegne av andre.", "isCorrect": true},
+        {"answerText": "C) Teknokrati gir for stor makt til offentlige institusjoner.", "isCorrect": false},
+        {"answerText": "D) Teknokrati er alltid ineffektivt.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva kjennetegner svak bærekraft?",
+      "answers": [
+        {"answerText": "A) At økonomisk kapital alltid prioriteres over miljøhensyn.", "isCorrect": false},
+        {"answerText": "B) At miljøkapital kan erstattes av økonomisk kapital når fordelene anses som tilstrekkelige.", "isCorrect": true},
+        {"answerText": "C) At miljøet må beskyttes for enhver pris.", "isCorrect": false},
+        {"answerText": "D) At ingen kompromisser gjøres med hensyn til miljø.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva betyr føre-var-prinsippet?",
+      "answers": [
+        {"answerText": "A) Å alltid tillate aktiviteter uansett risiko.", "isCorrect": false},
+        {"answerText": "B) Å unngå tiltak som kan forårsake alvorlige skader, inntil det kan dokumenteres at de er trygge.", "isCorrect": true},
+        {"answerText": "C) Å alltid tillate aktiviteter med store økonomiske fordeler.", "isCorrect": false},
+        {"answerText": "D) Å fjerne alle reguleringer rundt forskning.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er 'allmenningens tragedie'?",
+      "answers": [
+        {"answerText": "A) At individer alltid prioriterer fellesskapets interesser over sine egne.", "isCorrect": false},
+        {"answerText": "B) At felles ressurser brukes ubegrenset uten konsekvenser.", "isCorrect": false},
+        {"answerText": "C) At ressursene blir overutnyttet fordi individer handler ut fra egeninteresse, noe som fører til ressursens utarming.", "isCorrect": true},
+        {"answerText": "D) At fellesskapets ressurser alltid reguleres godt.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hvordan defineres 'techno-think' i ingeniørfaglig sammenheng?",
+      "answers": [
+        {"answerText": "A) Som en tilnærming som fokuserer på teknologiens kontroll og effektivitet for å løse problemer.", "isCorrect": true},
+        {"answerText": "B) Som en tilnærming som alltid setter miljøet først.", "isCorrect": false},
+        {"answerText": "C) Som en tilnærming der teknologi anses som unødvendig.", "isCorrect": false},
+        {"answerText": "D) Som en tilnærming der menneskelige behov ignoreres.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva innebærer grønn filosofi?",
+      "answers": [
+        {"answerText": "A) At teknologiske løsninger er det eneste som kan løse miljøutfordringer.", "isCorrect": false},
+        {"answerText": "B) En helhetlig tilnærming som vektlegger respekt og hensyn til naturen, og ser miljøet som grunnleggende for bærekraft.", "isCorrect": true},
+        {"answerText": "C) En filosofisk retning som avviser alle teknologiske fremskritt.", "isCorrect": false},
+        {"answerText": "D) En tilnærming som utelukkende fokuserer på økonomiske gevinster.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva er sentient-etikk?",
+      "answers": [
+        {"answerText": "A) En etisk tilnærming som kun fokuserer på menneskers behov.", "isCorrect": false},
+        {"answerText": "B) En etikk som anerkjenner at alle vesener med evne til å føle smerte og glede har moralsk verdi.", "isCorrect": true},
+        {"answerText": "C) En etikk som kun vurderer ikke-levende natur som viktig.", "isCorrect": false},
+        {"answerText": "D) En etisk retning som fokuserer på økonomisk nytte.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva kjennetegner biocentrisk etikk?",
+      "answers": [
+        {"answerText": "A) En etikk som vektlegger kun mennesker som moralsk verdifulle.", "isCorrect": false},
+        {"answerText": "B) En etisk tilnærming som ser alle levende organismer som verdifulle, uavhengig av deres følelsevne.", "isCorrect": true},
+        {"answerText": "C) En etikk som kun prioriterer økonomisk gevinst over miljøhensyn.", "isCorrect": false},
+        {"answerText": "D) En etikk som anser teknologisk utvikling som overordnet.", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText": "Hva står økosentrisk etikk for?",
+      "answers": [
+        {"answerText": "A) En etikk som kun fokuserer på menneskelige interesser.", "isCorrect": false},
+        {"answerText": "B) En etisk retning som utvider ansvar til hele økosystemer og fokuserer på naturens integritet og stabilitet.", "isCorrect": true},
+        {"answerText": "C) En etikk som vurderer teknologi som det viktigste verktøyet for bærekraft.", "isCorrect": false},
+        {"answerText": "D) En tilnærming som utelukkende fokuserer på økonomisk bærekraft.", "isCorrect": false}
+      ]
+    }
+  ]

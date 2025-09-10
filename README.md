@@ -1,31 +1,75 @@
-# Multiple Choice Machine (GUI)
+# Multiple Choice Machine
 
-A lightweight, modern JavaFX GUI for practicing multiple-choice questions loaded from JSON. Clean styling with a darker grey background, progress bar, keyboard shortcuts, and a summary screen with statistics.
+A multiple-choice quiz application with **two implementations** showcasing different technologies:
 
-## Features
-- Modern JavaFX UI
-- Shuffled questions from bundled JSON files (default: `alleOS_labeled.json`)
-- Progress indicator and bar
-- Keyboard shortcuts: A, B, C, D to select; Enter to submit
-- Immediate feedback with correct/incorrect highlighting
-- Summary with pie chart, score, time, and review of incorrect answers
-- Restart and Close actions
+## 🖥️ Desktop Version (JavaFX)
+- **Location**: `src/main/java/` 
+- **Tech Stack**: Java 21, JavaFX, Maven, Jackson JSON
+- **Features**: Modern GUI with darker grey background, progress bar, keyboard shortcuts (A-D, Enter), immediate feedback, summary with pie chart and statistics
+- **Best for**: Offline use, desktop applications, Java portfolio pieces
 
-## Requirements
-- Java 21+
-- Maven 3.8+
+## 🌐 Web Version (Next.js)
+- **Location**: `web/`
+- **Tech Stack**: Next.js 15, TypeScript, Tailwind CSS
+- **Features**: Responsive web UI, dataset selector, progress tracking, statistics summary, deployable to Vercel
+- **Best for**: Online sharing, web portfolios, easy deployment
 
-Check your Java version:
+## Shared Features
+- Shuffled questions from JSON datasets
+- Progress tracking and statistics
+- Review of incorrect answers
+- Multiple question sets (alleOS, kompendium, bærekraft, etc.)
+
+## Quick Start
+
+### Desktop Version (JavaFX)
+**Requirements**: Java 21+, Maven 3.8+
+
 ```bash
+# Check Java version
 java -version
-```
 
-## Run the App
-From the project root:
-```bash
+# Run desktop app
 mvn javafx:run
 ```
-Note (macOS): You might see a log warning about app reactivation; the window still opens. If it doesn’t pop front, click it in the Dock.
+*Note (macOS): You might see a log warning about app reactivation; the window still opens.*
+
+### Web Version (Next.js)
+**Requirements**: Node.js 18+
+
+```bash
+# Navigate to web folder
+cd web
+
+# Install dependencies (first time only)
+npm install
+
+# Run development server
+npm run dev
+```
+*Open http://localhost:3000 in your browser*
+
+## Web Version (Next.js for Vercel)
+A deployable web version is in `web/` (Next.js + TypeScript). It loads the same JSON datasets from `public/`.
+
+- Dev:
+```bash
+cd web
+npm run dev
+```
+
+- Build:
+```bash
+cd web
+npm run build
+npm start
+```
+
+- Deploy to Vercel:
+  1) Install the Vercel CLI: `npm i -g vercel`
+  2) From `web/`: `vercel` (or connect the repo in the Vercel dashboard)
+  3) Framework preset: Next.js; Build command: `npm run build`; Output: `.next`
+  4) Datasets in `web/public/*.json` will be served as `/<file>.json`
 
 ## Build
 Compile without running tests:
