@@ -24,8 +24,40 @@ export default function Home() {
   const [startedAt, setStartedAt] = useState<number>(() => Date.now());
   const [submitted, setSubmitted] = useState(false);
   const [feedback, setFeedback] = useState<string>("");
+  // Sample questions for testing - replace with file loading later
+  const sampleQuestions: Question[] = [
+    {
+      questionText: "What best describes the main function of an operating system?",
+      answers: [
+        { answerText: "A) Allow user programs to directly control the CPU", isCorrect: false },
+        { answerText: "B) Manage system resources and provide a set of services to user programs", isCorrect: true },
+        { answerText: "C) Allow user programs to manage system resources directly", isCorrect: false },
+        { answerText: "D) Boot the system and hand over control of the keyboard and mouse to user programs", isCorrect: false }
+      ]
+    },
+    {
+      questionText: "Which of the following is NOT a function of an operating system?",
+      answers: [
+        { answerText: "A) Memory management", isCorrect: false },
+        { answerText: "B) Process scheduling", isCorrect: false },
+        { answerText: "C) Web browsing", isCorrect: true },
+        { answerText: "D) File system management", isCorrect: false }
+      ]
+    },
+    {
+      questionText: "What is the primary purpose of a file system?",
+      answers: [
+        { answerText: "A) To store and organize data on storage devices", isCorrect: true },
+        { answerText: "B) To manage network connections", isCorrect: false },
+        { answerText: "C) To control CPU operations", isCorrect: false },
+        { answerText: "D) To handle user authentication", isCorrect: false }
+      ]
+    }
+  ];
+
   const datasets = useMemo(
     () => [
+      { file: "sample", label: "Sample Questions (Demo)" },
       { file: "alleOS_labeled.json", label: "alleOS_labeled" },
       { file: "alleOS.json", label: "alleOS" },
       { file: "kompendium.json", label: "kompendium" },
@@ -37,36 +69,42 @@ export default function Home() {
     ],
     []
   );
-  const [dataset, setDataset] = useState<string>(datasets[0]?.file ?? "alleOS_labeled.json");
+  const [dataset, setDataset] = useState<string>(datasets[0]?.file ?? "sample");
 
   useEffect(() => {
     async function load() {
       try {
-        // Try multiple paths to find the JSON file
-        const paths = [
-          `/${dataset}`,
-          `./${dataset}`,
-          dataset
-        ];
+        let data: Question[];
         
-        let res: Response | null = null;
-        let lastError: Error | null = null;
-        
-        for (const path of paths) {
-          try {
-            res = await fetch(path, { cache: "no-store" });
-            if (res.ok) break;
-          } catch (error) {
-            lastError = error as Error;
-            continue;
+        if (dataset === "sample") {
+          // Use embedded sample questions
+          data = sampleQuestions;
+        } else {
+          // Try multiple paths to find the JSON file
+          const paths = [
+            `/${dataset}`,
+            `./${dataset}`,
+            dataset
+          ];
+          
+          let res: Response | null = null;
+          
+          for (const path of paths) {
+            try {
+              res = await fetch(path, { cache: "no-store" });
+              if (res.ok) break;
+            } catch (error) {
+              continue;
+            }
           }
+          
+          if (!res || !res.ok) {
+            throw new Error(`Failed to load dataset: ${res?.status} ${res?.statusText} - Tried paths: ${paths.join(', ')}`);
+          }
+          
+          data = await res.json();
         }
         
-        if (!res || !res.ok) {
-          throw new Error(`Failed to load dataset: ${res?.status} ${res?.statusText} - Tried paths: ${paths.join(', ')}`);
-        }
-        
-        const data: Question[] = await res.json();
         if (!Array.isArray(data) || data.length === 0) {
           throw new Error("Invalid or empty dataset");
         }
@@ -86,7 +124,7 @@ export default function Home() {
       }
     }
     load();
-  }, [dataset]);
+  }, [dataset, sampleQuestions]);
 
   const total = questions?.length ?? 0;
   const question = questions?.[idx] ?? null;
