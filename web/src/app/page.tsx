@@ -26,32 +26,44 @@ export default function Home() {
   const [feedback, setFeedback] = useState<string>("");
   const datasets = useMemo(
     () => [
-      { file: "/alleOS_labeled.json", label: "alleOS_labeled" },
-      { file: "/alleOS.json", label: "alleOS" },
-      { file: "/kompendium.json", label: "kompendium" },
-      { file: "/bærekraft.json", label: "bærekraft" },
-      { file: "/oldies_generell.json", label: "oldies_generell" },
-      { file: "/questions_1&2.json", label: "questions_1&2" },
-      { file: "/questions_3.json", label: "questions_3" },
-      { file: "/questions_4&5.json", label: "questions_4&5" },
+      { file: "alleOS_labeled.json", label: "alleOS_labeled" },
+      { file: "alleOS.json", label: "alleOS" },
+      { file: "kompendium.json", label: "kompendium" },
+      { file: "bærekraft.json", label: "bærekraft" },
+      { file: "oldies_generell.json", label: "oldies_generell" },
+      { file: "questions_1&2.json", label: "questions_1&2" },
+      { file: "questions_3.json", label: "questions_3" },
+      { file: "questions_4&5.json", label: "questions_4&5" },
     ],
     []
   );
-  const [dataset, setDataset] = useState<string>(datasets[0]?.file ?? "/alleOS_labeled.json");
+  const [dataset, setDataset] = useState<string>(datasets[0]?.file ?? "alleOS_labeled.json");
 
   useEffect(() => {
     async function load() {
       try {
-        // Try the dataset path first
-        let res = await fetch(dataset, { cache: "no-store" });
+        // Try multiple paths to find the JSON file
+        const paths = [
+          `/${dataset}`,
+          `./${dataset}`,
+          dataset
+        ];
         
-        // If that fails, try with a relative path (for Vercel)
-        if (!res.ok && dataset.startsWith('/')) {
-          res = await fetch(`.${dataset}`, { cache: "no-store" });
+        let res: Response | null = null;
+        let lastError: Error | null = null;
+        
+        for (const path of paths) {
+          try {
+            res = await fetch(path, { cache: "no-store" });
+            if (res.ok) break;
+          } catch (error) {
+            lastError = error as Error;
+            continue;
+          }
         }
         
-        if (!res.ok) {
-          throw new Error(`Failed to load dataset: ${res.status} ${res.statusText}`);
+        if (!res || !res.ok) {
+          throw new Error(`Failed to load dataset: ${res?.status} ${res?.statusText} - Tried paths: ${paths.join(', ')}`);
         }
         
         const data: Question[] = await res.json();
@@ -131,9 +143,12 @@ export default function Home() {
   if (questions.length === 0) {
     return (
       <div className="min-h-screen bg-neutral-100 text-neutral-900 flex items-center justify-center p-6">
-        <div className="text-center">
+        <div className="text-center max-w-md">
           <div className="text-lg mb-2 text-red-600">Failed to load questions</div>
-          <div className="text-sm text-neutral-600 mb-4">Could not load dataset: {dataset}</div>
+          <div className="text-sm text-neutral-600 mb-2">Could not load dataset: {dataset}</div>
+          <div className="text-xs text-neutral-500 mb-4">
+            Tried paths: /{dataset}, ./{dataset}, {dataset}
+          </div>
           <button 
             onClick={() => window.location.reload()} 
             className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700"
