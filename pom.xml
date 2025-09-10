@@ -49,7 +49,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.8</version>
                 <configuration>
-                    <mainClass>ui</mainClass>
+                    <mainClass>org.shizaadiv.QuizApp</mainClass>
                 </configuration>
             </plugin>
         </plugins>
