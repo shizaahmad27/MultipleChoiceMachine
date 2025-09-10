@@ -41,17 +41,25 @@ export default function Home() {
 
   useEffect(() => {
     async function load() {
-      const res = await fetch(dataset, { cache: "no-store" });
-      const data: Question[] = await res.json();
-      setQuestions(shuffle(data));
-      setStartedAt(Date.now());
-      setIdx(0);
-      setSelected(null);
-      setCorrectCount(0);
-      setIncorrectCount(0);
-      setResults([]);
-      setSubmitted(false);
-      setFeedback("");
+      try {
+        const res = await fetch(dataset, { cache: "no-store" });
+        if (!res.ok) {
+          throw new Error(`Failed to load dataset: ${res.status} ${res.statusText}`);
+        }
+        const data: Question[] = await res.json();
+        setQuestions(shuffle(data));
+        setStartedAt(Date.now());
+        setIdx(0);
+        setSelected(null);
+        setCorrectCount(0);
+        setIncorrectCount(0);
+        setResults([]);
+        setSubmitted(false);
+        setFeedback("");
+      } catch (error) {
+        console.error("Error loading questions:", error);
+        setQuestions([]);
+      }
     }
     load();
   }, [dataset]);
@@ -100,7 +108,27 @@ export default function Home() {
   if (questions === null) {
     return (
       <div className="min-h-screen bg-neutral-100 text-neutral-900 flex items-center justify-center p-6">
-        Loading questions...
+        <div className="text-center">
+          <div className="text-lg mb-2">Loading questions...</div>
+          <div className="text-sm text-neutral-600">Fetching from {dataset}</div>
+        </div>
+      </div>
+    );
+  }
+
+  if (questions.length === 0) {
+    return (
+      <div className="min-h-screen bg-neutral-100 text-neutral-900 flex items-center justify-center p-6">
+        <div className="text-center">
+          <div className="text-lg mb-2 text-red-600">Failed to load questions</div>
+          <div className="text-sm text-neutral-600 mb-4">Could not load dataset: {dataset}</div>
+          <button 
+            onClick={() => window.location.reload()} 
+            className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700"
+          >
+            Retry
+          </button>
+        </div>
       </div>
     );
   }

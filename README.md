@@ -20,7 +20,7 @@ A multiple-choice quiz application with **two implementations** showcasing diffe
 - Review of incorrect answers
 - Multiple question sets (alleOS, kompendium, bærekraft, etc.)
 
-## Quick Start
+git ## Quick Start
 
 ### Desktop Version (JavaFX)
 **Requirements**: Java 21+, Maven 3.8+
